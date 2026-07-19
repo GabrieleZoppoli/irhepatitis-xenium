@@ -10,8 +10,8 @@ irhepatitis-xenium/
 ├── methods/                        # methods text
 ├── figures/
 │   ├── main/                       # Figure 1, Figure 2 (PDF + PNG)
-│   └── supplementary/              # Supp Fig S1–S3
-├── tables/supplementary/           # Tables S2–S12
+│   └── supplementary/              # Supp Fig S1–S5
+├── tables/supplementary/           # Tables S1–S12
 ├── scripts/
 │   ├── config.R / config.py        # central paths, sample IDs
 │   ├── env/{xenium_env,commot_env}.yml
@@ -52,7 +52,7 @@ bash scripts/run_full_pipeline.sh
 | 1. Giotto normalisation, clustering, spatial networks | `01_giotto_normalize_cluster.R`, `01a_add_spatial_networks.R`, `02_cluster_config.R` | 1–2 h |
 | 2. Figure 1 build + H&E overviews | `03_figure_1_main.R`, `03b_sample_he_overviews.py` | minutes |
 | 3. Panel A proximity (1,000 perms) | `04_panel_a_proximity_compute.R`, `04a_panel_a_proximity_heatmap.R`, `04b_panel_a_panel_only.R` | 30 min |
-| 4. Panel B CellChat per-sample | `05_panel_b_cellchat.R`, `05e_cellchat_coherent_reshape.R` | 40 min |
+| 4. Panel B CellChat per-sample | `05_panel_b_cellchat.R` | 40 min |
 | 5. Panel B LIANA+ per-sample | `05a_panel_b_liana.R` | 5 min |
 | 6. Panel B COMMOT per-sample | `05b_panel_b_commot.py` | **~19 h on 54023_b** |
 | 7. COMMOT aggregator + cross-reference | `05c_panel_b_commot_aggregate.R`, `05d_panel_b_commot_crossref.R` | 5 min |
@@ -60,7 +60,7 @@ bash scripts/run_full_pipeline.sh
 | 9. Panel C H&E extract | `07_panel_c_he_extract.R`, `07a_panel_c_he_extract.py` | 5 min |
 | 10. Panel C ROI build + auxiliaries | `08_panel_c_rois.R`, `08a_panel_c_score_distribution.R`, `08b_panel_c_close_apposition_counts.R` | <1 min |
 | 11. Figure 2 assembly | `09_figure_2_assembled.R` | <1 min |
-| 12. Supplementary analyses | `10_*`–`15_*` (H&E lens, proximity permutation, morphometry, cluster-size sensitivity, BH FDR, Giotto extras) | ~1 h |
+| 12. Supplementary analyses | `10_*`, `11_*`, `13_*`–`15_*` (H&E lens ROIs, proximity permutation, cluster-size sensitivity, BH FDR, Giotto/TRM/IFN extras) | ~1 h |
 
 ## Software
 

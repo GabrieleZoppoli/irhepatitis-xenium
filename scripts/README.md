@@ -25,15 +25,16 @@ export IRHEP_BUNDLE_ROOT=/path/to/irhepatitis-xenium
 | 07 | `07_panel_c_he_extract.R` | Wrapper that writes ROI config JSON and calls Python H&E crop pipeline | ROI coords (in script) + raw Xenium H&E pyramids | per-ROI H&E PNGs |
 | 07a | `07a_panel_c_he_extract.py` | Affine-warp Xenium-aligned H&E into Giotto coordinate space; outputs 600×600 px crops at 0.85 µm/px | H&E pyramids + `he_alignment/matrix.csv` | per-ROI H&E PNGs |
 | 08 | `08_panel_c_rois.R` | Panel C build: 4 representative ROIs (2 anatomy rows × 2 condition columns) with row-specific selective highlighting | `session_snapshot.RData` + cluster boundaries + H&E crops | Panel C PDF/PNG |
-| 08a | `08a_panel_c_score_distribution.R` | Supplementary Fig S2: distribution of all sliding-bin Chol+CD8T2/T3 scores per sample with chosen ROIs marked | `scan_*_chol_cd8t23.csv` | `figure_S_panelC_score_distribution.pdf` |
+| 08a | `08a_panel_c_score_distribution.R` | ROI-selection diagnostic: distribution of all sliding-bin Chol+CD8T2/T3 scores per sample with the chosen ROIs marked | `scan_*_chol_cd8t23.csv` | `figure_S_panelC_score_distribution.pdf` |
 | 09 | `09_figure_2_assembled.R` | Compose Figure 2 from Panel A, B, C panels | per-panel PNGs | `figures/main/Figure_2.pdf` |
 | 10 | `10_supp_he_lens_rois.R` | Supplementary 600 µm "lens" ROI panels for Figure 1 (full cluster palette) | `session_snapshot.RData` + H&E crops | Supp lens ROI panels |
 | 10a | `10a_supp_he_lens_extract.py` | H&E crop extractor for Fig 1 lens panels | H&E pyramids | per-sample H&E crops |
 | 11 | `11_supp_proximity_permutation.R` | Per-sample proximity raw enrichment + permutation diagnostics (supplement to Panel A) | `session_snapshot.RData` | per-sample proximity tables |
-| 12 | `12_supp_morphology.R` | Supplementary morphology/H&E QC | H&E pyramids + segmentation | morphology figures |
-| 12a | `12a_supp_morphometry.R` | Per-cluster morphometric features (cell area, nuclear area, nuclear-to-cytoplasm ratio) | `session_snapshot.RData` | morphometry CSV |
-| 12b | `12b_supp_morphology_crops.py` | H&E crop generator for the supplementary morphometry panels | H&E pyramids | morphology crops |
-| 12c | `12c_supp_morphology_report.R` | Compile morphometry results into a supplementary report figure | morphometry CSV | morphology report PDF |
+| 13 | `13_supp_cluster_size_sensitivity.R` | Cluster-size sensitivity of the Figure 2B CCC flows at n≥30 / n≥50 (Table S9) | `cellchat_coherent_interactions.csv` | `Table_S9_*.csv` |
+| 14 | `14_supp_perm_BH_FDR.R` | Fisher-combined per-sample CellChat permutation p-values, BH-adjusted (Table S10) | per-sample CellChat p-values | `Table_S10_*.csv` |
+| 15 | `15_supp_giotto_analyses.R` | Exhaustion/TRM marker expression and clustering-stability analyses (Tables S11, S12/S12b/S12c; Fig S3) | `session_snapshot.RData` | supplementary tables + Fig S3 |
+| 15a | `15a_supp_cd8t1_trm_signature.R` | Multi-marker TRM signature across CD8 sub-clusters (Table S11b, Fig S4) | `session_snapshot.RData` | `Table_S11b_*.csv`, Fig S4 |
+| 15b | `15b_supp_ifn_response_score.R` | Cholangiocyte IFN-response composite score (Tables S11c–S11c3, Fig S5) | `session_snapshot.RData` | `Table_S11c*_*.csv`, Fig S5 |
 
 ## Conventions
 
