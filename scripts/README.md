@@ -34,7 +34,7 @@ export IRHEP_BUNDLE_ROOT=/path/to/irhepatitis-xenium
 | 14 | `14_supp_perm_BH_FDR.R` | Fisher-combined per-sample CellChat permutation p-values, BH-adjusted (Table S10) | per-sample CellChat p-values | `Table_S10_*.csv` |
 | 15 | `15_supp_giotto_analyses.R` | Exhaustion/TRM marker expression and clustering-stability analyses (Tables S11, S12/S12b/S12c; Fig S3) | `session_snapshot.RData` | supplementary tables + Fig S3 |
 | 15a | `15a_supp_cd8t1_trm_signature.R` | Multi-marker TRM signature across CD8 sub-clusters (Table S11b, Fig S4) | `session_snapshot.RData` | `Table_S11b_*.csv`, Fig S4 |
-| 15b | `15b_supp_ifn_response_score.R` | Cholangiocyte IFN-response composite score (Tables S11c–S11c3, Fig S5) | `session_snapshot.RData` | `Table_S11c*_*.csv`, Fig S5 |
+| 15b | `15b_supp_ifn_response_score.R` | Cholangiocyte IFN-response composite score (Tables S11c/S11c2/S11c3, Fig S5) | `session_snapshot.RData` | `Table_S11c*_*.csv`, Fig S5 |
 
 ## Conventions
 
