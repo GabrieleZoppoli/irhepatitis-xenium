@@ -1,0 +1,184 @@
+================================================================
+  COMMOT ↔ CellChat cross-reference (Panel B)
+  Generated: 2026-05-13 13:17:11 
+================================================================
+
+CellChat coherent interactions:        47
+  (39 AIH-enriched, 8 irHep-enriched)
+COMMOT strict coherent L-R triples:    1875
+COMMOT pathway coherent triples:       839
+
+Per-direction agreement (CellChat → confirmed by matching COMMOT triple):
+   direction     N any_confirmed pair_confirmed pathway_confirmed
+      <char> <int>         <int>          <int>             <int>
+1:     irHep     8             4              4                 2
+2:       AIH    39             5              5                 0
+   pair_coherent_opposite pair_matches_any_direction
+                    <int>                      <int>
+1:                      1                          5
+2:                      7                         12
+
+Per-pathway agreement (CellChat → COMMOT any-match):
+Key: <pathway_label>
+    pathway_label     N confirmed
+           <char> <int>     <int>
+ 1:      CCL_CCR1     6         3
+ 2:      CCL_CCR4     1         0
+ 3:      CCL_CCR5     2         0
+ 4:      CCL_CCR7     1         0
+ 5:          CD40     3         0
+ 6:          CD80     1         0
+ 7:          CD86     1         0
+ 8:        CEACAM     1         0
+ 9:           CSF     3         0
+10:    CXCL_CXCR2     1         0
+11:    CXCL_CXCR3     5         0
+12:    CXCL_CXCR4     1         0
+13:    CXCL_CXCR6     2         0
+14:         FASLG     2         0
+15:           FN1     8         3
+16:          ICOS     2         0
+17:    MHC-I_CD8A     3         2
+18:    MHC-I_CD8B     3         0
+19:          VEGF     1         1
+
+CellChat coherent interactions NOT confirmed by COMMOT:
+                         source                         target pathway_label
+                         <char>                         <char>        <char>
+ 1:                Hepatocyte 3                    CD4+ T cell    MHC-I_CD8A
+ 2:                 IgM+ B cell IgG+ plasmablast / plasma cell    CXCL_CXCR4
+ 3:               Cholangiocyte                  CD8+ T cell 3    CXCL_CXCR3
+ 4:               Cholangiocyte                  CD8+ T cell 3    MHC-I_CD8B
+ 5:               Cholangiocyte                  CD8+ T cell 2    MHC-I_CD8B
+ 6:                 IgM+ B cell    Sinusoidal endothelial cell          CD80
+ 7:                Hepatocyte 1                    CD4+ T cell      CCL_CCR5
+ 8:               CD8+ T cell 2                  Cholangiocyte         FASLG
+ 9:               CD8+ T cell 2                  Cholangiocyte           FN1
+10:               Cholangiocyte                  CD8+ T cell 3           CSF
+11:                Hepatocyte 1                    CD4+ T cell          ICOS
+12:               Cholangiocyte                  CD8+ T cell 3    CXCL_CXCR2
+13:                Hepatocyte 1                    CD4+ T cell      CCL_CCR1
+14:                 IgG+ B cell                  CD8+ T cell 2    MHC-I_CD8B
+15:                Hepatocyte 3                    CD4+ T cell    CXCL_CXCR3
+16:                 CD4+ T cell                   Hepatocyte 1          CD40
+17:                Hepatocyte 3                    IgM+ B cell           FN1
+18: Sinusoidal endothelial cell                    CD4+ T cell      CCL_CCR5
+19:               CD8+ T cell 2      Vascular endothelial cell         FASLG
+20:               Cholangiocyte                  CD8+ T cell 3           FN1
+21: Sinusoidal endothelial cell                    CD4+ T cell    CXCL_CXCR3
+22: Sinusoidal endothelial cell                    IgM+ B cell           CSF
+23: Sinusoidal endothelial cell                    CD4+ T cell      CCL_CCR7
+24: Sinusoidal endothelial cell                    CD4+ T cell    CXCL_CXCR6
+25:               Cholangiocyte                  CD8+ T cell 2        CEACAM
+26:                 CD4+ T cell    Sinusoidal endothelial cell          CD40
+27: Sinusoidal endothelial cell                    CD4+ T cell           CSF
+28:                Hepatocyte 1                    CD4+ T cell    CXCL_CXCR6
+29:                Hepatocyte 2                    CD4+ T cell    CXCL_CXCR3
+30:                 CD4+ T cell                   Hepatocyte 2          CD40
+31:                Hepatocyte 1                    CD4+ T cell    CXCL_CXCR3
+32:                Hepatocyte 2                    CD4+ T cell          ICOS
+33: Sinusoidal endothelial cell                    CD4+ T cell      CCL_CCR4
+34:                Hepatocyte 2                    CD4+ T cell      CCL_CCR1
+35: Sinusoidal endothelial cell                    CD4+ T cell          CD86
+36:              Ig+ hepatocyte                    IgM+ B cell      CCL_CCR1
+37:              Ig+ hepatocyte                    IgM+ B cell           FN1
+38:               Cholangiocyte                  CD8+ T cell 2           FN1
+                         source                         target pathway_label
+                         <char>                         <char>        <char>
+    direction     log2FC                         commot_pairs_match
+       <char>      <num>                                     <char>
+ 1:     irHep  7.0190210                                 HLA-B-CD8A
+ 2:     irHep  6.8888030                                           
+ 3:     irHep  3.5669396                                           
+ 4:     irHep  0.2152932                                           
+ 5:       AIH -0.4007406                                           
+ 6:       AIH -0.7907771                                           
+ 7:       AIH -0.9295083                                           
+ 8:       AIH -1.1451058                                           
+ 9:       AIH -1.1944221                          FN1-CD44|FN1-SDC1
+10:       AIH -1.3634057                                 CSF1-CSF1R
+11:       AIH -1.9965894                                           
+12:       AIH -2.0037072                                           
+13:       AIH -2.2957901 CCL5-CCR1|CCL15-CCR1|CCL16-CCR1|CCL14-CCR1
+14:       AIH -2.3429288                                           
+15:       AIH -2.4852749                                           
+16:       AIH -2.5386109                                           
+17:       AIH -2.5841093                          FN1-CD44|FN1-SDC1
+18:       AIH -2.6459907                                           
+19:       AIH -2.6694202                                           
+20:       AIH -2.8329352                          FN1-CD44|FN1-SDC1
+21:       AIH -2.9665607                                           
+22:       AIH -3.0183884                                 CSF1-CSF1R
+23:       AIH -3.0492227                                           
+24:       AIH -3.0635027                                           
+25:       AIH -3.1878642                                           
+26:       AIH -3.5538162                                           
+27:       AIH -3.5925911                                 CSF1-CSF1R
+28:       AIH -3.8301307                                           
+29:       AIH -4.2923421                                           
+30:       AIH -4.3055320                                           
+31:       AIH -4.6969906                                           
+32:       AIH -4.8665395                                           
+33:       AIH -4.9855026                                           
+34:       AIH -5.7203559 CCL5-CCR1|CCL15-CCR1|CCL16-CCR1|CCL14-CCR1
+35:       AIH -7.6646392                                           
+36:       AIH -7.8954350 CCL5-CCR1|CCL15-CCR1|CCL16-CCR1|CCL14-CCR1
+37:       AIH -9.1861339                          FN1-CD44|FN1-SDC1
+38:       AIH -9.9392921                          FN1-CD44|FN1-SDC1
+    direction     log2FC                         commot_pairs_match
+       <char>      <num>                                     <char>
+    commot_pathway_match
+                  <char>
+ 1:                 <NA>
+ 2:                 <NA>
+ 3:                 <NA>
+ 4:                 <NA>
+ 5:                 <NA>
+ 6:                 <NA>
+ 7:                  CCL
+ 8:                 <NA>
+ 9:                  FN1
+10:                  CSF
+11:                 <NA>
+12:                 <NA>
+13:                  CCL
+14:                 <NA>
+15:                 <NA>
+16:                 <NA>
+17:                  FN1
+18:                  CCL
+19:                 <NA>
+20:                  FN1
+21:                 <NA>
+22:                  CSF
+23:                  CCL
+24:                 <NA>
+25:                 <NA>
+26:                 <NA>
+27:                  CSF
+28:                 <NA>
+29:                 <NA>
+30:                 <NA>
+31:                 <NA>
+32:                 <NA>
+33:                  CCL
+34:                  CCL
+35:                 <NA>
+36:                  CCL
+37:                  FN1
+38:                  FN1
+    commot_pathway_match
+                  <char>
+
+CellChat coherent interactions CONFIRMED by COMMOT:
+                        source        target pathway_label direction    log2FC
+                        <char>        <char>        <char>    <char>     <num>
+1:               CD8+ T cell 3 Cholangiocyte    MHC-I_CD8A     irHep  8.991357
+2:               CD8+ T cell 2 Cholangiocyte    MHC-I_CD8A     irHep  8.245157
+3:               Cholangiocyte CD8+ T cell 2          VEGF     irHep  7.152752
+4:   Vascular endothelial cell CD8+ T cell 2      CCL_CCR1     irHep  3.105839
+5:                Hepatocyte 2   CD4+ T cell           FN1       AIH -1.559700
+6:                Hepatocyte 1   CD4+ T cell           FN1       AIH -1.579967
+7:                Hepatocyte 3   CD4+ T cell           FN1       AIH -1.862129
+8: Sinusoidal endothelial cell   CD4+ T cell      CCL_CCR1       AIH -2.374858
+9: Sinusoidal endothelial cell   IgM+ B cell      CCL_CCR1       AIH -2.827439

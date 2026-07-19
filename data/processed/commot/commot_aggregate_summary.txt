@@ -1,0 +1,282 @@
+================================================================
+  COMMOT aggregate summary
+  Generated: 2026-05-13 13:16:40 
+================================================================
+
+Samples:
+Index: <condition>
+   sample_id   condition
+      <char>      <char>
+1:   18321_a irHepatitis
+2:   24774_d irHepatitis
+3:   54023_b         AIH
+4:   56784_c         AIH
+
+L-R pair tested counts (from comparability table):
+Key: <n_ir_tested, n_aih_tested, comparability>
+   n_ir_tested n_aih_tested comparability     N
+         <num>        <num>        <char> <int>
+1:           0            1       partial     7
+2:           0            2      aih_only    12
+3:           1            2       partial     3
+4:           2            2          all4    11
+
+Pairs tested in all 4 samples (strict-eligible): 11
+Pairs tested in both AIH but 0 irHep:          12
+Pairs tested in both irHep but 0 AIH:          0
+
+STRICT differential (L-R pair × triple, all 4 tested):
+  Coherent total:       1875
+  irHepatitis-enriched: 1454
+  AIH-enriched:         421
+
+PRESENCE differential (L-R pair only tested one side):
+  Coherent total:       3885
+  irHepatitis-present:  0
+  AIH-present:          3885
+
+PATHWAY differential (pathway aggregates, all 4 tested):
+  Coherent total:       839
+  irHepatitis-enriched: 657
+  AIH-enriched:         182
+
+Top 20 irHepatitis-enriched (by |log2FC|):
+                      lr_id                         source
+                     <char>                         <char>
+ 1:              VEGFA-FLT1                    IgG+ B cell
+ 2:               CCL5-CCR1                  Cholangiocyte
+ 3:              CCL15-CCR1      Vascular endothelial cell
+ 4:              VEGFA-FLT1                    IgG+ B cell
+ 5:              CCL16-CCR1      Vascular endothelial cell
+ 6:              VEGFA-FLT1                    IgG+ B cell
+ 7:               CCL5-CCR1                  Cholangiocyte
+ 8:               CCL5-CCR1                    CD4+ T cell
+ 9:              CCL14-CCR1                  CD8+ T cell 2
+10:              CCL14-CCR1 IgG+ plasmablast / plasma cell
+11:              CCL15-CCR1      Vascular endothelial cell
+12: IL15-IL15RA_IL2RB_IL2RG                  Cholangiocyte
+13:              VEGFA-FLT1                  Cholangiocyte
+14:                   MHC-I IgG+ plasmablast / plasma cell
+15:              VEGFA-FLT1                    CD4+ T cell
+16:              CSF1-CSF1R                   Hepatocyte 4
+17:              CCL16-CCR1                    IgM+ B cell
+18:               CCL5-CCR1                    IgM+ B cell
+19:               CCL5-CCR1                  CD8+ T cell 2
+20:              HLA-B-CD8A IgG+ plasmablast / plasma cell
+                      lr_id                         source
+                     <char>                         <char>
+                            target   log2FC   irHep_mean     AIH_mean
+                            <char>    <num>        <num>        <num>
+ 1:                   Hepatocyte 4 5.533427 7.697038e-06 1.204556e-07
+ 2:                  CD8+ T cell 2 4.965451 3.637392e-05 1.118990e-06
+ 3:                  CD8+ T cell 3 4.891572 1.013426e-05 2.962490e-07
+ 4:                  CD8+ T cell 2 4.777144 1.210085e-05 3.962829e-07
+ 5:                  CD8+ T cell 2 4.701314 1.239750e-05 4.315946e-07
+ 6:                    IgM+ B cell 4.441319 5.841179e-05 2.644036e-06
+ 7:                  CD8+ T cell 3 4.407983 9.082343e-05 4.233680e-06
+ 8:                  CD8+ T cell 2 4.369566 4.448357e-05 2.107456e-06
+ 9:                  CD8+ T cell 2 4.281152 4.573005e-04 2.347617e-05
+10: IgG+ plasmablast / plasma cell 4.177917 2.079908e-04 1.144706e-05
+11:                  CD8+ T cell 1 4.038679 6.981502e-06 3.809044e-07
+12:                  CD8+ T cell 3 3.998036 5.377267e-05 3.321555e-06
+13:                  CD8+ T cell 2 3.993520 1.188221e-04 7.416009e-06
+14: IgG+ plasmablast / plasma cell 3.989602 1.113176e-03 7.003295e-05
+15:                  CD8+ T cell 2 3.944963 1.015081e-05 6.153902e-07
+16:                    IgG+ B cell 3.912007 4.002420e-05 2.615198e-06
+17:                  CD8+ T cell 3 3.902879 1.545030e-05 9.892729e-07
+18:                  CD8+ T cell 2 3.899609 1.887583e-05 1.221148e-06
+19:                  Cholangiocyte 3.887103 9.817999e-05 6.592144e-06
+20: IgG+ plasmablast / plasma cell 3.877356 7.598227e-04 5.165898e-05
+                            target   log2FC   irHep_mean     AIH_mean
+                            <char>    <num>        <num>        <num>
+    comparability
+           <char>
+ 1:          all4
+ 2:          all4
+ 3:          all4
+ 4:          all4
+ 5:          all4
+ 6:          all4
+ 7:          all4
+ 8:          all4
+ 9:          all4
+10:          all4
+11:          all4
+12:          all4
+13:          all4
+14:          all4
+15:          all4
+16:          all4
+17:          all4
+18:          all4
+19:          all4
+20:          all4
+    comparability
+           <char>
+
+Top 20 AIH-enriched (by |log2FC|):
+                      lr_id                         source
+                     <char>                         <char>
+ 1: IL15-IL15RA_IL2RB_IL2RG                   Hepatocyte 4
+ 2: IL15-IL15RA_IL2RB_IL2RG                   Hepatocyte 1
+ 3: IL15-IL15RA_IL2RB_IL2RG                   Macrophage 1
+ 4:               CCL5-CCR1                    IgG+ B cell
+ 5: IL15-IL15RA_IL2RB_IL2RG                   Macrophage 1
+ 6: IL15-IL15RA_IL2RB_IL2RG IgG+ plasmablast / plasma cell
+ 7: IL15-IL15RA_IL2RB_IL2RG                  CD8+ T cell 1
+ 8: IL15-IL15RA_IL2RB_IL2RG                  Stellate cell
+ 9: IL15-IL15RA_IL2RB_IL2RG    Sinusoidal endothelial cell
+10:              CSF1-CSF1R                  CD8+ T cell 2
+11: IL15-IL15RA_IL2RB_IL2RG                   Hepatocyte 4
+12:              CCL16-CCR1 IgG+ plasmablast / plasma cell
+13:               CCL5-CCR1                   Hepatocyte 3
+14: IL15-IL15RA_IL2RB_IL2RG      Vascular endothelial cell
+15: IL15-IL15RA_IL2RB_IL2RG                  CD8+ T cell 2
+16: IL15-IL15RA_IL2RB_IL2RG                   Hepatocyte 4
+17: IL15-IL15RA_IL2RB_IL2RG                  CD8+ T cell 2
+18:              CCL15-CCR1                  CD8+ T cell 3
+19:                FN1-CD44 IgG+ plasmablast / plasma cell
+20: IL15-IL15RA_IL2RB_IL2RG    Sinusoidal endothelial cell
+                      lr_id                         source
+                     <char>                         <char>
+                            target    log2FC   irHep_mean     AIH_mean
+                            <char>     <num>        <num>        <num>
+ 1:                   Hepatocyte 4 -6.952513 0.000000e+00 5.742293e-06
+ 2:                   Hepatocyte 4 -5.906073 0.000000e+00 2.756087e-06
+ 3:    Sinusoidal endothelial cell -5.823813 2.715648e-08 4.138957e-06
+ 4: IgG+ plasmablast / plasma cell -5.780705 7.953109e-08 6.895035e-06
+ 5:                   Hepatocyte 4 -5.335632 0.000000e+00 1.840713e-06
+ 6: IgG+ plasmablast / plasma cell -5.221153 0.000000e+00 1.696730e-06
+ 7:    Sinusoidal endothelial cell -5.076967 5.965601e-09 1.732269e-06
+ 8:    Sinusoidal endothelial cell -5.009008 2.176407e-08 2.159128e-06
+ 9:                   Hepatocyte 1 -4.945814 5.276006e-09 1.556422e-06
+10:                   Hepatocyte 4 -4.857439 8.505517e-07 2.596496e-05
+11:                   Hepatocyte 1 -4.648880 2.736177e-08 1.812273e-06
+12:    Sinusoidal endothelial cell -4.545188 5.453946e-08 2.317874e-06
+13: IgG+ plasmablast / plasma cell -4.532706 5.748429e-09 1.168175e-06
+14:      Vascular endothelial cell -4.502344 0.000000e+00 1.012591e-06
+15:    Sinusoidal endothelial cell -4.497911 4.739640e-10 1.020050e-06
+16:    Sinusoidal endothelial cell -4.454541 1.781301e-08 1.368625e-06
+17:                   Hepatocyte 4 -4.320717 0.000000e+00 8.872804e-07
+18:                   Hepatocyte 3 -4.308171 2.501396e-08 1.374724e-06
+19:                   Hepatocyte 3 -4.288677 1.380556e-08 1.136586e-06
+20:                   Hepatocyte 4 -4.270553 0.000000e+00 8.553617e-07
+                            target    log2FC   irHep_mean     AIH_mean
+                            <char>     <num>        <num>        <num>
+    comparability
+           <char>
+ 1:          all4
+ 2:          all4
+ 3:          all4
+ 4:          all4
+ 5:          all4
+ 6:          all4
+ 7:          all4
+ 8:          all4
+ 9:          all4
+10:          all4
+11:          all4
+12:          all4
+13:          all4
+14:          all4
+15:          all4
+16:          all4
+17:          all4
+18:          all4
+19:          all4
+20:          all4
+    comparability
+           <char>
+
+Top 10 irHepatitis-enriched (by |log2FC|):
+     lr_id        source        target   log2FC   irHep_mean     AIH_mean
+    <char>        <char>        <char>    <num>        <num>        <num>
+ 1:   VEGF   IgG+ B cell  Hepatocyte 4 5.210117 7.697038e-06 1.204556e-07
+ 2:   VEGF   IgG+ B cell CD8+ T cell 2 4.648128 1.210085e-05 3.962829e-07
+ 3:   VEGF   IgG+ B cell   IgM+ B cell 4.419424 5.841179e-05 2.644036e-06
+ 4:   VEGF Cholangiocyte CD8+ T cell 2 3.985723 1.188221e-04 7.416009e-06
+ 5:    IL2 Cholangiocyte CD8+ T cell 3 3.980822 5.377267e-05 3.321555e-06
+ 6:    CSF  Hepatocyte 4   IgG+ B cell 3.890354 4.002420e-05 2.615198e-06
+ 7:   VEGF CD8+ T cell 2 CD8+ T cell 2 3.867349 4.702551e-04 3.213773e-05
+ 8:   VEGF   CD4+ T cell CD8+ T cell 2 3.859944 1.015081e-05 6.153902e-07
+ 9:    IL2 CD8+ T cell 2 CD8+ T cell 3 3.816535 6.005587e-05 4.178973e-06
+10:   VEGF CD8+ T cell 2 Cholangiocyte 3.813920 2.449948e-05 1.658505e-06
+    comparability
+           <char>
+ 1:          all4
+ 2:          all4
+ 3:          all4
+ 4:          all4
+ 5:          all4
+ 6:          all4
+ 7:          all4
+ 8:          all4
+ 9:          all4
+10:          all4
+
+Top 10 AIH-enriched (by |log2FC|):
+     lr_id                         source                         target
+    <char>                         <char>                         <char>
+ 1:    IL2                   Hepatocyte 4                   Hepatocyte 4
+ 2:    IL2                   Macrophage 1    Sinusoidal endothelial cell
+ 3:    IL2                   Hepatocyte 1                   Hepatocyte 4
+ 4:    CSF                  CD8+ T cell 2                   Hepatocyte 4
+ 5:    IL2                   Macrophage 1                   Hepatocyte 4
+ 6:    IL2                  Stellate cell    Sinusoidal endothelial cell
+ 7:    IL2 IgG+ plasmablast / plasma cell IgG+ plasmablast / plasma cell
+ 8:    IL2                  CD8+ T cell 1    Sinusoidal endothelial cell
+ 9:    IL2    Sinusoidal endothelial cell                   Hepatocyte 1
+10:    IL2                   Hepatocyte 4                   Hepatocyte 1
+       log2FC   irHep_mean     AIH_mean comparability
+        <num>        <num>        <num>        <char>
+ 1: -6.019485 0.000000e+00 5.742293e-06          all4
+ 2: -5.174924 2.715648e-08 4.138957e-06          all4
+ 3: -4.984378 0.000000e+00 2.756087e-06          all4
+ 4: -4.792047 8.505517e-07 2.596496e-05          all4
+ 5: -4.424509 0.000000e+00 1.840713e-06          all4
+ 6: -4.331996 2.176407e-08 2.159128e-06          all4
+ 7: -4.312691 0.000000e+00 1.696730e-06          all4
+ 8: -4.248420 5.965601e-09 1.732269e-06          all4
+ 9: -4.112425 5.276006e-09 1.556422e-06          all4
+10: -4.019780 2.736177e-08 1.812273e-06          all4
+
+Presence-driven irHepatitis pairs (tested only irHep side, top 15):
+Key: <lr_id>
+Empty data.table (0 rows and 5 cols): lr_id,source,target,irHep_mean,AIH_mean
+
+Presence-driven AIH pairs (tested only AIH side, top 15):
+Key: <lr_id>
+        lr_id      source                         target irHep_mean
+       <char>      <char>                         <char>      <num>
+ 1: CCL2-CCR2 CD4+ T cell                    CD4+ T cell        NaN
+ 2: CCL2-CCR2 CD4+ T cell                  CD8+ T cell 1        NaN
+ 3: CCL2-CCR2 CD4+ T cell                  CD8+ T cell 2        NaN
+ 4: CCL2-CCR2 CD4+ T cell                  CD8+ T cell 3        NaN
+ 5: CCL2-CCR2 CD4+ T cell                  Cholangiocyte        NaN
+ 6: CCL2-CCR2 CD4+ T cell                   Hepatocyte 1        NaN
+ 7: CCL2-CCR2 CD4+ T cell                   Hepatocyte 2        NaN
+ 8: CCL2-CCR2 CD4+ T cell                   Hepatocyte 3        NaN
+ 9: CCL2-CCR2 CD4+ T cell                   Hepatocyte 4        NaN
+10: CCL2-CCR2 CD4+ T cell                 Ig+ hepatocyte        NaN
+11: CCL2-CCR2 CD4+ T cell                    IgG+ B cell        NaN
+12: CCL2-CCR2 CD4+ T cell IgG+ plasmablast / plasma cell        NaN
+13: CCL2-CCR2 CD4+ T cell                    IgM+ B cell        NaN
+14: CCL2-CCR2 CD4+ T cell                   Macrophage 1        NaN
+15: CCL2-CCR2 CD4+ T cell                   Macrophage 2        NaN
+        AIH_mean
+           <num>
+ 1: 2.801344e-05
+ 2: 5.987103e-06
+ 3: 1.395789e-06
+ 4: 4.590418e-06
+ 5: 5.857757e-06
+ 6: 6.466254e-07
+ 7: 3.656514e-07
+ 8: 2.383320e-07
+ 9: 7.549074e-07
+10: 3.915338e-06
+11: 7.171456e-06
+12: 2.724209e-05
+13: 3.681719e-05
+14: 5.144475e-06
+15: 1.690105e-05

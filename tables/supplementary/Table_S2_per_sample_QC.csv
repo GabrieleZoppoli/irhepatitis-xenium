@@ -1,0 +1,5 @@
+sample_id,condition,total_cells_post_QC,median_nuc_area_um2,median_cell_area_um2,nucleated_pct,panel_genes,QV_threshold,min_transcripts_per_cell_filter,min_cells_per_gene_filter,vendor_median_transcripts_per_cell,vendor_segmentation_rate_pct,vendor_panel_decoding_efficiency
+18321_a,SR-irHep,20625,29.62,99.09,91.7,380,20,4,3,100,79.68,0.9323
+24774_d,SR-irHep,18636,29.8,92.18,93.8,380,20,4,3,118,74.78,0.8533
+54023_b,AIH,52266,23.32,54.68,98.6,380,20,4,3,155,85.55,0.8293
+56784_c,AIH,54487,21.16,63.15,97.4,380,20,4,3,172,81.84,0.8178

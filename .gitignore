@@ -1,0 +1,104 @@
+# Raw Xenium data — too large for git, deposited at EGA (raw) and Zenodo (processed)
+data/raw/
+
+# Large processed objects — deposited at Zenodo
+data/processed/session_snapshot.RData
+data/processed/session_snapshot.RData.canonical_apr27
+data/processed/gobj_with_spatial_networks.rds
+data/processed/logs/
+
+# Intermediate pipeline outputs that can be regenerated
+data/processed/figure_2_panels/supp_panelC_crops/
+data/processed/figure_2_panels/supp_panelC_crops_norm/
+
+# Panel A iteration variants (final lives in figures/main/ via the assembled composite)
+data/processed/figure_2_panels/fig2_a_proximity_heatmap*.pdf
+data/processed/figure_2_panels/fig2_a_proximity_heatmap*.png
+data/processed/figure_2_panels/fig2_a_proximity_lollipop*.pdf
+data/processed/figure_2_panels/fig2_a_proximity_lollipop*.png
+
+# Older figure iterations (final versions live in figures/main/)
+data/processed/figure_2_panels/fig2_b_sankey_v*.pdf
+data/processed/figure_2_panels/fig2_b_sankey_v*.png
+data/processed/figure_2_panels/fig2_c_roi_v*.pdf
+data/processed/figure_2_panels/fig2_c_roi_v*.png
+data/processed/figure_2_panels/figure_2_v*_assembled.pdf
+data/processed/figure_2_panels/figure_2_v*_assembled.png
+data/processed/figure_2_panels/figure_S_panelC_score_distribution.*
+
+# Duplicate / recompute variants of tracked CCC tables
+data/processed/figure_2_panels/cellchat_coherent_interactions.csv
+
+# Per-sample COMMOT / LIANA intermediates (aggregates are tracked / on Zenodo)
+data/processed/commot/per_sample/
+data/processed/commot/cells_input/
+data/processed/liana/per_sample/
+
+# Exploratory plots not in manuscript
+data/processed/main_figures/figure_2_transcriptomic_programs.pdf
+
+# OmnipathR session logs
+omnipathr-log/
+
+# Per-cell morphometry table — Zenodo (large; aggregated per-cluster + ROI tables are tracked)
+data/processed/morphology_analysis/morphometry_per_cell.csv
+
+# Exploratory pseudobulk DE outputs — not part of published deliverables
+data/processed/pseudobulk_de/
+
+# Clustering QC diagnostics — regeneratable from session_snapshot
+data/processed/plots/
+
+# Permutation outputs are tracked as the canonical tables under tables/supplementary/
+data/processed/spatial_graph_analysis/proximity_permutation_*
+
+# CellChat per-sample intermediates — regeneratable; aggregates in tables/supplementary/
+data/processed/publication_figures/
+
+# R / Python build artefacts
+*.Rhistory
+*.RData
+*.rds
+!data/processed/cluster_config.rds
+!figures/main/*.pdf
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor cruft
+.DS_Store
+*.swp
+*~
+
+# Deposit-prep outputs
+data/ega_submission/
+data/zenodo_deposit/
+data/geo_submission/
+
+# Internal submission-strategy notes (kept local, not for the public repo)
+manuscript/target_journal.md
+
+# Author-side data-deposit tooling (kept local; submission logistics)
+scripts/prepare_ega_submission.sh
+scripts/prepare_zenodo_deposit.sh
+scripts/upload_zenodo.py
+
+# Submission package: track only the source notes; docx/figures/tables are generated copies
+submission/*.docx
+submission/figures/
+submission/supplementary_figures/
+submission/supplementary_tables/
+
+# Generated manuscript deliverables and stray R output
+manuscript/*.docx
+Rplots.pdf
+data/processed/main_figures/figure_1.9_landscape.pdf
+
+# CellChat per-sample intermediates — moved here from the legacy publication_figures path
+data/processed/cellchat/per_sample/
+
+# Supplementary tables: CSV is the version-controlled canonical format.
+# XLSX copies are generated deliverables; the curated Table S1 clinical
+# sheet is the tracked exception.
+tables/supplementary/*.xlsx
+!tables/supplementary/Table_S1_per_patient_clinical.xlsx

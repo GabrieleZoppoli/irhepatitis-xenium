@@ -1,0 +1,15 @@
+parameter,value
+min_transcripts_per_cell,4
+min_cells_per_gene,3
+qv_threshold,20
+scale_factor,5000
+n_pcs,50
+harmony_dims,15
+harmony_theta,2
+harmony_sigma,0.1
+harmony_lambda,1
+umap_dims,15
+umap_neighbors,15
+umap_min_dist,5e-04
+snn_k,15
+leiden_resolution,0.5

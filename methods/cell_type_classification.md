@@ -1,0 +1,5 @@
+# Cell-type classification
+
+Cluster identity for the 18 active clusters reported in this study (cluster IDs 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 16, 17, 18, 19, 20; excluding clusters 12, 15 and 21 after pathology-aware QC review) was assigned from per-cluster vs. all-other-clusters differential expression (Giotto's wrapper around `scran::findMarkers`, FDR < 0.05) against canonical lineage signatures from published single-cell liver atlases — MacParland et al., *Nat. Commun.* 9, 4383 (2018); Aizarani et al., *Nature* 572, 199 (2019); Ramachandran et al., *Nature* 575, 512 (2019) — and standard immune-cell marker references.
+
+The full per-cluster marker output (top differentially expressed genes per cluster, log₂ fold-changes, FDR) is in **Supplementary Table S3** (`tables/supplementary/Table_S3_cluster_markers.csv`); the cluster characterisation table (display name, lineage, per-sample cell counts, top-5 markers) is **Supplementary Table S4** (`tables/supplementary/Table_S4_cluster_characterization.csv`). The canonical cluster name mapping is defined in `scripts/02_cluster_config.R` and reproduced in Figure 1A of the manuscript.

@@ -1,0 +1,19 @@
+direction,rank,source,target,pathway_label,log2FC,triple_min_per_sample,preserved_at_n30,preserved_at_n50
+irHep,1,CD8+ T cell 3,Cholangiocyte,MHC-I_CD8A,8.99135657028931,142,TRUE,TRUE
+irHep,2,CD8+ T cell 2,Cholangiocyte,MHC-I_CD8A,8.24515724339117,116,TRUE,TRUE
+irHep,3,Cholangiocyte,CD8+ T cell 2,VEGF,7.15275186471348,116,TRUE,TRUE
+irHep,4,Hepatocyte 3,CD4+ T cell,MHC-I_CD8A,7.01902096334534,669,TRUE,TRUE
+irHep,5,IgM+ B cell,IgG+ plasmablast / plasma cell,CXCL_CXCR4,6.88880298723358,28,FALSE,FALSE
+irHep,6,Cholangiocyte,CD8+ T cell 3,CXCL_CXCR3,3.56693962592437,142,TRUE,TRUE
+irHep,7,Vascular endothelial cell,CD8+ T cell 2,CCL_CCR1,3.10583886669154,116,TRUE,TRUE
+irHep,8,Cholangiocyte,CD8+ T cell 3,MHC-I_CD8B,0.215293171055831,142,TRUE,TRUE
+AIH,1,Cholangiocyte,CD8+ T cell 2,FN1,-9.93929208392903,116,TRUE,TRUE
+AIH,2,Sinusoidal endothelial cell,CD4+ T cell,CD86,-7.66463917562431,722,TRUE,TRUE
+AIH,3,Hepatocyte 2,CD4+ T cell,CCL_CCR1,-5.72035590823973,722,TRUE,TRUE
+AIH,4,Sinusoidal endothelial cell,CD4+ T cell,CCL_CCR4,-4.98550258616383,722,TRUE,TRUE
+AIH,5,Hepatocyte 2,CD4+ T cell,ICOS,-4.86653948261704,722,TRUE,TRUE
+AIH,6,Hepatocyte 1,CD4+ T cell,CXCL_CXCR3,-4.69699060541282,722,TRUE,TRUE
+AIH,7,CD4+ T cell,Hepatocyte 2,CD40,-4.3055320400377,722,TRUE,TRUE
+AIH,8,Hepatocyte 2,CD4+ T cell,CXCL_CXCR3,-4.29234210478343,722,TRUE,TRUE
+AIH,9,Hepatocyte 1,CD4+ T cell,CXCL_CXCR6,-3.83013068404244,722,TRUE,TRUE
+AIH,10,Sinusoidal endothelial cell,CD4+ T cell,CSF,-3.59259109486876,722,TRUE,TRUE

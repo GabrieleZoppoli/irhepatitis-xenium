@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: >-
+  A bile-duct CD8/CXCR3 axis defines steroid-resistant
+  checkpoint-inhibitor hepatitis — analysis code
+message: >-
+  If you use this software or processed data, please cite both the
+  associated manuscript and this repository.
+type: software
+authors:
+  - family-names: Zoppoli
+    given-names: Gabriele
+    affiliation: >-
+      Università degli Studi di Genova; IRCCS Ospedale Policlinico San Martino
+    email: gabriele.zoppoli@unige.it
+repository-code: "https://github.com/GabrieleZoppoli/irhepatitis-xenium"
+url: "https://github.com/GabrieleZoppoli/irhepatitis-xenium"
+keywords:
+  - spatial transcriptomics
+  - Xenium
+  - immune-related hepatitis
+  - autoimmune hepatitis
+  - cell-cell communication
+  - immunology
+  - hepatology
+license: MIT
+license-url: "https://opensource.org/licenses/MIT"
+preferred-citation:
+  type: article
+  title: >-
+    A bile-duct CD8/CXCR3 axis defines steroid-resistant
+    checkpoint-inhibitor hepatitis
+  authors:
+    - family-names: Zoppoli
+      given-names: Gabriele
+  notes: "Manuscript in preparation; details to be added at publication."

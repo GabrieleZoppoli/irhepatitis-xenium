@@ -1,0 +1,685 @@
+unified_int,type_int,original,simulations,enrichm,p_higher_orig,p_lower_orig,p.adj_higher,p.adj_lower,PI_value,int_ranking,sample_id,condition,from_label,to_label
+Cholangiocyte--Cholangiocyte,homo,437,24.395,4.1083144907591,0,1,0,1,12.3249434722773,1,18321_a,irHepatitis,Cholangiocyte,Cholangiocyte
+IgG+ B cell--IgG+ B cell,homo,97,6.192,3.76831682326285,0,1,0,1,11.3049504697885,2,18321_a,irHepatitis,IgG+ B cell,IgG+ B cell
+IgG+ plasmablast / plasma cell--IgG+ plasmablast / plasma cell,homo,57,3.277,3.76138178791333,0,1,0,1,11.28414536374,3,18321_a,irHepatitis,IgG+ plasmablast / plasma cell,IgG+ plasmablast / plasma cell
+IgM+ B cell--IgM+ B cell,homo,172,16.52,3.30369735781028,0,1,0,1,9.91109207343083,4,18321_a,irHepatitis,IgM+ B cell,IgM+ B cell
+Vascular endothelial cell--Vascular endothelial cell,homo,286,29.059,3.25518181717937,0,1,0,1,9.76554545153811,5,18321_a,irHepatitis,Vascular endothelial cell,Vascular endothelial cell
+IgG+ B cell--IgG+ plasmablast / plasma cell,hetero,74,9.089,2.89410741091023,0,1,0,1,8.68232223273069,6,18321_a,irHepatitis,IgG+ B cell,IgG+ plasmablast / plasma cell
+CD8+ T cell 3--CD8+ T cell 3,homo,36,4.102,2.85839046668856,0,1,0,1,8.57517140006569,7,18321_a,irHepatitis,CD8+ T cell 3,CD8+ T cell 3
+CD4+ T cell--CD4+ T cell,homo,497,79.479,2.62946145827987,0,1,0,1,7.88838437483962,8,18321_a,irHepatitis,CD4+ T cell,CD4+ T cell
+Hepatocyte 4--Hepatocyte 4,homo,20,2.415,2.62043184426339,0,1,0,1,7.86129553279018,9,18321_a,irHepatitis,Hepatocyte 4,Hepatocyte 4
+CD4+ T cell--IgM+ B cell,hetero,440,72.943,2.57629317323477,0,1,0,1,7.72887951970432,10,18321_a,irHepatitis,CD4+ T cell,IgM+ B cell
+Ig+ hepatocyte--IgG+ B cell,hetero,8,0.648,2.44920875892118,0,1,0,1,7.34762627676354,11,18321_a,irHepatitis,Ig+ hepatocyte,IgG+ B cell
+CD8+ T cell 2--CD8+ T cell 2,homo,13,1.917,2.26286953582151,0,1,0,1,6.78860860746454,12,18321_a,irHepatitis,CD8+ T cell 2,CD8+ T cell 2
+IgG+ plasmablast / plasma cell--IgM+ B cell,hetero,67,14.665,2.11798997665401,0,1,0,1,6.35396992996203,13,18321_a,irHepatitis,IgG+ plasmablast / plasma cell,IgM+ B cell
+IgG+ B cell--IgM+ B cell,hetero,72,20.343,1.77413348647475,0,1,0,1,5.32240045942426,14,18321_a,irHepatitis,IgG+ B cell,IgM+ B cell
+CD8+ T cell 3--Cholangiocyte,hetero,71,20.138,1.76815802588828,0,1,0,1,5.30447407766484,15,18321_a,irHepatitis,CD8+ T cell 3,Cholangiocyte
+IgG+ B cell--Vascular endothelial cell,hetero,79,27.05,1.51199922916593,0,1,0,1,4.5359976874978,16,18321_a,irHepatitis,IgG+ B cell,Vascular endothelial cell
+CD8+ T cell 2--Cholangiocyte,hetero,40,13.601,1.48955672928051,0,1,0,1,4.46867018784154,17,18321_a,irHepatitis,CD8+ T cell 2,Cholangiocyte
+IgG+ plasmablast / plasma cell--Vascular endothelial cell,hetero,53,19.672,1.38528143213163,0,1,0,1,4.15584429639489,18,18321_a,irHepatitis,IgG+ plasmablast / plasma cell,Vascular endothelial cell
+CD4+ T cell--IgG+ B cell,hetero,115,44.495,1.35034490155697,0,1,0,1,4.05103470467091,19,18321_a,irHepatitis,CD4+ T cell,IgG+ B cell
+CD8+ T cell 1--CD8+ T cell 1,homo,702,276.05,1.3433783222563,0,1,0,1,4.03013496676891,20,18321_a,irHepatitis,CD8+ T cell 1,CD8+ T cell 1
+Macrophage 1--Macrophage 1,homo,885,359.544,1.29713136522752,0,1,0,1,3.89139409568255,21,18321_a,irHepatitis,Macrophage 1,Macrophage 1
+CD8+ T cell 3--Hepatocyte 4,hetero,16,6.132,1.25315613828743,0,1,0,1,3.75946841486229,22,18321_a,irHepatitis,CD8+ T cell 3,Hepatocyte 4
+Macrophage 2--Macrophage 2,homo,564,236.272,1.25170900654314,0,1,0,1,3.75512701962943,23,18321_a,irHepatitis,Macrophage 2,Macrophage 2
+CD4+ T cell--CD8+ T cell 1,hetero,709,297.45,1.2503297708296,0,1,0,1,3.75098931248881,24,18321_a,irHepatitis,CD4+ T cell,CD8+ T cell 1
+CD4+ T cell--CD8+ T cell 3,hetero,88,36.428,1.24968737753318,0,1,0,1,3.74906213259953,25,18321_a,irHepatitis,CD4+ T cell,CD8+ T cell 3
+CD8+ T cell 1--CD8+ T cell 3,hetero,159,68.14,1.21047939639969,0,1,0,1,3.63143818919907,26,18321_a,irHepatitis,CD8+ T cell 1,CD8+ T cell 3
+IgM+ B cell--Vascular endothelial cell,hetero,102,43.977,1.19538499682403,0,1,0,1,3.58615499047209,27,18321_a,irHepatitis,IgM+ B cell,Vascular endothelial cell
+CD4+ T cell--IgG+ plasmablast / plasma cell,hetero,73,32.409,1.14728847024865,0,1,0,1,3.44186541074596,28,18321_a,irHepatitis,CD4+ T cell,IgG+ plasmablast / plasma cell
+CD4+ T cell--Macrophage 2,hetero,557,274.452,1.01846418400313,0,1,0,1,3.0553925520094,29,18321_a,irHepatitis,CD4+ T cell,Macrophage 2
+Stellate cell--Vascular endothelial cell,hetero,336,168.201,0.994010496408032,0,1,0,1,2.9820314892241,30,18321_a,irHepatitis,Stellate cell,Vascular endothelial cell
+CD8+ T cell 1--CD8+ T cell 2,hetero,92,45.709,0.993530157626862,0,1,0,1,2.98059047288059,31,18321_a,irHepatitis,CD8+ T cell 1,CD8+ T cell 2
+Hepatocyte 3--Hepatocyte 3,homo,982,512.028,0.93815384929342,0,1,0,1,2.81446154788026,32,18321_a,irHepatitis,Hepatocyte 3,Hepatocyte 3
+Stellate cell--Stellate cell,homo,441,242.118,0.862389657865111,0,1,0,1,2.58716897359533,33,18321_a,irHepatitis,Stellate cell,Stellate cell
+Cholangiocyte--Macrophage 2,hetero,267,150.404,0.823829679745581,0,1,0,1,2.47148903923674,34,18321_a,irHepatitis,Cholangiocyte,Macrophage 2
+Macrophage 1--Macrophage 2,hetero,1018,580.763,0.808650602125345,0,1,0,1,2.42595180637604,35,18321_a,irHepatitis,Macrophage 1,Macrophage 2
+CD8+ T cell 2--CD8+ T cell 3,hetero,14,5.669,1.16942014652246,0.003,1,0.00840983606557378,1,2.36973396736599,36,18321_a,irHepatitis,CD8+ T cell 2,CD8+ T cell 3
+CD8+ T cell 3--IgG+ B cell,hetero,21,10.215,0.97207390332575,0.001,0.999,0.00289830508474577,1,2.34184674099579,37,18321_a,irHepatitis,CD8+ T cell 3,IgG+ B cell
+CD4+ T cell--Vascular endothelial cell,hetero,167,97.044,0.776959983400601,0,1,0,1,2.3308799502018,38,18321_a,irHepatitis,CD4+ T cell,Vascular endothelial cell
+IgM+ B cell--Macrophage 2,hetero,210,124.773,0.746420750378597,0,1,0,1,2.23926225113579,39,18321_a,irHepatitis,IgM+ B cell,Macrophage 2
+CD8+ T cell 1--Macrophage 1,hetero,1052,630.259,0.738201479528413,0,1,0,1,2.21460443858524,40,18321_a,irHepatitis,CD8+ T cell 1,Macrophage 1
+CD8+ T cell 3--Macrophage 2,hetero,102,62.069,0.707641373773312,0,1,0,1,2.12292412131993,41,18321_a,irHepatitis,CD8+ T cell 3,Macrophage 2
+CD8+ T cell 3--Vascular endothelial cell,hetero,41,22.156,0.859003266211969,0.001,1,0.00289830508474577,1,2.06944553557171,42,18321_a,irHepatitis,CD8+ T cell 3,Vascular endothelial cell
+CD8+ T cell 3--Macrophage 1,hetero,123,77.097,0.667001085419718,0,1,0,1,2.00100325625916,43,18321_a,irHepatitis,CD8+ T cell 3,Macrophage 1
+CD8+ T cell 2--Macrophage 1,hetero,82,52.027,0.646384206075397,0,1,0,1,1.93915261822619,44,18321_a,irHepatitis,CD8+ T cell 2,Macrophage 1
+Macrophage 2--Vascular endothelial cell,hetero,255,165.957,0.616667227734244,0,1,0,1,1.85000168320273,45,18321_a,irHepatitis,Macrophage 2,Vascular endothelial cell
+Sinusoidal endothelial cell--Sinusoidal endothelial cell,homo,144,93.699,0.614631803886479,0,1,0,1,1.84389541165944,46,18321_a,irHepatitis,Sinusoidal endothelial cell,Sinusoidal endothelial cell
+CD8+ T cell 1--Macrophage 2,hetero,771,511.428,0.591251538173117,0,1,0,1,1.77375461451935,47,18321_a,irHepatitis,CD8+ T cell 1,Macrophage 2
+CD8+ T cell 1--IgM+ B cell,hetero,200,135.6,0.557238017776201,0,1,0,1,1.6717140533286,48,18321_a,irHepatitis,CD8+ T cell 1,IgM+ B cell
+Hepatocyte 2--Hepatocyte 2,homo,2590,1766.691,0.551642908055977,0,1,0,1,1.65492872416793,49,18321_a,irHepatitis,Hepatocyte 2,Hepatocyte 2
+IgG+ plasmablast / plasma cell--Macrophage 2,hetero,82,55.725,0.54912663256195,0,1,0,1,1.64737989768585,50,18321_a,irHepatitis,IgG+ plasmablast / plasma cell,Macrophage 2
+Hepatocyte 2--Sinusoidal endothelial cell,hetero,1165,814.822,0.515241471094374,0,1,0,1,1.54572441328312,51,18321_a,irHepatitis,Hepatocyte 2,Sinusoidal endothelial cell
+Hepatocyte 1--Hepatocyte 1,homo,4274,2993.164,0.513771175386821,0,1,0,1,1.54131352616046,52,18321_a,irHepatitis,Hepatocyte 1,Hepatocyte 1
+CD8+ T cell 3--IgM+ B cell,hetero,29,16.657,0.764722256986303,0.004,0.999,0.0108571428571429,1,1.47287032135851,53,18321_a,irHepatitis,CD8+ T cell 3,IgM+ B cell
+Hepatocyte 2--Hepatocyte 3,hetero,2639,1903.746,0.470939304029012,0,1,0,1,1.41281791208704,54,18321_a,irHepatitis,Hepatocyte 2,Hepatocyte 3
+Hepatocyte 1--Hepatocyte 4,hetero,228,166.929,0.447496204596295,0,1,0,1,1.34248861378888,55,18321_a,irHepatitis,Hepatocyte 1,Hepatocyte 4
+Hepatocyte 1--Sinusoidal endothelial cell,hetero,1443,1061.244,0.442955547498048,0,1,0,1,1.32886664249414,56,18321_a,irHepatitis,Hepatocyte 1,Sinusoidal endothelial cell
+Ig+ hepatocyte--Ig+ hepatocyte,homo,1,0.018,0.974262438586392,0.017,0.999,0.0440454545454546,1,1.31169728558743,57,18321_a,irHepatitis,Ig+ hepatocyte,Ig+ hepatocyte
+Hepatocyte 3--Sinusoidal endothelial cell,hetero,592,438.238,0.433029232486348,0,1,0,1,1.29908769745904,58,18321_a,irHepatitis,Hepatocyte 3,Sinusoidal endothelial cell
+Hepatocyte 1--Hepatocyte 2,hetero,6171,4603.012,0.422846468160935,0,1,0,1,1.26853940448281,59,18321_a,irHepatitis,Hepatocyte 1,Hepatocyte 2
+IgG+ B cell--Macrophage 2,hetero,106,76.744,0.460807553945949,0.001,1,0.00289830508474577,1,1.1101426185216,60,18321_a,irHepatitis,IgG+ B cell,Macrophage 2
+Hepatocyte 1--Hepatocyte 3,hetero,3126,2476.485,0.335902896660927,0,1,0,1,1.00770868998278,61,18321_a,irHepatitis,Hepatocyte 1,Hepatocyte 3
+Ig+ hepatocyte--IgG+ plasmablast / plasma cell,hetero,2,0.478,1.02131623123709,0.08,0.993,0.19,1,0.734292291747774,62,18321_a,irHepatitis,Ig+ hepatocyte,IgG+ plasmablast / plasma cell
+CD8+ T cell 1--IgG+ plasmablast / plasma cell,hetero,82,60.599,0.430204406103529,0.00700000000000001,0.995,0.018703125,1,0.733698509018987,63,18321_a,irHepatitis,CD8+ T cell 1,IgG+ plasmablast / plasma cell
+IgG+ B cell--Stellate cell,hetero,102,78.31,0.377069649079823,0.004,0.998,0.0108571428571429,1,0.726243665776669,64,18321_a,irHepatitis,IgG+ B cell,Stellate cell
+CD8+ T cell 1--Cholangiocyte,hetero,202,163.633,0.302226180444814,0.002,0.998,0.00570000000000001,1,0.657017108952467,65,18321_a,irHepatitis,CD8+ T cell 1,Cholangiocyte
+Macrophage 2--Stellate cell,hetero,543,478.309,0.182650621734753,0,1,0,1,0.54795186520426,66,18321_a,irHepatitis,Macrophage 2,Stellate cell
+Hepatocyte 3--Hepatocyte 4,hetero,87,69.165,0.326751964989808,0.018,0.99,0.0459402985074627,1,0.43407500486533,67,18321_a,irHepatitis,Hepatocyte 3,Hepatocyte 4
+CD8+ T cell 2--Macrophage 2,hetero,54,42.574,0.335964062986172,0.049,0.963,0.121434782608696,1,0.30643120436667,68,18321_a,irHepatitis,CD8+ T cell 2,Macrophage 2
+CD8+ T cell 3--IgG+ plasmablast / plasma cell,hetero,11,7.324,0.527685535647909,0.118,0.929,0.2655,1,0.303051273590848,69,18321_a,irHepatitis,CD8+ T cell 3,IgG+ plasmablast / plasma cell
+CD8+ T cell 1--Vascular endothelial cell,hetero,209,180.22,0.212647143431332,0.019,0.984,0.0477794117647059,1,0.278942748626017,70,18321_a,irHepatitis,CD8+ T cell 1,Vascular endothelial cell
+Hepatocyte 2--Ig+ hepatocyte,hetero,16,11.42,0.452869572804583,0.106,0.939,0.244945945945946,1,0.275870179207264,71,18321_a,irHepatitis,Hepatocyte 2,Ig+ hepatocyte
+CD4+ T cell--Macrophage 1,hetero,379,339.117,0.159968300770538,0.015,0.987,0.0394615384615385,1,0.222829061621643,72,18321_a,irHepatitis,CD4+ T cell,Macrophage 1
+Hepatocyte 4--Sinusoidal endothelial cell,hetero,37,29.776,0.304193683809058,0.1,0.922,0.234246575342466,1,0.191178639579786,73,18321_a,irHepatitis,Hepatocyte 4,Sinusoidal endothelial cell
+CD8+ T cell 1--IgG+ B cell,hetero,97,83.485,0.214086530277858,0.077,0.939,0.185450704225352,1,0.156162416298249,74,18321_a,irHepatitis,CD8+ T cell 1,IgG+ B cell
+Ig+ hepatocyte--Macrophage 2,hetero,6,4.082,0.461958546666337,0.217,0.885,0.475730769230769,1,0.148624452743456,75,18321_a,irHepatitis,Ig+ hepatocyte,Macrophage 2
+IgM+ B cell--Stellate cell,hetero,144,127.189,0.177780431780621,0.0659999999999999,0.946,0.161228571428571,1,0.140423901863909,76,18321_a,irHepatitis,IgM+ B cell,Stellate cell
+IgG+ plasmablast / plasma cell--Stellate cell,hetero,66,56.454,0.221753757454889,0.11,0.913,0.2508,1,0.132818143316185,77,18321_a,irHepatitis,IgG+ plasmablast / plasma cell,Stellate cell
+Hepatocyte 2--Hepatocyte 4,hetero,140,129.019,0.116972699348451,0.162,0.861,0.359766233766234,1,0.051792483714251,78,18321_a,irHepatitis,Hepatocyte 2,Hepatocyte 4
+IgG+ plasmablast / plasma cell--Macrophage 1,hetero,73,68.115,0.0985264186354763,0.268,0.774,0.580101265822785,1,0.023227423730312,79,18321_a,irHepatitis,IgG+ plasmablast / plasma cell,Macrophage 1
+Cholangiocyte--IgG+ B cell,hetero,26,24.466,0.0843870371164651,0.415,0.659,0.865426829268293,1,0.00525462114642563,80,18321_a,irHepatitis,Cholangiocyte,IgG+ B cell
+Cholangiocyte--Macrophage 1,hetero,191,187.028,0.0301587955686735,0.39,0.635,0.823333333333333,1,0.00253023664454665,81,18321_a,irHepatitis,Cholangiocyte,Macrophage 1
+Macrophage 1--Stellate cell,hetero,599,590.434,0.0207453180991757,0.356,0.661,0.76095,1,0.00244947286858751,82,18321_a,irHepatitis,Macrophage 1,Stellate cell
+CD8+ T cell 3--Ig+ hepatocyte,hetero,0,0.569,-0.649845352306011,1,0.561,1,1,0.000282083232475896,83,18321_a,irHepatitis,CD8+ T cell 3,Ig+ hepatocyte
+Hepatocyte 4--Ig+ hepatocyte,hetero,0,0.412,-0.497740088609093,1,0.658,1,1,0.000216057763019248,84,18321_a,irHepatitis,Hepatocyte 4,Ig+ hepatocyte
+CD8+ T cell 2--Ig+ hepatocyte,hetero,0,0.347,-0.429749850800216,1,0.712,1,1,0.000186544731972899,85,18321_a,irHepatitis,CD8+ T cell 2,Ig+ hepatocyte
+Ig+ hepatocyte--Vascular endothelial cell,hetero,1,1.48,-0.31034012061215,0.776,0.57,1,1,0.00013471165728675,86,18321_a,irHepatitis,Ig+ hepatocyte,Vascular endothelial cell
+Ig+ hepatocyte--IgM+ B cell,hetero,1,1.049,-0.0349199843491596,0.65,0.718,1,1,1.51579787841279e-05,87,18321_a,irHepatitis,Ig+ hepatocyte,IgM+ B cell
+Ig+ hepatocyte--Stellate cell,hetero,4,4.102,-0.0291348040530229,0.604,0.626,1,1,1.26467623037773e-05,88,18321_a,irHepatitis,Ig+ hepatocyte,Stellate cell
+Ig+ hepatocyte--Macrophage 1,hetero,5,5.049,-0.0117341599660721,0.581,0.597,1,1,5.09353457999374e-06,89,18321_a,irHepatitis,Ig+ hepatocyte,Macrophage 1
+CD8+ T cell 2--IgG+ B cell,hetero,6,6.961,-0.185594740423246,0.713,0.45,1,0.938414634146341,-0.00503753840511648,90,18321_a,irHepatitis,CD8+ T cell 2,IgG+ B cell
+CD4+ T cell--Stellate cell,hetero,269,277.188,-0.0431007814254678,0.697,0.323,1,0.6904125,-0.00690745075583102,91,18321_a,irHepatitis,CD4+ T cell,Stellate cell
+Sinusoidal endothelial cell--Stellate cell,hetero,288,302.745,-0.0717911677304884,0.832,0.182,1,0.41496,-0.0273487326682389,92,18321_a,irHepatitis,Sinusoidal endothelial cell,Stellate cell
+Hepatocyte 4--IgG+ B cell,hetero,6,7.728,-0.318296179603916,0.786,0.337,1,0.711444444444445,-0.0468687928000356,93,18321_a,irHepatitis,Hepatocyte 4,IgG+ B cell
+Hepatocyte 1--Ig+ hepatocyte,hetero,12,14.675,-0.269953819773585,0.826,0.268,1,0.595168831168831,-0.0606399245319311,94,18321_a,irHepatitis,Hepatocyte 1,Ig+ hepatocyte
+CD8+ T cell 1--Stellate cell,hetero,481,517.78,-0.106089715445481,0.953,0.0510000000000001,1,0.12825,-0.0942680799166955,95,18321_a,irHepatitis,CD8+ T cell 1,Stellate cell
+Cholangiocyte--Vascular endothelial cell,hetero,44,52.902,-0.260413802825836,0.898,0.129,1,0.298094594594595,-0.136506685182346,96,18321_a,irHepatitis,Cholangiocyte,Vascular endothelial cell
+CD4+ T cell--Ig+ hepatocyte,hetero,1,2.459,-0.790355013710841,0.912,0.293,1,0.634215189873418,-0.155762474692917,97,18321_a,irHepatitis,CD4+ T cell,Ig+ hepatocyte
+IgM+ B cell--Macrophage 1,hetero,135,154.289,-0.191348987602433,0.965,0.049,1,0.125059701492537,-0.172103819321452,98,18321_a,irHepatitis,IgM+ B cell,Macrophage 1
+Macrophage 1--Vascular endothelial cell,hetero,180,204.71,-0.184622230729091,0.972,0.034,1,0.0894461538461539,-0.192673587094251,99,18321_a,irHepatitis,Macrophage 1,Vascular endothelial cell
+CD4+ T cell--Cholangiocyte,hetero,74,87.492,-0.238656440581343,0.958,0.0580000000000001,1,0.141685714285714,-0.20181254146805,100,18321_a,irHepatitis,CD4+ T cell,Cholangiocyte
+Cholangiocyte--Ig+ hepatocyte,hetero,0,1.29,-1.19534759832222,1,0.281,1,0.616038461538462,-0.25064976565712,101,18321_a,irHepatitis,Cholangiocyte,Ig+ hepatocyte
+CD8+ T cell 2--Hepatocyte 4,hetero,2,4.272,-0.813387869624809,0.932,0.19,1,0.4275,-0.299366733346187,102,18321_a,irHepatitis,CD8+ T cell 2,Hepatocyte 4
+CD8+ T cell 2--Hepatocyte 2,hetero,94,115.59,-0.295444634398176,0.989,0.012,1,0.0342,-0.42941617140205,103,18321_a,irHepatitis,CD8+ T cell 2,Hepatocyte 2
+Hepatocyte 1--Stellate cell,hetero,1540,1703.11,-0.145151602427293,1,0,1,0,-0.43545480728188,104,18321_a,irHepatitis,Hepatocyte 1,Stellate cell
+CD8+ T cell 2--Hepatocyte 1,hetero,125,150.358,-0.264541196843658,0.995,0.005,1,0.0155454545454546,-0.471232867917283,105,18321_a,irHepatitis,CD8+ T cell 2,Hepatocyte 1
+Hepatocyte 4--Macrophage 1,hetero,44,58.242,-0.396695345149608,0.985,0.019,1,0.0532622950819673,-0.502018689696202,106,18321_a,irHepatitis,Hepatocyte 4,Macrophage 1
+Cholangiocyte--IgM+ B cell,hetero,28,39.567,-0.48425371644858,0.974,0.034,1,0.0894461538461539,-0.505371970880258,107,18321_a,irHepatitis,Cholangiocyte,IgM+ B cell
+Cholangiocyte--IgG+ plasmablast / plasma cell,hetero,11,17.844,-0.651070831284678,0.965,0.0659999999999999,1,0.15675,-0.522178750346594,108,18321_a,irHepatitis,Cholangiocyte,IgG+ plasmablast / plasma cell
+CD8+ T cell 2--Vascular endothelial cell,hetero,9,14.745,-0.654893757473323,0.956,0.065,1,0.156549295774648,-0.525606946088592,109,18321_a,irHepatitis,CD8+ T cell 2,Vascular endothelial cell
+Hepatocyte 4--Stellate cell,hetero,34,47.643,-0.47487728599312,0.983,0.024,1,0.0651428571428572,-0.560125855009978,110,18321_a,irHepatitis,Hepatocyte 4,Stellate cell
+Hepatocyte 2--Stellate cell,hetero,1119,1310.514,-0.227734475718622,1,0,1,0,-0.683203427155867,111,18321_a,irHepatitis,Hepatocyte 2,Stellate cell
+CD8+ T cell 2--Stellate cell,hetero,27,42.838,-0.646755153247264,0.994,0.00700000000000001,1,0.021,-1.07204667308402,112,18321_a,irHepatitis,CD8+ T cell 2,Stellate cell
+Hepatocyte 4--Macrophage 2,hetero,30,46.826,-0.625526918883857,0.995,0.00600000000000001,1,0.0183214285714286,-1.0721285971912,113,18321_a,irHepatitis,Hepatocyte 4,Macrophage 2
+Hepatocyte 3--Stellate cell,hetero,542,704.449,-0.377589589815384,1,0,1,0,-1.13276876944615,114,18321_a,irHepatitis,Hepatocyte 3,Stellate cell
+Hepatocyte 3--Ig+ hepatocyte,hetero,2,5.999,-1.22218630732211,0.988,0.044,1,0.114,-1.1480022379579,115,18321_a,irHepatitis,Hepatocyte 3,Ig+ hepatocyte
+CD8+ T cell 1--Ig+ hepatocyte,hetero,1,4.356,-1.42115596066222,0.991,0.0570000000000001,1,0.141260869565218,-1.20359764813968,116,18321_a,irHepatitis,CD8+ T cell 1,Ig+ hepatocyte
+Cholangiocyte--Hepatocyte 4,hetero,7,14.857,-0.987047946981335,0.991,0.021,1,0.0579193548387097,-1.21381433347916,117,18321_a,irHepatitis,Cholangiocyte,Hepatocyte 4
+CD8+ T cell 3--Stellate cell,hetero,42,63.669,-0.588737641831371,0.999,0.001,1,0.00328846153846154,-1.3939532200283,118,18321_a,irHepatitis,CD8+ T cell 3,Stellate cell
+Ig+ hepatocyte--Sinusoidal endothelial cell,hetero,0,2.549,-1.82741257439886,1,0.07,1,0.163972602739726,-1.43011146931823,119,18321_a,irHepatitis,Ig+ hepatocyte,Sinusoidal endothelial cell
+Hepatocyte 1--Macrophage 1,hetero,1353,2070.44,-0.613406293831878,1,0,1,0,-1.84021888149563,120,18321_a,irHepatitis,Hepatocyte 1,Macrophage 1
+CD8+ T cell 2--IgM+ B cell,hetero,4,11.217,-1.28889006122208,0.999,0.00800000000000001,1,0.0231864406779661,-2.0833980335388,121,18321_a,irHepatitis,CD8+ T cell 2,IgM+ B cell
+CD4+ T cell--CD8+ T cell 2,hetero,11,24.56,-1.09085343045111,0.999,0.003,1,0.00950000000000001,-2.15859244132293,122,18321_a,irHepatitis,CD4+ T cell,CD8+ T cell 2
+Cholangiocyte--Stellate cell,hetero,92,152.829,-0.726024885947265,1,0,1,0,-2.1780746578418,123,18321_a,irHepatitis,Cholangiocyte,Stellate cell
+Macrophage 1--Sinusoidal endothelial cell,hetero,221,367.857,-0.732501938148389,1,0,1,0,-2.19750581444517,124,18321_a,irHepatitis,Macrophage 1,Sinusoidal endothelial cell
+Hepatocyte 2--Macrophage 1,hetero,919,1592.536,-0.792525845512992,1,0,1,0,-2.37757753653898,125,18321_a,irHepatitis,Hepatocyte 2,Macrophage 1
+Hepatocyte 3--Macrophage 1,hetero,458,856.533,-0.901698037203548,1,0,1,0,-2.70509411161064,126,18321_a,irHepatitis,Hepatocyte 3,Macrophage 1
+CD8+ T cell 1--Hepatocyte 1,hetero,940,1817.926,-0.950820222451997,1,0,1,0,-2.85246066735599,127,18321_a,irHepatitis,CD8+ T cell 1,Hepatocyte 1
+Macrophage 2--Sinusoidal endothelial cell,hetero,152,297.412,-0.963773898735534,1,0,1,0,-2.8913216962066,128,18321_a,irHepatitis,Macrophage 2,Sinusoidal endothelial cell
+CD8+ T cell 2--Hepatocyte 3,hetero,31,62.125,-0.980139577639157,1,0,1,0,-2.94041873291747,129,18321_a,irHepatitis,CD8+ T cell 2,Hepatocyte 3
+IgG+ B cell--Macrophage 1,hetero,47,95.416,-1.00623817221122,1,0,1,0,-3.01871451663366,130,18321_a,irHepatitis,IgG+ B cell,Macrophage 1
+CD8+ T cell 1--Sinusoidal endothelial cell,hetero,157,322.7,-1.03473280714471,1,0,1,0,-3.10419842143412,131,18321_a,irHepatitis,CD8+ T cell 1,Sinusoidal endothelial cell
+CD8+ T cell 1--Hepatocyte 2,hetero,670,1397.25,-1.0592376587854,1,0,1,0,-3.17771297635619,132,18321_a,irHepatitis,CD8+ T cell 1,Hepatocyte 2
+Hepatocyte 2--Macrophage 2,hetero,615,1290.309,-1.06783201140241,1,0,1,0,-3.20349603420722,133,18321_a,irHepatitis,Hepatocyte 2,Macrophage 2
+Hepatocyte 1--Macrophage 2,hetero,790,1678.95,-1.08666869520196,1,0,1,0,-3.26000608560589,134,18321_a,irHepatitis,Hepatocyte 1,Macrophage 2
+Hepatocyte 3--Macrophage 2,hetero,322,694.679,-1.106887606766,1,0,1,0,-3.320662820298,135,18321_a,irHepatitis,Hepatocyte 3,Macrophage 2
+CD8+ T cell 1--Hepatocyte 4,hetero,23,50.863,-1.11167125504198,1,0,1,0,-3.33501376512595,136,18321_a,irHepatitis,CD8+ T cell 1,Hepatocyte 4
+CD8+ T cell 1--Hepatocyte 3,hetero,342,751.502,-1.13348683987458,1,0,1,0,-3.40046051962374,137,18321_a,irHepatitis,CD8+ T cell 1,Hepatocyte 3
+CD8+ T cell 2--Sinusoidal endothelial cell,hetero,11,26.605,-1.20189519529606,1,0,1,0,-3.60568558588818,138,18321_a,irHepatitis,CD8+ T cell 2,Sinusoidal endothelial cell
+CD8+ T cell 2--IgG+ plasmablast / plasma cell,hetero,0,4.968,-2.57724753559315,1,0.00800000000000001,1,0.0231864406779661,-4.16593517875866,139,18321_a,irHepatitis,CD8+ T cell 2,IgG+ plasmablast / plasma cell
+Hepatocyte 1--IgG+ plasmablast / plasma cell,hetero,68,198.555,-1.53211816010349,1,0,1,0,-4.59635448031047,140,18321_a,irHepatitis,Hepatocyte 1,IgG+ plasmablast / plasma cell
+Hepatocyte 3--IgG+ B cell,hetero,37,112.745,-1.58173180508206,1,0,1,0,-4.74519541524618,141,18321_a,irHepatitis,Hepatocyte 3,IgG+ B cell
+Hepatocyte 1--IgG+ B cell,hetero,91,274.581,-1.5827706582233,1,0,1,0,-4.7483119746699,142,18321_a,irHepatitis,Hepatocyte 1,IgG+ B cell
+Hepatocyte 2--Vascular endothelial cell,hetero,141,452.628,-1.67561876305112,1,0,1,0,-5.02685628915335,143,18321_a,irHepatitis,Hepatocyte 2,Vascular endothelial cell
+CD8+ T cell 3--Hepatocyte 2,hetero,53,171.814,-1.67818878539285,1,0,1,0,-5.03456635617856,144,18321_a,irHepatitis,CD8+ T cell 3,Hepatocyte 2
+Hepatocyte 3--Vascular endothelial cell,hetero,75,244.503,-1.69166933043803,1,0,1,0,-5.07500799131408,145,18321_a,irHepatitis,Hepatocyte 3,Vascular endothelial cell
+Hepatocyte 1--Vascular endothelial cell,hetero,181,591.377,-1.70257717630997,1,0,1,0,-5.10773152892992,146,18321_a,irHepatitis,Hepatocyte 1,Vascular endothelial cell
+Cholangiocyte--Hepatocyte 1,hetero,157,536.298,-1.76579790946686,1,0,1,0,-5.29739372840059,147,18321_a,irHepatitis,Cholangiocyte,Hepatocyte 1
+CD8+ T cell 3--Hepatocyte 1,hetero,60,222.405,-1.87278032717578,1,0,1,0,-5.61834098152734,148,18321_a,irHepatitis,CD8+ T cell 3,Hepatocyte 1
+CD8+ T cell 3--Sinusoidal endothelial cell,hetero,10,39.498,-1.8803471382886,1,0,1,0,-5.64104141486581,149,18321_a,irHepatitis,CD8+ T cell 3,Sinusoidal endothelial cell
+Hepatocyte 4--IgG+ plasmablast / plasma cell,hetero,0,5.492,-2.69866299988588,1,0.002,1,0.00645283018867925,-5.74188798296708,150,18321_a,irHepatitis,Hepatocyte 4,IgG+ plasmablast / plasma cell
+Hepatocyte 2--IgG+ B cell,hetero,53,211.655,-1.97748346399699,1,0,1,0,-5.93245039199098,151,18321_a,irHepatitis,Hepatocyte 2,IgG+ B cell
+Cholangiocyte--Hepatocyte 2,hetero,99,411.589,-2.04470535816817,1,0,1,0,-6.13411607450452,152,18321_a,irHepatitis,Cholangiocyte,Hepatocyte 2
+IgG+ B cell--Sinusoidal endothelial cell,hetero,11,48.685,-2.04977595919465,1,0,1,0,-6.14932787758394,153,18321_a,irHepatitis,IgG+ B cell,Sinusoidal endothelial cell
+Hepatocyte 2--IgG+ plasmablast / plasma cell,hetero,33,151.575,-2.16591193893569,1,0,1,0,-6.49773581680707,154,18321_a,irHepatitis,Hepatocyte 2,IgG+ plasmablast / plasma cell
+Cholangiocyte--Hepatocyte 3,hetero,47,220.902,-2.20881635963977,1,0,1,0,-6.62644907891932,155,18321_a,irHepatitis,Cholangiocyte,Hepatocyte 3
+CD8+ T cell 3--Hepatocyte 3,hetero,18,91.816,-2.28837410588023,1,0,1,0,-6.86512231764069,156,18321_a,irHepatitis,CD8+ T cell 3,Hepatocyte 3
+IgG+ plasmablast / plasma cell--Sinusoidal endothelial cell,hetero,6,35.335,-2.37593307915195,1,0,1,0,-7.12779923745586,157,18321_a,irHepatitis,IgG+ plasmablast / plasma cell,Sinusoidal endothelial cell
+Sinusoidal endothelial cell--Vascular endothelial cell,hetero,19,104.719,-2.40216277853733,1,0,1,0,-7.206488335612,158,18321_a,irHepatitis,Sinusoidal endothelial cell,Vascular endothelial cell
+Hepatocyte 4--Vascular endothelial cell,hetero,2,16.541,-2.54769659131696,1,0,1,0,-7.64308977395088,159,18321_a,irHepatitis,Hepatocyte 4,Vascular endothelial cell
+Hepatocyte 3--IgG+ plasmablast / plasma cell,hetero,12,82.147,-2.67715258778495,1,0,1,0,-8.03145776335485,160,18321_a,irHepatitis,Hepatocyte 3,IgG+ plasmablast / plasma cell
+Hepatocyte 4--IgM+ B cell,hetero,1,12.597,-2.76521646970451,1,0,1,0,-8.29564940911352,161,18321_a,irHepatitis,Hepatocyte 4,IgM+ B cell
+CD4+ T cell--Hepatocyte 4,hetero,2,27.676,-3.25680939147568,1,0,1,0,-9.77042817442703,162,18321_a,irHepatitis,CD4+ T cell,Hepatocyte 4
+CD4+ T cell--Hepatocyte 1,hetero,101,976.844,-3.26103517149005,1,0,1,0,-9.78310551447015,163,18321_a,irHepatitis,CD4+ T cell,Hepatocyte 1
+Cholangiocyte--Sinusoidal endothelial cell,hetero,9,95.37,-3.26858410509428,1,0,1,0,-9.80575231528283,164,18321_a,irHepatitis,Cholangiocyte,Sinusoidal endothelial cell
+Hepatocyte 1--IgM+ B cell,hetero,40,444.483,-3.44167456351741,1,0,1,0,-10.3250236905522,165,18321_a,irHepatitis,Hepatocyte 1,IgM+ B cell
+Hepatocyte 2--IgM+ B cell,hetero,29,342.284,-3.51636821097614,1,0,1,0,-10.5491046329284,166,18321_a,irHepatitis,Hepatocyte 2,IgM+ B cell
+CD4+ T cell--Sinusoidal endothelial cell,hetero,14,173.73,-3.54209292500528,1,0,1,0,-10.6262787750158,167,18321_a,irHepatitis,CD4+ T cell,Sinusoidal endothelial cell
+CD4+ T cell--Hepatocyte 2,hetero,59,751.855,-3.64933762250999,1,0,1,0,-10.94801286753,168,18321_a,irHepatitis,CD4+ T cell,Hepatocyte 2
+IgM+ B cell--Sinusoidal endothelial cell,hetero,5,79.317,-3.74267097692659,1,0,1,0,-11.2280129307798,169,18321_a,irHepatitis,IgM+ B cell,Sinusoidal endothelial cell
+CD4+ T cell--Hepatocyte 3,hetero,27,404.9,-3.85762560775273,1,0,1,0,-11.5728768232582,170,18321_a,irHepatitis,CD4+ T cell,Hepatocyte 3
+Hepatocyte 3--IgM+ B cell,hetero,7,184.01,-4.53145944192445,1,0,1,0,-13.5943783257733,171,18321_a,irHepatitis,Hepatocyte 3,IgM+ B cell
+Cholangiocyte--Cholangiocyte,homo,313,12.754,4.5128414032986,0,1,0,1,13.5385242098958,1,24774_d,irHepatitis,Cholangiocyte,Cholangiocyte
+IgM+ B cell--IgM+ B cell,homo,45,3.286,3.42393010604255,0,1,0,1,10.2717903181277,2,24774_d,irHepatitis,IgM+ B cell,IgM+ B cell
+Hepatocyte 4--Hepatocyte 4,homo,72,6.392,3.30385980212605,0,1,0,1,9.91157940637814,3,24774_d,irHepatitis,Hepatocyte 4,Hepatocyte 4
+IgG+ plasmablast / plasma cell--IgG+ plasmablast / plasma cell,homo,9,0.162,3.10531802614492,0,1,0,1,9.31595407843476,4,24774_d,irHepatitis,IgG+ plasmablast / plasma cell,IgG+ plasmablast / plasma cell
+IgG+ B cell--IgG+ plasmablast / plasma cell,hetero,13,0.784,2.97223930679939,0,1,0,1,8.91671792039816,5,24774_d,irHepatitis,IgG+ B cell,IgG+ plasmablast / plasma cell
+CD4+ T cell--CD4+ T cell,homo,1305,168.147,2.94880540212727,0,1,0,1,8.8464162063818,6,24774_d,irHepatitis,CD4+ T cell,CD4+ T cell
+Vascular endothelial cell--Vascular endothelial cell,homo,1325,185.324,2.83119535359498,0,1,0,1,8.49358606078493,7,24774_d,irHepatitis,Vascular endothelial cell,Vascular endothelial cell
+CD8+ T cell 3--CD8+ T cell 3,homo,19,2.84,2.38082178394093,0,1,0,1,7.14246535182279,8,24774_d,irHepatitis,CD8+ T cell 3,CD8+ T cell 3
+CD4+ T cell--IgM+ B cell,hetero,251,48.328,2.35294503405483,0,1,0,1,7.05883510216449,9,24774_d,irHepatitis,CD4+ T cell,IgM+ B cell
+Macrophage 1--Macrophage 1,homo,796,247.989,1.67849771684606,0,1,0,1,5.03549315053819,10,24774_d,irHepatitis,Macrophage 1,Macrophage 1
+Macrophage 2--Macrophage 2,homo,455,154.105,1.55578863022146,0,1,0,1,4.66736589066437,11,24774_d,irHepatitis,Macrophage 2,Macrophage 2
+CD4+ T cell--IgG+ plasmablast / plasma cell,hetero,30,9.956,1.50054704434358,0,1,0,1,4.50164113303075,12,24774_d,irHepatitis,CD4+ T cell,IgG+ plasmablast / plasma cell
+CD8+ T cell 2--CD8+ T cell 2,homo,15,4.664,1.49817873457909,0,1,0,1,4.49453620373727,13,24774_d,irHepatitis,CD8+ T cell 2,CD8+ T cell 2
+Hepatocyte 3--Hepatocyte 3,homo,531,224.023,1.24135377632821,0,1,0,1,3.72406132898462,14,24774_d,irHepatitis,Hepatocyte 3,Hepatocyte 3
+CD8+ T cell 2--CD8+ T cell 3,hetero,18,7.326,1.19030395496545,0,1,0,1,3.57091186489636,15,24774_d,irHepatitis,CD8+ T cell 2,CD8+ T cell 3
+IgG+ plasmablast / plasma cell--Vascular endothelial cell,hetero,25,10.421,1.18682264751976,0,1,0,1,3.56046794255928,16,24774_d,irHepatitis,IgG+ plasmablast / plasma cell,Vascular endothelial cell
+IgG+ B cell--Macrophage 2,hetero,55,24.998,1.10702618472667,0,1,0,1,3.32107855418,17,24774_d,irHepatitis,IgG+ B cell,Macrophage 2
+CD8+ T cell 3--IgG+ B cell,hetero,10,3.332,1.34439837569106,0.001,1,0.00348979591836735,1,3.15634274438363,18,24774_d,irHepatitis,CD8+ T cell 3,IgG+ B cell
+CD8+ T cell 1--CD8+ T cell 1,homo,330,178.369,0.883900643446374,0,1,0,1,2.65170193033912,19,24774_d,irHepatitis,CD8+ T cell 1,CD8+ T cell 1
+Stellate cell--Stellate cell,homo,876,485.415,0.850389123567914,0,1,0,1,2.55116737070374,20,24774_d,irHepatitis,Stellate cell,Stellate cell
+CD8+ T cell 1--CD8+ T cell 3,hetero,81,44.596,0.846716643088133,0,1,0,1,2.5401499292644,21,24774_d,irHepatitis,CD8+ T cell 1,CD8+ T cell 3
+IgG+ B cell--Stellate cell,hetero,80,44.244,0.840195425065194,0,1,0,1,2.52058627519558,22,24774_d,irHepatitis,IgG+ B cell,Stellate cell
+IgG+ plasmablast / plasma cell--IgM+ B cell,hetero,6,1.399,1.54492176442626,0.00700000000000001,0.999,0.0225849056603774,1,2.51415293053429,23,24774_d,irHepatitis,IgG+ plasmablast / plasma cell,IgM+ B cell
+CD8+ T cell 3--Macrophage 1,hetero,93,52.767,0.805939779985635,0,1,0,1,2.41781933995691,24,24774_d,irHepatitis,CD8+ T cell 3,Macrophage 1
+CD8+ T cell 1--IgG+ B cell,hetero,47,26.533,0.801872591057614,0,1,0,1,2.40561777317284,25,24774_d,irHepatitis,CD8+ T cell 1,IgG+ B cell
+IgG+ B cell--IgM+ B cell,hetero,10,3.653,1.24127043154214,0.004,0.998,0.0134117647058824,1,2.28552994169118,26,24774_d,irHepatitis,IgG+ B cell,IgM+ B cell
+Stellate cell--Vascular endothelial cell,hetero,1015,599.021,0.759815502833484,0,1,0,1,2.27944650850045,27,24774_d,irHepatitis,Stellate cell,Vascular endothelial cell
+CD4+ T cell--Macrophage 2,hetero,534,321.419,0.730602127802693,0,1,0,1,2.19180638340808,28,24774_d,irHepatitis,CD4+ T cell,Macrophage 2
+Hepatocyte 2--Hepatocyte 3,hetero,1499,913.581,0.713779647478843,0,1,0,1,2.14133894243653,29,24774_d,irHepatitis,Hepatocyte 2,Hepatocyte 3
+Macrophage 1--Macrophage 2,hetero,628,391.869,0.679011683135186,0,1,0,1,2.03703504940556,30,24774_d,irHepatitis,Macrophage 1,Macrophage 2
+Hepatocyte 1--Sinusoidal endothelial cell,hetero,1748,1096.511,0.672294889757774,0,1,0,1,2.01688466927332,31,24774_d,irHepatitis,Hepatocyte 1,Sinusoidal endothelial cell
+CD8+ T cell 1--CD8+ T cell 2,hetero,92,57.916,0.658571231808511,0,1,0,1,1.97571369542553,32,24774_d,irHepatitis,CD8+ T cell 1,CD8+ T cell 2
+Hepatocyte 2--Hepatocyte 2,homo,1459,930.358,0.648560639337029,0,1,0,1,1.94568191801109,33,24774_d,irHepatitis,Hepatocyte 2,Hepatocyte 2
+CD8+ T cell 1--Macrophage 1,hetero,654,421.047,0.634091237359242,0,1,0,1,1.90227371207773,34,24774_d,irHepatitis,CD8+ T cell 1,Macrophage 1
+IgM+ B cell--Vascular endothelial cell,hetero,78,50.294,0.623062573587891,0,1,0,1,1.86918772076367,35,24774_d,irHepatitis,IgM+ B cell,Vascular endothelial cell
+CD4+ T cell--CD8+ T cell 1,hetero,524,346.383,0.595790268660793,0,1,0,1,1.78737080598238,36,24774_d,irHepatitis,CD4+ T cell,CD8+ T cell 1
+Hepatocyte 1--Hepatocyte 1,homo,4078,2731.794,0.577838794572476,0,1,0,1,1.73351638371743,37,24774_d,irHepatitis,Hepatocyte 1,Hepatocyte 1
+Hepatocyte 1--Hepatocyte 4,hetero,389,262.972,0.56308921561646,0,1,0,1,1.68926764684938,38,24774_d,irHepatitis,Hepatocyte 1,Hepatocyte 4
+CD8+ T cell 1--Macrophage 2,hetero,481,332.682,0.530559281964194,0,1,0,1,1.59167784589258,39,24774_d,irHepatitis,CD8+ T cell 1,Macrophage 2
+Hepatocyte 2--Sinusoidal endothelial cell,hetero,904,641.762,0.493633152591779,0,1,0,1,1.48089945777534,40,24774_d,irHepatitis,Hepatocyte 2,Sinusoidal endothelial cell
+Hepatocyte 1--Hepatocyte 2,hetero,4381,3185.236,0.459736355123403,0,1,0,1,1.37920906537021,41,24774_d,irHepatitis,Hepatocyte 1,Hepatocyte 2
+IgM+ B cell--Stellate cell,hetero,110,81.581,0.426677882782683,0,1,0,1,1.28003364834805,42,24774_d,irHepatitis,IgM+ B cell,Stellate cell
+CD8+ T cell 1--IgM+ B cell,hetero,72,49.672,0.526707691513914,0.001,0.999,0.00348979591836735,1,1.23659030729373,43,24774_d,irHepatitis,CD8+ T cell 1,IgM+ B cell
+Ig+ hepatocyte--IgG+ plasmablast / plasma cell,hetero,1,0.021,0.970017133784286,0.021,1,0.0630000000000001,1,1.15802587989043,44,24774_d,irHepatitis,Ig+ hepatocyte,IgG+ plasmablast / plasma cell
+IgM+ B cell--Macrophage 2,hetero,67,45.894,0.536131401959045,0.002,0.998,0.00684000000000001,1,1.12892328139563,45,24774_d,irHepatitis,IgM+ B cell,Macrophage 2
+Macrophage 2--Stellate cell,hetero,707,548.353,0.366015874662333,0,1,0,1,1.098047623987,46,24774_d,irHepatitis,Macrophage 2,Stellate cell
+CD8+ T cell 2--Hepatocyte 1,hetero,291,226.77,0.358390629528105,0,1,0,1,1.07517188858432,47,24774_d,irHepatitis,CD8+ T cell 2,Hepatocyte 1
+CD8+ T cell 2--Macrophage 1,hetero,94,68.558,0.449711061988895,0.001,0.999,0.00348979591836735,1,1.05581966866635,48,24774_d,irHepatitis,CD8+ T cell 2,Macrophage 1
+CD4+ T cell--IgG+ B cell,hetero,41,26.084,0.632948503527855,0.00700000000000001,0.996,0.0225849056603774,1,1.0300387836227,49,24774_d,irHepatitis,CD4+ T cell,IgG+ B cell
+CD4+ T cell--Vascular endothelial cell,hetero,445,352.957,0.333469603099397,0,1,0,1,1.00040880929819,50,24774_d,irHepatitis,CD4+ T cell,Vascular endothelial cell
+Cholangiocyte--Macrophage 2,hetero,117,87.424,0.416276956106087,0.001,0.999,0.00348979591836735,1,0.977323964248443,51,24774_d,irHepatitis,Cholangiocyte,Macrophage 2
+Hepatocyte 1--Hepatocyte 3,hetero,1943,1569.19,0.308089076723156,0,1,0,1,0.924267230169466,52,24774_d,irHepatitis,Hepatocyte 1,Hepatocyte 3
+IgG+ plasmablast / plasma cell--Stellate cell,hetero,27,17.251,0.617451313560248,0.014,0.99,0.0443333333333334,1,0.829596684629824,53,24774_d,irHepatitis,IgG+ plasmablast / plasma cell,Stellate cell
+Ig+ hepatocyte--IgG+ B cell,hetero,1,0.047,0.933738557731279,0.0470000000000001,1,0.13395,1,0.812191112201048,54,24774_d,irHepatitis,Ig+ hepatocyte,IgG+ B cell
+CD4+ T cell--Stellate cell,hetero,674,571.389,0.237891555112756,0,1,0,1,0.713674665338267,55,24774_d,irHepatitis,CD4+ T cell,Stellate cell
+Hepatocyte 3--Sinusoidal endothelial cell,hetero,370,316.685,0.223822214315915,0,1,0,1,0.671466642947746,56,24774_d,irHepatitis,Hepatocyte 3,Sinusoidal endothelial cell
+IgG+ B cell--IgG+ B cell,homo,3,0.997,1.00216566721811,0.081,0.985,0.219857142857143,1,0.657308986764358,57,24774_d,irHepatitis,IgG+ B cell,IgG+ B cell
+Hepatocyte 2--Ig+ hepatocyte,hetero,4,1.722,0.877261028045455,0.075,0.983,0.206854838709677,1,0.598502441816888,58,24774_d,irHepatitis,Hepatocyte 2,Ig+ hepatocyte
+CD8+ T cell 3--Macrophage 2,hetero,56,41.689,0.417097551771202,0.018,0.988,0.0559636363636364,1,0.519037150501356,59,24774_d,irHepatitis,CD8+ T cell 3,Macrophage 2
+CD8+ T cell 2--Cholangiocyte,hetero,23,15.309,0.557366081127345,0.041,0.976,0.118830508474576,1,0.513575276083993,60,24774_d,irHepatitis,CD8+ T cell 2,Cholangiocyte
+IgG+ B cell--Vascular endothelial cell,hetero,38,27.396,0.457786405040516,0.029,0.982,0.0855000000000001,1,0.486619574779657,61,24774_d,irHepatitis,IgG+ B cell,Vascular endothelial cell
+IgG+ plasmablast / plasma cell--Macrophage 2,hetero,15,9.726,0.576959746638487,0.0580000000000001,0.959,0.162590163934426,1,0.453630453829911,62,24774_d,irHepatitis,IgG+ plasmablast / plasma cell,Macrophage 2
+Hepatocyte 4--Sinusoidal endothelial cell,hetero,69,52.934,0.376159887167705,0.021,0.985,0.0630000000000001,1,0.449067206284767,63,24774_d,irHepatitis,Hepatocyte 4,Sinusoidal endothelial cell
+Hepatocyte 4--Ig+ hepatocyte,hetero,1,0.134,0.818579359719858,0.122,0.99,0.32596875,1,0.397415165479187,64,24774_d,irHepatitis,Hepatocyte 4,Ig+ hepatocyte
+Hepatocyte 4--IgG+ B cell,hetero,8,5.038,0.575854244590774,0.133,0.936,0.349892307692308,1,0.261913570376715,65,24774_d,irHepatitis,Hepatocyte 4,IgG+ B cell
+CD8+ T cell 3--Hepatocyte 4,hetero,11,8.22,0.380195750066543,0.224,0.859,0.580363636363636,1,0.0895559211569135,66,24774_d,irHepatitis,CD8+ T cell 3,Hepatocyte 4
+CD8+ T cell 2--Hepatocyte 4,hetero,13,10.679,0.261510076651252,0.282,0.814,0.698869565217391,1,0.0405295879570979,67,24774_d,irHepatitis,CD8+ T cell 2,Hepatocyte 4
+CD8+ T cell 3--Cholangiocyte,hetero,14,11.736,0.236050259726957,0.307,0.799,0.739394366197183,1,0.0308132678593186,68,24774_d,irHepatitis,CD8+ T cell 3,Cholangiocyte
+Ig+ hepatocyte--Stellate cell,hetero,2,1.245,0.418247055754734,0.362,0.885,0.847972602739726,1,0.0297400109431998,69,24774_d,irHepatitis,Ig+ hepatocyte,Stellate cell
+CD8+ T cell 2--Hepatocyte 2,hetero,140,131.995,0.0843231545727879,0.245,0.777,0.625298507462687,1,0.0171360353819255,70,24774_d,irHepatitis,CD8+ T cell 2,Hepatocyte 2
+Sinusoidal endothelial cell--Sinusoidal endothelial cell,homo,117,110.719,0.0789122944038562,0.297,0.726,0.725528571428572,1,0.0109488679420341,71,24774_d,irHepatitis,Sinusoidal endothelial cell,Sinusoidal endothelial cell
+Macrophage 2--Vascular endothelial cell,hetero,352,338.891,0.0545960223443553,0.252,0.758,0.633705882352941,1,0.0107787549290497,72,24774_d,irHepatitis,Macrophage 2,Vascular endothelial cell
+Cholangiocyte--Stellate cell,hetero,162,156.19,0.0523625242726885,0.323,0.714,0.767125,1,0.00599907490505471,73,24774_d,irHepatitis,Cholangiocyte,Stellate cell
+Ig+ hepatocyte--Sinusoidal endothelial cell,hetero,0,0.566,-0.647084212628954,1,0.552,1,1,0.000280884683924833,74,24774_d,irHepatitis,Ig+ hepatocyte,Sinusoidal endothelial cell
+Cholangiocyte--Ig+ hepatocyte,hetero,0,0.204,-0.267835392097615,1,0.818,1,1,0.00011626131187404,75,24774_d,irHepatitis,Cholangiocyte,Ig+ hepatocyte
+CD8+ T cell 2--Ig+ hepatocyte,hetero,0,0.116,-0.158337027167101,1,0.889,1,1,6.87305376354946e-05,76,24774_d,irHepatitis,CD8+ T cell 2,Ig+ hepatocyte
+Ig+ hepatocyte--IgM+ B cell,hetero,0,0.11,-0.150559676575381,1,0.895,1,1,6.53545648948642e-05,77,24774_d,irHepatitis,Ig+ hepatocyte,IgM+ B cell
+CD8+ T cell 3--Ig+ hepatocyte,hetero,0,0.084,-0.116364756691785,1,0.924,1,1,5.05113202662912e-05,78,24774_d,irHepatitis,CD8+ T cell 3,Ig+ hepatocyte
+Ig+ hepatocyte--Ig+ hepatocyte,homo,0,0.002,-0.00288250853312144,1,0.998,1,1,1.25123203817169e-06,79,24774_d,irHepatitis,Ig+ hepatocyte,Ig+ hepatocyte
+Ig+ hepatocyte--Vascular endothelial cell,hetero,1,0.767,0.17869796011047,0.535,0.822,1,1,-7.75687600841274e-05,80,24774_d,irHepatitis,Ig+ hepatocyte,Vascular endothelial cell
+CD8+ T cell 1--IgG+ plasmablast / plasma cell,hetero,10,10.489,-0.0627497078437524,0.608,0.524,1,0.9956,-9.28141699680367e-05,81,24774_d,irHepatitis,CD8+ T cell 1,IgG+ plasmablast / plasma cell
+CD8+ T cell 1--Stellate cell,hetero,587,588.287,-0.00315428482140921,0.545,0.472,1,0.927724137931034,-0.000101294390061493,82,24774_d,irHepatitis,CD8+ T cell 1,Stellate cell
+Ig+ hepatocyte--Macrophage 2,hetero,1,0.689,0.243830671860701,0.499,0.845,1,1,-0.000105841403421852,83,24774_d,irHepatitis,Ig+ hepatocyte,Macrophage 2
+Hepatocyte 3--Hepatocyte 4,hetero,74,75.286,-0.0245277224761634,0.559,0.483,1,0.938556818181818,-0.000664135952177403,84,24774_d,irHepatitis,Hepatocyte 3,Hepatocyte 4
+CD8+ T cell 2--IgG+ plasmablast / plasma cell,hetero,1,1.683,-0.423847054598434,0.812,0.501,1,0.962595505617978,-0.00682615612006967,85,24774_d,irHepatitis,CD8+ T cell 2,IgG+ plasmablast / plasma cell
+Hepatocyte 2--Hepatocyte 4,hetero,146,153.156,-0.0685748874926739,0.733,0.3,1,0.649367088607595,-0.0128126310040327,86,24774_d,irHepatitis,Hepatocyte 2,Hepatocyte 4
+CD8+ T cell 2--Sinusoidal endothelial cell,hetero,42,45.577,-0.115281059499941,0.717,0.331,1,0.698777777777778,-0.017873158534556,87,24774_d,irHepatitis,CD8+ T cell 2,Sinusoidal endothelial cell
+CD4+ T cell--Ig+ hepatocyte,hetero,0,0.751,-0.808179083771471,1,0.458,1,0.910674418604651,-0.0324566588897211,88,24774_d,irHepatitis,CD4+ T cell,Ig+ hepatocyte
+Hepatocyte 4--IgG+ plasmablast / plasma cell,hetero,1,1.989,-0.579662897016007,0.871,0.411,1,0.846759036144578,-0.0415778124372371,89,24774_d,irHepatitis,Hepatocyte 4,IgG+ plasmablast / plasma cell
+IgG+ plasmablast / plasma cell--Macrophage 1,hetero,10,12.252,-0.26870658478163,0.8,0.31,1,0.662625,-0.0478505328054476,90,24774_d,irHepatitis,IgG+ plasmablast / plasma cell,Macrophage 1
+Hepatocyte 3--Ig+ hepatocyte,hetero,0,0.834,-0.874993638932967,1,0.437,1,0.879141176470588,-0.0485163502543449,91,24774_d,irHepatitis,Hepatocyte 3,Ig+ hepatocyte
+CD8+ T cell 1--Ig+ hepatocyte,hetero,0,0.795,-0.843983844048327,1,0.425,1,0.865178571428572,-0.052658316489697,92,24774_d,irHepatitis,CD8+ T cell 1,Ig+ hepatocyte
+CD8+ T cell 2--Hepatocyte 3,hetero,57,64.54,-0.176322772640463,0.84,0.203,1,0.450818181818182,-0.0608377564472339,93,24774_d,irHepatitis,CD8+ T cell 2,Hepatocyte 3
+CD8+ T cell 3--Sinusoidal endothelial cell,hetero,29,35.164,-0.269591758365097,0.869,0.179,1,0.40275,-0.106188814195886,94,24774_d,irHepatitis,CD8+ T cell 3,Sinusoidal endothelial cell
+Macrophage 1--Stellate cell,hetero,651,695.304,-0.0948453467018848,0.974,0.029,1,0.0740149253731344,-0.106687008131266,95,24774_d,irHepatitis,Macrophage 1,Stellate cell
+Ig+ hepatocyte--Macrophage 1,hetero,0,0.942,-0.957543200757105,1,0.363,1,0.756987804878049,-0.115228624558803,96,24774_d,irHepatitis,Ig+ hepatocyte,Macrophage 1
+CD8+ T cell 3--Stellate cell,hetero,62,73.302,-0.238049215950081,0.935,0.085,1,0.199109589041096,-0.166332628547546,97,24774_d,irHepatitis,CD8+ T cell 3,Stellate cell
+Cholangiocyte--Vascular endothelial cell,hetero,82,96.378,-0.230484533630818,0.944,0.0620000000000001,1,0.155911764705883,-0.185388965412564,98,24774_d,irHepatitis,Cholangiocyte,Vascular endothelial cell
+CD8+ T cell 1--Hepatocyte 4,hetero,55,66.896,-0.277899755397718,0.942,0.08,1,0.19,-0.199800651380977,99,24774_d,irHepatitis,CD8+ T cell 1,Hepatocyte 4
+CD8+ T cell 3--IgG+ plasmablast / plasma cell,hetero,0,1.303,-1.20351441113076,1,0.27,1,0.591923076923077,-0.273199752700645,100,24774_d,irHepatitis,CD8+ T cell 3,IgG+ plasmablast / plasma cell
+Cholangiocyte--IgG+ B cell,hetero,4,7.084,-0.693141226830286,0.92,0.152,1,0.34656,-0.318131175442418,101,24774_d,irHepatitis,Cholangiocyte,IgG+ B cell
+Hepatocyte 3--IgG+ B cell,hetero,22,29.883,-0.425179042825559,0.952,0.068,1,0.168521739130435,-0.327717207014985,102,24774_d,irHepatitis,Hepatocyte 3,IgG+ B cell
+CD8+ T cell 3--Hepatocyte 1,hetero,150,175.349,-0.223884845328461,0.99,0.012,1,0.0330967741935484,-0.32850325734327,103,24774_d,irHepatitis,CD8+ T cell 3,Hepatocyte 1
+CD8+ T cell 1--Cholangiocyte,hetero,75,94.383,-0.327732740744072,0.989,0.018,1,0.0480937500000001,-0.428993568833796,104,24774_d,irHepatitis,CD8+ T cell 1,Cholangiocyte
+Hepatocyte 1--Ig+ hepatocyte,hetero,1,2.969,-0.988775562337746,0.973,0.148,1,0.342,-0.459489817776367,105,24774_d,irHepatitis,Hepatocyte 1,Ig+ hepatocyte
+CD8+ T cell 2--Macrophage 2,hetero,40,53.908,-0.421392452969582,0.988,0.022,1,0.0578769230769231,-0.518335849246192,106,24774_d,irHepatitis,CD8+ T cell 2,Macrophage 2
+IgG+ B cell--Macrophage 1,hetero,21,31.209,-0.549960345991703,0.987,0.024,1,0.0621818181818182,-0.659626772982413,107,24774_d,irHepatitis,IgG+ B cell,Macrophage 1
+IgM+ B cell--Macrophage 1,hetero,42,58.314,-0.464036007296001,0.995,0.00900000000000001,1,0.0260847457627119,-0.727272143155538,108,24774_d,irHepatitis,IgM+ B cell,Macrophage 1
+Macrophage 1--Sinusoidal endothelial cell,hetero,278,331.184,-0.251717463959382,1,0,1,0,-0.755152391878145,109,24774_d,irHepatitis,Macrophage 1,Sinusoidal endothelial cell
+CD8+ T cell 1--Vascular endothelial cell,hetero,300,363.08,-0.274492004433763,1,0,1,0,-0.823476013301289,110,24774_d,irHepatitis,CD8+ T cell 1,Vascular endothelial cell
+CD8+ T cell 3--Vascular endothelial cell,hetero,31,45.628,-0.543124644831909,0.993,0.01,1,0.0285,-0.831077374101466,111,24774_d,irHepatitis,CD8+ T cell 3,Vascular endothelial cell
+Hepatocyte 1--Macrophage 1,hetero,1296,1646.231,-0.344864406492117,1,0,1,0,-1.03459321947635,112,24774_d,irHepatitis,Hepatocyte 1,Macrophage 1
+CD8+ T cell 2--IgG+ B cell,hetero,1,4.362,-1.42277121932047,0.978,0.077,1,0.185450704225352,-1.03782050725155,113,24774_d,irHepatitis,CD8+ T cell 2,IgG+ B cell
+CD4+ T cell--CD8+ T cell 3,hetero,27,43.355,-0.663669917009151,0.998,0.005,1,0.0147413793103448,-1.19656846593278,114,24774_d,irHepatitis,CD4+ T cell,CD8+ T cell 3
+CD8+ T cell 1--Hepatocyte 1,hetero,1032,1396.608,-0.436119517269156,1,0,1,0,-1.30835855180747,115,24774_d,irHepatitis,CD8+ T cell 1,Hepatocyte 1
+Hepatocyte 1--Stellate cell,hetero,1675,2306.091,-0.46105276120795,1,0,1,0,-1.38315828362385,116,24774_d,irHepatitis,Hepatocyte 1,Stellate cell
+Hepatocyte 2--Stellate cell,hetero,963,1344.236,-0.480754241037359,1,0,1,0,-1.44226272311208,117,24774_d,irHepatitis,Hepatocyte 2,Stellate cell
+Cholangiocyte--IgG+ plasmablast / plasma cell,hetero,0,2.842,-1.94185751900344,1,0.07,1,0.171,-1.48449483343681,118,24774_d,irHepatitis,Cholangiocyte,IgG+ plasmablast / plasma cell
+CD8+ T cell 1--Sinusoidal endothelial cell,hetero,197,280.564,-0.507962456434555,1,0,1,0,-1.52388736930366,119,24774_d,irHepatitis,CD8+ T cell 1,Sinusoidal endothelial cell
+Sinusoidal endothelial cell--Stellate cell,hetero,325,462.98,-0.509190654425187,1,0,1,0,-1.52757196327556,120,24774_d,irHepatitis,Sinusoidal endothelial cell,Stellate cell
+Hepatocyte 2--Macrophage 1,hetero,663,963.031,-0.53789629785729,1,0,1,0,-1.61368889357187,121,24774_d,irHepatitis,Hepatocyte 2,Macrophage 1
+CD8+ T cell 1--Hepatocyte 2,hetero,541,815.132,-0.590509658882535,1,0,1,0,-1.7715289766476,122,24774_d,irHepatitis,CD8+ T cell 1,Hepatocyte 2
+Cholangiocyte--IgM+ B cell,hetero,5,12.871,-1.20903739358227,0.998,0.012,1,0.0330967741935484,-1.77400449529714,123,24774_d,irHepatitis,Cholangiocyte,IgM+ B cell
+Hepatocyte 3--Stellate cell,hetero,427,660.425,-0.62796677973779,1,0,1,0,-1.88390033921337,124,24774_d,irHepatitis,Hepatocyte 3,Stellate cell
+Hepatocyte 4--Macrophage 1,hetero,50,79.121,-0.651683180632109,1,0,1,0,-1.95504954189633,125,24774_d,irHepatitis,Hepatocyte 4,Macrophage 1
+CD4+ T cell--Cholangiocyte,hetero,57,91.429,-0.672292674258782,1,0,1,0,-2.01687802277635,126,24774_d,irHepatitis,CD4+ T cell,Cholangiocyte
+CD8+ T cell 1--Hepatocyte 3,hetero,245,401.199,-0.709251179065238,1,0,1,0,-2.12775353719571,127,24774_d,irHepatitis,CD8+ T cell 1,Hepatocyte 3
+CD8+ T cell 3--Hepatocyte 3,hetero,30,50.216,-0.724326366496619,1,0,1,0,-2.17297909948986,128,24774_d,irHepatitis,CD8+ T cell 3,Hepatocyte 3
+Hepatocyte 3--Macrophage 2,hetero,224,372.479,-0.731102123907937,1,0,1,0,-2.19330637172381,129,24774_d,irHepatitis,Hepatocyte 3,Macrophage 2
+Hepatocyte 4--Macrophage 2,hetero,36,62.303,-0.774748601464393,1,0,1,0,-2.32424580439318,130,24774_d,irHepatitis,Hepatocyte 4,Macrophage 2
+IgG+ B cell--Sinusoidal endothelial cell,hetero,9,21.157,-1.14776255746494,1,0.002,1,0.00610714285714286,-2.46574398928794,131,24774_d,irHepatitis,IgG+ B cell,Sinusoidal endothelial cell
+CD8+ T cell 3--Hepatocyte 2,hetero,57,102.024,-0.828855654848505,1,0,1,0,-2.48656696454551,132,24774_d,irHepatitis,CD8+ T cell 3,Hepatocyte 2
+CD8+ T cell 3--IgM+ B cell,hetero,1,6.229,-1.85379609049292,0.998,0.016,1,0.0434285714285715,-2.50695825042685,133,24774_d,irHepatitis,CD8+ T cell 3,IgM+ B cell
+Macrophage 2--Sinusoidal endothelial cell,hetero,144,260.46,-0.850537349422507,1,0,1,0,-2.55161204826752,134,24774_d,irHepatitis,Macrophage 2,Sinusoidal endothelial cell
+Hepatocyte 4--Stellate cell,hetero,58,110.421,-0.917234309721113,1,0,1,0,-2.75170292916334,135,24774_d,irHepatitis,Hepatocyte 4,Stellate cell
+CD8+ T cell 2--Stellate cell,hetero,50,95.85,-0.925254801744396,1,0,1,0,-2.77576440523319,136,24774_d,irHepatitis,CD8+ T cell 2,Stellate cell
+Hepatocyte 3--Macrophage 1,hetero,246,473.112,-0.940716867013472,1,0,1,0,-2.82215060104042,137,24774_d,irHepatitis,Hepatocyte 3,Macrophage 1
+Hepatocyte 2--IgG+ B cell,hetero,29,61.121,-1.05011855314168,1,0,1,0,-3.15035565942503,138,24774_d,irHepatitis,Hepatocyte 2,IgG+ B cell
+Cholangiocyte--Macrophage 1,hetero,53,111.553,-1.05957319866758,1,0,1,0,-3.17871959600273,139,24774_d,irHepatitis,Cholangiocyte,Macrophage 1
+Hepatocyte 2--Macrophage 2,hetero,355,756.853,-1.09004079620498,1,0,1,0,-3.27012238861494,140,24774_d,irHepatitis,Hepatocyte 2,Macrophage 2
+Cholangiocyte--Hepatocyte 3,hetero,44,105.58,-1.24393983165564,1,0,1,0,-3.73181949496691,141,24774_d,irHepatitis,Cholangiocyte,Hepatocyte 3
+Hepatocyte 1--Macrophage 2,hetero,535,1299.153,-1.27837650157576,1,0,1,0,-3.83512950472727,142,24774_d,irHepatitis,Hepatocyte 1,Macrophage 2
+Cholangiocyte--Hepatocyte 2,hetero,87,215.349,-1.29778502354329,1,0,1,0,-3.89335507062987,143,24774_d,irHepatitis,Cholangiocyte,Hepatocyte 2
+Macrophage 1--Vascular endothelial cell,hetero,162,429.126,-1.39988737663171,1,0,1,0,-4.19966212989514,144,24774_d,irHepatitis,Macrophage 1,Vascular endothelial cell
+CD8+ T cell 2--IgM+ B cell,hetero,1,7.867,-2.14844607552888,1,0.003,1,0.00900000000000001,-4.29689215105777,145,24774_d,irHepatitis,CD8+ T cell 2,IgM+ B cell
+Cholangiocyte--Hepatocyte 1,hetero,126,369.958,-1.54642735663629,1,0,1,0,-4.63928206990888,146,24774_d,irHepatitis,Cholangiocyte,Hepatocyte 1
+CD4+ T cell--Macrophage 1,hetero,136,407.402,-1.57581403812055,1,0,1,0,-4.72744211436165,147,24774_d,irHepatitis,CD4+ T cell,Macrophage 1
+Hepatocyte 1--IgG+ B cell,hetero,29,105.081,-1.82213187473162,1,0,1,0,-5.46639562419485,148,24774_d,irHepatitis,Hepatocyte 1,IgG+ B cell
+Cholangiocyte--Sinusoidal endothelial cell,hetero,20,74.582,-1.84765336683648,1,0,1,0,-5.54296010050945,149,24774_d,irHepatitis,Cholangiocyte,Sinusoidal endothelial cell
+Hepatocyte 4--IgM+ B cell,hetero,1,9.215,-2.3526172989585,1,0.001,1,0.00310909090909091,-5.61394302907924,150,24774_d,irHepatitis,Hepatocyte 4,IgM+ B cell
+CD4+ T cell--CD8+ T cell 2,hetero,13,56.172,-2.02988193257165,1,0,1,0,-6.08964579771494,151,24774_d,irHepatitis,CD4+ T cell,CD8+ T cell 2
+Sinusoidal endothelial cell--Vascular endothelial cell,hetero,60,285.936,-2.23384783726939,1,0,1,0,-6.70154351180818,152,24774_d,irHepatitis,Sinusoidal endothelial cell,Vascular endothelial cell
+Hepatocyte 2--Vascular endothelial cell,hetero,171,829.951,-2.27235484089945,1,0,1,0,-6.81706452269836,153,24774_d,irHepatitis,Hepatocyte 2,Vascular endothelial cell
+CD8+ T cell 2--Vascular endothelial cell,hetero,11,59.044,-2.32298568351556,1,0,1,0,-6.96895705054669,154,24774_d,irHepatitis,CD8+ T cell 2,Vascular endothelial cell
+Hepatocyte 3--IgM+ B cell,hetero,10,55.662,-2.36487800170696,1,0,1,0,-7.09463400512087,155,24774_d,irHepatitis,Hepatocyte 3,IgM+ B cell
+Hepatocyte 1--Vascular endothelial cell,hetero,268,1427.437,-2.40875933094408,1,0,1,0,-7.22627799283223,156,24774_d,irHepatitis,Hepatocyte 1,Vascular endothelial cell
+Hepatocyte 3--Vascular endothelial cell,hetero,72,406.807,-2.48191817029682,1,0,1,0,-7.44575451089046,157,24774_d,irHepatitis,Hepatocyte 3,Vascular endothelial cell
+Hepatocyte 2--IgM+ B cell,hetero,19,113.121,-2.51249238877663,1,0,1,0,-7.53747716632988,158,24774_d,irHepatitis,Hepatocyte 2,IgM+ B cell
+Hepatocyte 1--IgG+ plasmablast / plasma cell,hetero,6,40.522,-2.56844910883263,1,0,1,0,-7.7053473264979,159,24774_d,irHepatitis,Hepatocyte 1,IgG+ plasmablast / plasma cell
+IgM+ B cell--Sinusoidal endothelial cell,hetero,5,38.9,-2.73335434061383,1,0,1,0,-8.20006302184148,160,24774_d,irHepatitis,IgM+ B cell,Sinusoidal endothelial cell
+IgG+ plasmablast / plasma cell--Sinusoidal endothelial cell,hetero,0,8.121,-3.18919200596365,1,0,1,0,-9.56757601789096,161,24774_d,irHepatitis,IgG+ plasmablast / plasma cell,Sinusoidal endothelial cell
+Cholangiocyte--Hepatocyte 4,hetero,1,17.62,-3.21878116778407,1,0,1,0,-9.65634350335221,162,24774_d,irHepatitis,Cholangiocyte,Hepatocyte 4
+Hepatocyte 1--IgM+ B cell,hetero,15,193.318,-3.6022757361326,1,0,1,0,-10.8068272083978,163,24774_d,irHepatitis,Hepatocyte 1,IgM+ B cell
+Hepatocyte 3--IgG+ plasmablast / plasma cell,hetero,0,11.304,-3.62105550329974,1,0,1,0,-10.8631665098992,164,24774_d,irHepatitis,Hepatocyte 3,IgG+ plasmablast / plasma cell
+Hepatocyte 2--IgG+ plasmablast / plasma cell,hetero,1,23.613,-3.62134860889407,1,0,1,0,-10.8640458266822,165,24774_d,irHepatitis,Hepatocyte 2,IgG+ plasmablast / plasma cell
+CD4+ T cell--Hepatocyte 4,hetero,4,65.014,-3.72277201823915,1,0,1,0,-11.1683160547174,166,24774_d,irHepatitis,CD4+ T cell,Hepatocyte 4
+CD4+ T cell--Hepatocyte 1,hetero,81,1355.016,-4.04760648136817,1,0,1,0,-12.1428194441045,167,24774_d,irHepatitis,CD4+ T cell,Hepatocyte 1
+CD4+ T cell--Sinusoidal endothelial cell,hetero,14,273.479,-4.19366136906224,1,0,1,0,-12.5809841071867,168,24774_d,irHepatitis,CD4+ T cell,Sinusoidal endothelial cell
+CD4+ T cell--Hepatocyte 3,hetero,18,388.171,-4.35633288461311,1,0,1,0,-13.0689986538393,169,24774_d,irHepatitis,CD4+ T cell,Hepatocyte 3
+CD4+ T cell--Hepatocyte 2,hetero,27,792.401,-4.82455148356952,1,0,1,0,-14.4736544507086,170,24774_d,irHepatitis,CD4+ T cell,Hepatocyte 2
+Hepatocyte 4--Vascular endothelial cell,hetero,1,68.218,-5.11307535144754,1,0,1,0,-15.3392260543426,171,24774_d,irHepatitis,Hepatocyte 4,Vascular endothelial cell
+Hepatocyte 4--Hepatocyte 4,homo,158,9.223,3.95913623457064,0,1,0,1,11.8774087037119,1,54023_b,AIH,Hepatocyte 4,Hepatocyte 4
+Vascular endothelial cell--Vascular endothelial cell,homo,995,103.08,3.25845287512501,0,1,0,1,9.77535862537503,2,54023_b,AIH,Vascular endothelial cell,Vascular endothelial cell
+Cholangiocyte--Cholangiocyte,homo,5971,781.887,2.93133817290012,0,1,0,1,8.79401451870037,3,54023_b,AIH,Cholangiocyte,Cholangiocyte
+Ig+ hepatocyte--Ig+ hepatocyte,homo,31,3.219,2.92309891244274,0,1,0,1,8.76929673732821,4,54023_b,AIH,Ig+ hepatocyte,Ig+ hepatocyte
+Hepatocyte 3--Hepatocyte 3,homo,151,19.243,2.90857630617237,0,1,0,1,8.7257289185171,5,54023_b,AIH,Hepatocyte 3,Hepatocyte 3
+CD8+ T cell 3--CD8+ T cell 3,homo,120,15.636,2.86262655229033,0,1,0,1,8.58787965687098,6,54023_b,AIH,CD8+ T cell 3,CD8+ T cell 3
+Hepatocyte 2--Hepatocyte 2,homo,399,71.942,2.45517833735038,0,1,0,1,7.36553501205114,7,54023_b,AIH,Hepatocyte 2,Hepatocyte 2
+CD8+ T cell 2--CD8+ T cell 2,homo,410,77.834,2.38224851073414,0,1,0,1,7.14674553220241,8,54023_b,AIH,CD8+ T cell 2,CD8+ T cell 2
+Hepatocyte 1--Hepatocyte 1,homo,2283,446.444,2.35178361288225,0,1,0,1,7.05535083864676,9,54023_b,AIH,Hepatocyte 1,Hepatocyte 1
+Hepatocyte 2--Hepatocyte 3,hetero,350,73.536,2.23546172699715,0,1,0,1,6.70638518099146,10,54023_b,AIH,Hepatocyte 2,Hepatocyte 3
+Hepatocyte 1--Hepatocyte 2,hetero,1647,357.94,2.19890163245997,0,1,0,1,6.5967048973799,11,54023_b,AIH,Hepatocyte 1,Hepatocyte 2
+IgM+ B cell--IgM+ B cell,homo,1032,225.457,2.18953121394518,0,1,0,1,6.56859364183554,12,54023_b,AIH,IgM+ B cell,IgM+ B cell
+Hepatocyte 1--Hepatocyte 4,hetero,570,129.013,2.13483486004329,0,1,0,1,6.40450458012988,13,54023_b,AIH,Hepatocyte 1,Hepatocyte 4
+CD8+ T cell 3--Hepatocyte 4,hetero,103,23.887,2.06311929192941,0,1,0,1,6.18935787578824,14,54023_b,AIH,CD8+ T cell 3,Hepatocyte 4
+IgG+ B cell--IgG+ B cell,homo,1026,257.952,1.9876795754644,0,1,0,1,5.9630387263932,15,54023_b,AIH,IgG+ B cell,IgG+ B cell
+CD8+ T cell 2--Hepatocyte 1,hetero,1442,372.787,1.94878300049073,0,1,0,1,5.8463490014722,16,54023_b,AIH,CD8+ T cell 2,Hepatocyte 1
+Hepatocyte 2--Hepatocyte 4,hetero,198,51.759,1.91527930581121,0,1,0,1,5.74583791743362,17,54023_b,AIH,Hepatocyte 2,Hepatocyte 4
+CD8+ T cell 2--Hepatocyte 2,hetero,526,149.238,1.81055319909155,0,1,0,1,5.43165959727464,18,54023_b,AIH,CD8+ T cell 2,Hepatocyte 2
+CD8+ T cell 2--Hepatocyte 4,hetero,187,53.685,1.78151559823876,0,1,0,1,5.34454679471628,19,54023_b,AIH,CD8+ T cell 2,Hepatocyte 4
+Sinusoidal endothelial cell--Sinusoidal endothelial cell,homo,477,143.213,1.72880939682996,0,1,0,1,5.18642819048987,20,54023_b,AIH,Sinusoidal endothelial cell,Sinusoidal endothelial cell
+IgG+ plasmablast / plasma cell--IgG+ plasmablast / plasma cell,homo,2064,664.723,1.63314786388253,0,1,0,1,4.8994435916476,21,54023_b,AIH,IgG+ plasmablast / plasma cell,IgG+ plasmablast / plasma cell
+CD4+ T cell--CD4+ T cell,homo,2272,829.606,1.45236148573096,0,1,0,1,4.35708445719287,22,54023_b,AIH,CD4+ T cell,CD4+ T cell
+IgG+ B cell--IgG+ plasmablast / plasma cell,hetero,2212,827.261,1.41784608739393,0,1,0,1,4.25353826218178,23,54023_b,AIH,IgG+ B cell,IgG+ plasmablast / plasma cell
+Hepatocyte 1--Hepatocyte 3,hetero,486,184.252,1.39443265420562,0,1,0,1,4.18329796261687,24,54023_b,AIH,Hepatocyte 1,Hepatocyte 3
+Hepatocyte 1--Ig+ hepatocyte,hetero,194,75.914,1.34215599528827,0,1,0,1,4.02646798586482,25,54023_b,AIH,Hepatocyte 1,Ig+ hepatocyte
+CD4+ T cell--IgM+ B cell,hetero,2068,867.026,1.25312348369515,0,1,0,1,3.75937045108546,26,54023_b,AIH,CD4+ T cell,IgM+ B cell
+Hepatocyte 3--Hepatocyte 4,hetero,62,26.761,1.18229229134997,0,1,0,1,3.54687687404991,27,54023_b,AIH,Hepatocyte 3,Hepatocyte 4
+Hepatocyte 2--Ig+ hepatocyte,hetero,70,30.291,1.18207125955118,0,1,0,1,3.54621377865354,28,54023_b,AIH,Hepatocyte 2,Ig+ hepatocyte
+CD8+ T cell 2--Hepatocyte 3,hetero,166,77.232,1.09401734966907,0,1,0,1,3.28205204900722,29,54023_b,AIH,CD8+ T cell 2,Hepatocyte 3
+Stellate cell--Stellate cell,homo,3750,1804.123,1.05517811816163,0,1,0,1,3.1655343544849,30,54023_b,AIH,Stellate cell,Stellate cell
+Macrophage 1--Macrophage 1,homo,3568,1786.955,0.997209474761575,0,1,0,1,2.99162842428473,31,54023_b,AIH,Macrophage 1,Macrophage 1
+Macrophage 2--Macrophage 2,homo,2942,1553.922,0.92044533043406,0,1,0,1,2.76133599130218,32,54023_b,AIH,Macrophage 2,Macrophage 2
+Ig+ hepatocyte--IgG+ plasmablast / plasma cell,hetero,174,92.5,0.904316651944692,0,1,0,1,2.71294995583408,33,54023_b,AIH,Ig+ hepatocyte,IgG+ plasmablast / plasma cell
+CD8+ T cell 2--Ig+ hepatocyte,hetero,55,31.777,0.772743013098527,0,1,0,1,2.31822903929558,34,54023_b,AIH,CD8+ T cell 2,Ig+ hepatocyte
+CD8+ T cell 2--CD8+ T cell 3,hetero,117,69.239,0.748442649255404,0,1,0,1,2.24532794776621,35,54023_b,AIH,CD8+ T cell 2,CD8+ T cell 3
+Hepatocyte 4--Ig+ hepatocyte,hetero,22,10.848,0.956990315430252,0.002,0.999,0.00645283018867925,1,2.03616798103994,36,54023_b,AIH,Hepatocyte 4,Ig+ hepatocyte
+Sinusoidal endothelial cell--Stellate cell,hetero,1609,1015.982,0.662766543795953,0,1,0,1,1.98829963138786,37,54023_b,AIH,Sinusoidal endothelial cell,Stellate cell
+IgM+ B cell--Vascular endothelial cell,hetero,436,305.241,0.512965833802211,0,1,0,1,1.53889750140663,38,54023_b,AIH,IgM+ B cell,Vascular endothelial cell
+Macrophage 1--Sinusoidal endothelial cell,hetero,1435,1011.483,0.504158064394905,0,1,0,1,1.51247419318472,39,54023_b,AIH,Macrophage 1,Sinusoidal endothelial cell
+CD8+ T cell 1--CD8+ T cell 1,homo,7535,5327.858,0.49997257535534,0,1,0,1,1.49991772606602,40,54023_b,AIH,CD8+ T cell 1,CD8+ T cell 1
+CD4+ T cell--Vascular endothelial cell,hetero,822,585.383,0.489049152160185,0,1,0,1,1.46714745648056,41,54023_b,AIH,CD4+ T cell,Vascular endothelial cell
+CD8+ T cell 1--Sinusoidal endothelial cell,hetero,2405,1746.105,0.461670326516225,0,1,0,1,1.38501097954867,42,54023_b,AIH,CD8+ T cell 1,Sinusoidal endothelial cell
+CD8+ T cell 1--Macrophage 1,hetero,7985,6170.496,0.371852824059419,0,1,0,1,1.11555847217826,43,54023_b,AIH,CD8+ T cell 1,Macrophage 1
+Stellate cell--Vascular endothelial cell,hetero,1086,863.036,0.331188611822775,0,1,0,1,0.993565835468325,44,54023_b,AIH,Stellate cell,Vascular endothelial cell
+IgG+ B cell--Macrophage 2,hetero,1536,1264.596,0.280300219831387,0,1,0,1,0.840900659494162,45,54023_b,AIH,IgG+ B cell,Macrophage 2
+CD4+ T cell--Macrophage 2,hetero,2737,2268.498,0.270749229697558,0,1,0,1,0.812247689092673,46,54023_b,AIH,CD4+ T cell,Macrophage 2
+CD8+ T cell 3--Macrophage 1,hetero,399,333.284,0.25892569581664,0,1,0,1,0.776777087449919,47,54023_b,AIH,CD8+ T cell 3,Macrophage 1
+Cholangiocyte--Macrophage 2,hetero,2633,2203.415,0.256859496421521,0,1,0,1,0.770578489264562,48,54023_b,AIH,Cholangiocyte,Macrophage 2
+CD8+ T cell 1--CD8+ T cell 2,hetero,1526,1288.112,0.244322449463021,0,1,0,1,0.732967348389064,49,54023_b,AIH,CD8+ T cell 1,CD8+ T cell 2
+Ig+ hepatocyte--IgG+ B cell,hetero,77,57.413,0.417184642739797,0.00800000000000001,0.994,0.0244285714285715,1,0.665275187445111,50,54023_b,AIH,Ig+ hepatocyte,IgG+ B cell
+IgM+ B cell--Macrophage 2,hetero,1378,1184.878,0.217666859993557,0,1,0,1,0.653000579980671,51,54023_b,AIH,IgM+ B cell,Macrophage 2
+CD8+ T cell 1--CD8+ T cell 3,hetero,660,574.234,0.200501320952749,0,1,0,1,0.601503962858248,52,54023_b,AIH,CD8+ T cell 1,CD8+ T cell 3
+CD8+ T cell 2--Macrophage 1,hetero,827,743.863,0.152655667513488,0.002,0.998,0.00645283018867925,1,0.32480222349533,53,54023_b,AIH,CD8+ T cell 2,Macrophage 1
+Macrophage 2--Stellate cell,hetero,3590,3347.644,0.100808644152449,0,1,0,1,0.302425932457346,54,54023_b,AIH,Macrophage 2,Stellate cell
+Hepatocyte 1--Sinusoidal endothelial cell,hetero,562,505.125,0.153641184403772,0.00800000000000001,0.992,0.0244285714285715,1,0.245008222455735,55,54023_b,AIH,Hepatocyte 1,Sinusoidal endothelial cell
+Hepatocyte 3--Ig+ hepatocyte,hetero,21,15.604,0.405972686695777,0.123,0.915,0.362637931034483,1,0.178356314104989,56,54023_b,AIH,Hepatocyte 3,Ig+ hepatocyte
+IgM+ B cell--Stellate cell,hetero,1366,1278.661,0.0952515720892788,0.00600000000000001,0.995,0.019,1,0.161829563845535,57,54023_b,AIH,IgM+ B cell,Stellate cell
+Macrophage 2--Vascular endothelial cell,hetero,836,799.877,0.0636469345935399,0.088,0.917,0.264,1,0.0367086321380983,58,54023_b,AIH,Macrophage 2,Vascular endothelial cell
+Hepatocyte 3--Sinusoidal endothelial cell,hetero,112,104.266,0.102283238956435,0.24,0.796,0.684,1,0.0168061005388355,59,54023_b,AIH,Hepatocyte 3,Sinusoidal endothelial cell
+CD4+ T cell--Stellate cell,hetero,2491,2446.171,0.026189152791575,0.161,0.842,0.466627118644068,1,0.00864504748559318,60,54023_b,AIH,CD4+ T cell,Stellate cell
+IgG+ B cell--Vascular endothelial cell,hetero,337,325.795,0.0486373362502636,0.272,0.747,0.750193548387097,1,0.00604309908196019,61,54023_b,AIH,IgG+ B cell,Vascular endothelial cell
+Hepatocyte 1--Macrophage 1,hetero,1809,1785.942,0.0184968887098979,0.262,0.746,0.734459016393443,1,0.0024682530078392,62,54023_b,AIH,Hepatocyte 1,Macrophage 1
+CD8+ T cell 3--Hepatocyte 1,hetero,167,166.272,0.00626526307245292,0.487,0.543,1,0.875971698113207,0.000357210353293766,63,54023_b,AIH,CD8+ T cell 3,Hepatocyte 1
+Hepatocyte 2--Sinusoidal endothelial cell,hetero,207,202.478,0.0317107093375506,0.366,0.653,0.97790625,1,0.000293606243993902,64,54023_b,AIH,Hepatocyte 2,Sinusoidal endothelial cell
+CD8+ T cell 1--Ig+ hepatocyte,hetero,267,261.538,0.0297067457372843,0.363,0.658,0.97790625,1,0.000275051748113295,65,54023_b,AIH,CD8+ T cell 1,Ig+ hepatocyte
+CD8+ T cell 2--Sinusoidal endothelial cell,hetero,214,210.789,0.0217089999347476,0.423,0.609,1,0.973261682242991,0.000245840919881298,66,54023_b,AIH,CD8+ T cell 2,Sinusoidal endothelial cell
+IgG+ B cell--IgM+ B cell,hetero,484,484.291,-0.000865357443253293,0.499,0.515,1,0.838714285714286,-6.56533350787276e-05,67,54023_b,AIH,IgG+ B cell,IgM+ B cell
+CD4+ T cell--IgG+ B cell,hetero,920,923.664,-0.00572806488495024,0.568,0.451,1,0.741548076923077,-0.000740498007108618,68,54023_b,AIH,CD4+ T cell,IgG+ B cell
+IgG+ plasmablast / plasma cell--Macrophage 2,hetero,1990,2029.157,-0.0280980799298717,0.843,0.16,1,0.276363636363636,-0.0156492390342197,69,54023_b,AIH,IgG+ plasmablast / plasma cell,Macrophage 2
+Ig+ hepatocyte--Sinusoidal endothelial cell,hetero,40,42.745,-0.0934942183586008,0.689,0.386,1,0.640834951456311,-0.0180048021377774,70,54023_b,AIH,Ig+ hepatocyte,Sinusoidal endothelial cell
+CD8+ T cell 1--Stellate cell,hetero,6074,6198.823,-0.0293426195766876,0.96,0.042,1,0.076404255319149,-0.0326065506542581,71,54023_b,AIH,CD8+ T cell 1,Stellate cell
+CD4+ T cell--IgG+ plasmablast / plasma cell,hetero,1437,1483.728,-0.0461349798322138,0.91,0.096,1,0.171,-0.0352688796842214,72,54023_b,AIH,CD4+ T cell,IgG+ plasmablast / plasma cell
+CD8+ T cell 3--Hepatocyte 2,hetero,60,66.159,-0.138771505976701,0.8,0.243,1,0.407382352941177,-0.0539728227073872,73,54023_b,AIH,CD8+ T cell 3,Hepatocyte 2
+Hepatocyte 4--Sinusoidal endothelial cell,hetero,67,73.684,-0.135264452567263,0.798,0.226,1,0.382633663366337,-0.0562812785849792,74,54023_b,AIH,Hepatocyte 4,Sinusoidal endothelial cell
+CD8+ T cell 3--Sinusoidal endothelial cell,hetero,84,94.608,-0.169668499523086,0.879,0.145,1,0.255618556701031,-0.100225208841671,75,54023_b,AIH,CD8+ T cell 3,Sinusoidal endothelial cell
+CD8+ T cell 3--Hepatocyte 3,hetero,28,34.087,-0.274883699818285,0.876,0.168,1,0.28728,-0.148488185148211,76,54023_b,AIH,CD8+ T cell 3,Hepatocyte 3
+Hepatocyte 4--Macrophage 1,hetero,231,257.703,-0.157171978704703,0.955,0.0520000000000001,1,0.0936000000000001,-0.160961216500755,77,54023_b,AIH,Hepatocyte 4,Macrophage 1
+CD8+ T cell 3--Ig+ hepatocyte,hetero,10,13.972,-0.444763429600578,0.901,0.16,1,0.276363636363636,-0.247711204497615,78,54023_b,AIH,CD8+ T cell 3,Ig+ hepatocyte
+Hepatocyte 2--Macrophage 1,hetero,636,716.669,-0.172025231783771,0.998,0.002,1,0.00371739130434783,-0.400181969477876,79,54023_b,AIH,Hepatocyte 2,Macrophage 1
+IgG+ plasmablast / plasma cell--IgM+ B cell,hetero,688,774.373,-0.170386515579308,0.999,0.001,1,0.00187912087912088,-0.432907852802239,80,54023_b,AIH,IgG+ plasmablast / plasma cell,IgM+ B cell
+Macrophage 1--Stellate cell,hetero,3249,3591.321,-0.144476552989361,1,0,1,0,-0.433429658968083,81,54023_b,AIH,Macrophage 1,Stellate cell
+IgG+ B cell--Stellate cell,hetero,1235,1366.07,-0.145408373927937,1,0,1,0,-0.436225121783812,82,54023_b,AIH,IgG+ B cell,Stellate cell
+CD8+ T cell 3--IgG+ B cell,hetero,103,126.232,-0.290878038759107,0.992,0.013,1,0.0239032258064516,-0.466494023851768,83,54023_b,AIH,CD8+ T cell 3,IgG+ B cell
+CD8+ T cell 1--Hepatocyte 1,hetero,2749,3085.173,-0.166387317946166,1,0,1,0,-0.499161953838497,84,54023_b,AIH,CD8+ T cell 1,Hepatocyte 1
+CD8+ T cell 1--IgG+ plasmablast / plasma cell,hetero,3294,3760.286,-0.190947544706255,1,0,1,0,-0.572842634118764,85,54023_b,AIH,CD8+ T cell 1,IgG+ plasmablast / plasma cell
+CD8+ T cell 1--Hepatocyte 2,hetero,1074,1233.711,-0.199836740166906,1,0,1,0,-0.599510220500719,86,54023_b,AIH,CD8+ T cell 1,Hepatocyte 2
+CD4+ T cell--CD8+ T cell 1,hetero,3624,4205.261,-0.214557377463067,1,0,1,0,-0.643672132389202,87,54023_b,AIH,CD4+ T cell,CD8+ T cell 1
+IgG+ plasmablast / plasma cell--Vascular endothelial cell,hetero,450,523.485,-0.217774079579155,1,0,1,0,-0.653322238737464,88,54023_b,AIH,IgG+ plasmablast / plasma cell,Vascular endothelial cell
+CD8+ T cell 1--Hepatocyte 3,hetero,546,637.36,-0.222829421284282,1,0,1,0,-0.668488263852846,89,54023_b,AIH,CD8+ T cell 1,Hepatocyte 3
+Macrophage 1--Macrophage 2,hetero,2822,3329.172,-0.238367564166211,1,0,1,0,-0.715102692498634,90,54023_b,AIH,Macrophage 1,Macrophage 2
+CD8+ T cell 1--Macrophage 2,hetero,4853,5752.495,-0.245264488853602,1,0,1,0,-0.735793466560805,91,54023_b,AIH,CD8+ T cell 1,Macrophage 2
+Hepatocyte 3--Macrophage 2,hetero,287,343.866,-0.259967090255891,1,0,1,0,-0.779901270767672,92,54023_b,AIH,Hepatocyte 3,Macrophage 2
+Hepatocyte 3--Macrophage 1,hetero,299,369.339,-0.303883985444833,1,0,1,0,-0.911651956334497,93,54023_b,AIH,Hepatocyte 3,Macrophage 1
+CD8+ T cell 3--Stellate cell,hetero,270,334.213,-0.306785248149808,1,0,1,0,-0.920355744449423,94,54023_b,AIH,CD8+ T cell 3,Stellate cell
+IgG+ plasmablast / plasma cell--Macrophage 1,hetero,1755,2176.629,-0.310465339919996,1,0,1,0,-0.931396019759987,95,54023_b,AIH,IgG+ plasmablast / plasma cell,Macrophage 1
+CD4+ T cell--CD8+ T cell 3,hetero,178,227.157,-0.350067329762651,1,0,1,0,-1.05020198928795,96,54023_b,AIH,CD4+ T cell,CD8+ T cell 3
+Cholangiocyte--Ig+ hepatocyte,hetero,75,100.308,-0.414676780426886,0.999,0.001,1,0.00187912087912088,-1.05358592498472,97,54023_b,AIH,Cholangiocyte,Ig+ hepatocyte
+CD8+ T cell 3--IgG+ plasmablast / plasma cell,hetero,158,202.873,-0.358643958617059,1,0,1,0,-1.07593187585118,98,54023_b,AIH,CD8+ T cell 3,IgG+ plasmablast / plasma cell
+IgG+ plasmablast / plasma cell--Stellate cell,hetero,1655,2189.964,-0.403863106585301,1,0,1,0,-1.2115893197559,99,54023_b,AIH,IgG+ plasmablast / plasma cell,Stellate cell
+CD8+ T cell 1--IgM+ B cell,hetero,1641,2193.583,-0.41849270741266,1,0,1,0,-1.25547812223798,100,54023_b,AIH,CD8+ T cell 1,IgM+ B cell
+CD8+ T cell 3--Macrophage 2,hetero,223,310.432,-0.475418458342837,1,0,1,0,-1.42625537502851,101,54023_b,AIH,CD8+ T cell 3,Macrophage 2
+Cholangiocyte--IgG+ B cell,hetero,645,897.624,-0.476183428233724,1,0,1,0,-1.42855028470117,102,54023_b,AIH,Cholangiocyte,IgG+ B cell
+CD8+ T cell 3--IgM+ B cell,hetero,85,118.815,-0.4783999698349,1,0,1,0,-1.4351999095047,103,54023_b,AIH,CD8+ T cell 3,IgM+ B cell
+Ig+ hepatocyte--Macrophage 1,hetero,105,151.878,-0.52831654495458,1,0,1,0,-1.58494963486374,104,54023_b,AIH,Ig+ hepatocyte,Macrophage 1
+CD8+ T cell 1--IgG+ B cell,hetero,1622,2343.987,-0.530916924949643,1,0,1,0,-1.59275077484893,105,54023_b,AIH,CD8+ T cell 1,IgG+ B cell
+CD8+ T cell 1--Hepatocyte 4,hetero,308,446.247,-0.533464967010276,1,0,1,0,-1.60039490103083,106,54023_b,AIH,CD8+ T cell 1,Hepatocyte 4
+Macrophage 2--Sinusoidal endothelial cell,hetero,631,942.783,-0.578530626595814,1,0,1,0,-1.73559187978744,107,54023_b,AIH,Macrophage 2,Sinusoidal endothelial cell
+CD4+ T cell--Macrophage 1,hetero,1623,2436.086,-0.585605529323706,1,0,1,0,-1.75681658797112,108,54023_b,AIH,CD4+ T cell,Macrophage 1
+Cholangiocyte--Vascular endothelial cell,hetero,353,566.548,-0.680993052242453,1,0,1,0,-2.04297915672736,109,54023_b,AIH,Cholangiocyte,Vascular endothelial cell
+CD8+ T cell 1--Vascular endothelial cell,hetero,911,1482.466,-0.701866132136219,1,0,1,0,-2.10559839640866,110,54023_b,AIH,CD8+ T cell 1,Vascular endothelial cell
+Hepatocyte 3--IgG+ B cell,hetero,81,140.628,-0.788410701056152,1,0,1,0,-2.36523210316845,111,54023_b,AIH,Hepatocyte 3,IgG+ B cell
+Cholangiocyte--Hepatocyte 3,hetero,136,244.124,-0.83933585167126,1,0,1,0,-2.51800755501378,112,54023_b,AIH,Cholangiocyte,Hepatocyte 3
+CD8+ T cell 3--Vascular endothelial cell,hetero,43,79.884,-0.878350821629821,1,0,1,0,-2.63505246488946,113,54023_b,AIH,CD8+ T cell 3,Vascular endothelial cell
+IgM+ B cell--Macrophage 1,hetero,690,1270.781,-0.880092644978156,1,0,1,0,-2.64027793493447,114,54023_b,AIH,IgM+ B cell,Macrophage 1
+Cholangiocyte--Stellate cell,hetero,1250,2376.591,-0.926418770398628,1,0,1,0,-2.77925631119588,115,54023_b,AIH,Cholangiocyte,Stellate cell
+IgG+ B cell--Macrophage 1,hetero,699,1358.205,-0.957336237602505,1,0,1,0,-2.87200871280752,116,54023_b,AIH,IgG+ B cell,Macrophage 1
+Hepatocyte 3--Stellate cell,hetero,181,371.07,-1.03163562024383,1,0,1,0,-3.0949068607315,117,54023_b,AIH,Hepatocyte 3,Stellate cell
+CD4+ T cell--Hepatocyte 3,hetero,122,251.59,-1.03813920861247,1,0,1,0,-3.11441762583742,118,54023_b,AIH,CD4+ T cell,Hepatocyte 3
+Ig+ hepatocyte--Vascular endothelial cell,hetero,17,36.242,-1.04893364519792,1,0,1,0,-3.14680093559377,119,54023_b,AIH,Ig+ hepatocyte,Vascular endothelial cell
+Cholangiocyte--IgG+ plasmablast / plasma cell,hetero,692,1441.782,-1.05792607196016,1,0,1,0,-3.17377821588049,120,54023_b,AIH,Cholangiocyte,IgG+ plasmablast / plasma cell
+Ig+ hepatocyte--Macrophage 2,hetero,66,140.841,-1.08204161191517,1,0,1,0,-3.24612483574551,121,54023_b,AIH,Ig+ hepatocyte,Macrophage 2
+CD4+ T cell--Cholangiocyte,hetero,751,1610.833,-1.09989770876557,1,0,1,0,-3.29969312629672,122,54023_b,AIH,CD4+ T cell,Cholangiocyte
+CD4+ T cell--Ig+ hepatocyte,hetero,47,102.937,-1.11460301234477,1,0,1,0,-3.34380903703432,123,54023_b,AIH,CD4+ T cell,Ig+ hepatocyte
+CD8+ T cell 3--Cholangiocyte,hetero,98,219.38,-1.15449287159848,1,0,1,0,-3.46347861479544,124,54023_b,AIH,CD8+ T cell 3,Cholangiocyte
+Hepatocyte 3--IgG+ plasmablast / plasma cell,hetero,100,225.291,-1.16382391419261,1,0,1,0,-3.49147174257784,125,54023_b,AIH,Hepatocyte 3,IgG+ plasmablast / plasma cell
+Hepatocyte 4--IgG+ plasmablast / plasma cell,hetero,69,157.21,-1.17641396413513,1,0,1,0,-3.52924189240539,126,54023_b,AIH,Hepatocyte 4,IgG+ plasmablast / plasma cell
+Ig+ hepatocyte--Stellate cell,hetero,66,152.792,-1.19874745801001,1,0,1,0,-3.59624237403002,127,54023_b,AIH,Ig+ hepatocyte,Stellate cell
+Cholangiocyte--IgM+ B cell,hetero,366,842.31,-1.20028299900151,1,0,1,0,-3.60084899700452,128,54023_b,AIH,Cholangiocyte,IgM+ B cell
+Hepatocyte 1--IgG+ plasmablast / plasma cell,hetero,456,1088.16,-1.25294983430246,1,0,1,0,-3.75884950290738,129,54023_b,AIH,Hepatocyte 1,IgG+ plasmablast / plasma cell
+Macrophage 1--Vascular endothelial cell,hetero,345,857.802,-1.3115535131236,1,0,1,0,-3.93466053937081,130,54023_b,AIH,Macrophage 1,Vascular endothelial cell
+IgG+ plasmablast / plasma cell--Sinusoidal endothelial cell,hetero,243,615.409,-1.33700677856904,1,0,1,0,-4.01102033570713,131,54023_b,AIH,IgG+ plasmablast / plasma cell,Sinusoidal endothelial cell
+Hepatocyte 3--Vascular endothelial cell,hetero,34,88.67,-1.35727047567956,1,0,1,0,-4.07181142703868,132,54023_b,AIH,Hepatocyte 3,Vascular endothelial cell
+CD8+ T cell 1--Cholangiocyte,hetero,1509,4082.407,-1.43522482100517,1,0,1,0,-4.30567446301551,133,54023_b,AIH,CD8+ T cell 1,Cholangiocyte
+Hepatocyte 2--Stellate cell,hetero,265,718.65,-1.43586918022659,1,0,1,0,-4.30760754067977,134,54023_b,AIH,Hepatocyte 2,Stellate cell
+CD4+ T cell--Sinusoidal endothelial cell,hetero,252,688.706,-1.44684413243414,1,0,1,0,-4.34053239730241,135,54023_b,AIH,CD4+ T cell,Sinusoidal endothelial cell
+Hepatocyte 2--IgG+ plasmablast / plasma cell,hetero,154,435.703,-1.49438422647338,1,0,1,0,-4.48315267942013,136,54023_b,AIH,Hepatocyte 2,IgG+ plasmablast / plasma cell
+Hepatocyte 3--IgM+ B cell,hetero,44,130.838,-1.55076935536911,1,0,1,0,-4.65230806610734,137,54023_b,AIH,Hepatocyte 3,IgM+ B cell
+CD8+ T cell 2--IgG+ plasmablast / plasma cell,hetero,153,454.743,-1.5652901463912,1,0,1,0,-4.69587043917361,138,54023_b,AIH,CD8+ T cell 2,IgG+ plasmablast / plasma cell
+IgG+ B cell--Sinusoidal endothelial cell,hetero,125,383.028,-1.60778776989953,1,0,1,0,-4.82336330969861,139,54023_b,AIH,IgG+ B cell,Sinusoidal endothelial cell
+IgM+ B cell--Sinusoidal endothelial cell,hetero,113,359.773,-1.66205754795143,1,0,1,0,-4.98617264385429,140,54023_b,AIH,IgM+ B cell,Sinusoidal endothelial cell
+Hepatocyte 2--Macrophage 2,hetero,198,668.704,-1.75075515421847,1,0,1,0,-5.25226546265542,141,54023_b,AIH,Hepatocyte 2,Macrophage 2
+CD8+ T cell 2--Macrophage 2,hetero,202,695.106,-1.7778272827301,1,0,1,0,-5.33348184819029,142,54023_b,AIH,CD8+ T cell 2,Macrophage 2
+Hepatocyte 1--Stellate cell,hetero,518,1795.25,-1.79118171298682,1,0,1,0,-5.37354513896045,143,54023_b,AIH,Hepatocyte 1,Stellate cell
+Sinusoidal endothelial cell--Vascular endothelial cell,hetero,69,241.684,-1.79365216849818,1,0,1,0,-5.38095650549455,144,54023_b,AIH,Sinusoidal endothelial cell,Vascular endothelial cell
+CD4+ T cell--CD8+ T cell 2,hetero,135,506.922,-1.90100031234623,1,0,1,0,-5.70300093703868,145,54023_b,AIH,CD4+ T cell,CD8+ T cell 2
+Hepatocyte 4--Stellate cell,hetero,67,259.775,-1.93919891631108,1,0,1,0,-5.81759674893325,146,54023_b,AIH,Hepatocyte 4,Stellate cell
+CD8+ T cell 2--Stellate cell,hetero,192,749.741,-1.95971442713996,1,0,1,0,-5.87914328141987,147,54023_b,AIH,CD8+ T cell 2,Stellate cell
+Cholangiocyte--Hepatocyte 2,hetero,118,473.312,-1.99487479524578,1,0,1,0,-5.98462438573735,148,54023_b,AIH,Cholangiocyte,Hepatocyte 2
+CD8+ T cell 2--Cholangiocyte,hetero,121,492.18,-2.01523314731782,1,0,1,0,-6.04569944195346,149,54023_b,AIH,CD8+ T cell 2,Cholangiocyte
+Hepatocyte 4--Macrophage 2,hetero,54,241.017,-2.13760486653626,1,0,1,0,-6.41281459960879,150,54023_b,AIH,Hepatocyte 4,Macrophage 2
+Hepatocyte 1--Macrophage 2,hetero,374,1663.675,-2.15027804194751,1,0,1,0,-6.45083412584253,151,54023_b,AIH,Hepatocyte 1,Macrophage 2
+CD4+ T cell--Hepatocyte 2,hetero,109,487.389,-2.15052718307791,1,0,1,0,-6.45158154923373,152,54023_b,AIH,CD4+ T cell,Hepatocyte 2
+Cholangiocyte--Hepatocyte 1,hetero,262,1180.913,-2.16798913876343,1,0,1,0,-6.50396741629028,153,54023_b,AIH,Cholangiocyte,Hepatocyte 1
+CD4+ T cell--Hepatocyte 4,hetero,36,176.241,-2.26011519584176,1,0,1,0,-6.78034558752527,154,54023_b,AIH,CD4+ T cell,Hepatocyte 4
+CD4+ T cell--Hepatocyte 1,hetero,248,1217.196,-2.29052862498356,1,0,1,0,-6.87158587495069,155,54023_b,AIH,CD4+ T cell,Hepatocyte 1
+Ig+ hepatocyte--IgM+ B cell,hetero,10,53.962,-2.3209309792704,1,0,1,0,-6.96279293781121,156,54023_b,AIH,Ig+ hepatocyte,IgM+ B cell
+Cholangiocyte--Macrophage 1,hetero,457,2367.437,-2.37051579356514,1,0,1,0,-7.11154738069541,157,54023_b,AIH,Cholangiocyte,Macrophage 1
+Hepatocyte 2--IgG+ B cell,hetero,49,272.656,-2.45236348846702,1,0,1,0,-7.35709046540105,158,54023_b,AIH,Hepatocyte 2,IgG+ B cell
+Hepatocyte 4--IgG+ B cell,hetero,17,98.104,-2.46094638157026,1,0,1,0,-7.38283914471079,159,54023_b,AIH,Hepatocyte 4,IgG+ B cell
+Hepatocyte 1--IgG+ B cell,hetero,114,676.83,-2.55928962913917,1,0,1,0,-7.67786888741752,160,54023_b,AIH,Hepatocyte 1,IgG+ B cell
+Hepatocyte 4--Vascular endothelial cell,hetero,9,61.545,-2.64489455643701,1,0,1,0,-7.93468366931102,161,54023_b,AIH,Hepatocyte 4,Vascular endothelial cell
+CD8+ T cell 2--IgM+ B cell,hetero,39,264.348,-2.72981376969321,1,0,1,0,-8.18944130907963,162,54023_b,AIH,CD8+ T cell 2,IgM+ B cell
+Cholangiocyte--Hepatocyte 4,hetero,22,170.136,-2.89543750937425,1,0,1,0,-8.68631252812276,163,54023_b,AIH,Cholangiocyte,Hepatocyte 4
+CD8+ T cell 2--IgG+ B cell,hetero,37,282.712,-2.90035584905959,1,0,1,0,-8.70106754717878,164,54023_b,AIH,CD8+ T cell 2,IgG+ B cell
+Hepatocyte 2--Vascular endothelial cell,hetero,20,171.284,-3.03632749181776,1,0,1,0,-9.10898247545329,165,54023_b,AIH,Hepatocyte 2,Vascular endothelial cell
+Hepatocyte 4--IgM+ B cell,hetero,10,91.939,-3.07878059815054,1,0,1,0,-9.23634179445162,166,54023_b,AIH,Hepatocyte 4,IgM+ B cell
+Hepatocyte 2--IgM+ B cell,hetero,29,254.637,-3.09106225616837,1,0,1,0,-9.27318676850511,167,54023_b,AIH,Hepatocyte 2,IgM+ B cell
+Cholangiocyte--Sinusoidal endothelial cell,hetero,71,667.926,-3.21577780975529,1,0,1,0,-9.64733342926586,168,54023_b,AIH,Cholangiocyte,Sinusoidal endothelial cell
+CD8+ T cell 2--Vascular endothelial cell,hetero,18,178.858,-3.24278700763452,1,0,1,0,-9.72836102290357,169,54023_b,AIH,CD8+ T cell 2,Vascular endothelial cell
+Hepatocyte 1--IgM+ B cell,hetero,50,634.63,-3.63961806536229,1,0,1,0,-10.9188541960869,170,54023_b,AIH,Hepatocyte 1,IgM+ B cell
+Hepatocyte 1--Vascular endothelial cell,hetero,27,429.04,-3.94097212548004,1,0,1,0,-11.8229163764401,171,54023_b,AIH,Hepatocyte 1,Vascular endothelial cell
+Vascular endothelial cell--Vascular endothelial cell,homo,672,62.413,3.40775596893304,0,1,0,1,10.2232679067991,1,56784_c,AIH,Vascular endothelial cell,Vascular endothelial cell
+Cholangiocyte--Cholangiocyte,homo,2106,220.021,3.25293495726968,0,1,0,1,9.75880487180904,2,56784_c,AIH,Cholangiocyte,Cholangiocyte
+IgM+ B cell--IgM+ B cell,homo,705,78.697,3.14707085989683,0,1,0,1,9.44121257969048,3,56784_c,AIH,IgM+ B cell,IgM+ B cell
+IgG+ B cell--IgG+ B cell,homo,1717,237.146,2.8508118145687,0,1,0,1,8.5524354437061,4,56784_c,AIH,IgG+ B cell,IgG+ B cell
+Ig+ hepatocyte--Ig+ hepatocyte,homo,74,12.734,2.44913872688113,0,1,0,1,7.34741618064338,5,56784_c,AIH,Ig+ hepatocyte,Ig+ hepatocyte
+IgG+ plasmablast / plasma cell--IgG+ plasmablast / plasma cell,homo,1858,403.759,2.19939170528149,0,1,0,1,6.59817511584449,6,56784_c,AIH,IgG+ plasmablast / plasma cell,IgG+ plasmablast / plasma cell
+CD8+ T cell 3--CD8+ T cell 3,homo,99,22.835,2.06884646947977,0,1,0,1,6.20653940843932,7,56784_c,AIH,CD8+ T cell 3,CD8+ T cell 3
+CD4+ T cell--CD4+ T cell,homo,1535,380.903,2.00790005799799,0,1,0,1,6.02370017399397,8,56784_c,AIH,CD4+ T cell,CD4+ T cell
+CD4+ T cell--IgM+ B cell,hetero,1349,346.655,1.95723116353716,0,1,0,1,5.87169349061148,9,56784_c,AIH,CD4+ T cell,IgM+ B cell
+Hepatocyte 4--Hepatocyte 4,homo,480,136.968,1.80170320376538,0,1,0,1,5.40510961129614,10,56784_c,AIH,Hepatocyte 4,Hepatocyte 4
+Hepatocyte 3--Hepatocyte 3,homo,164,50.668,1.67512307933336,0,1,0,1,5.02536923800008,11,56784_c,AIH,Hepatocyte 3,Hepatocyte 3
+IgG+ B cell--IgG+ plasmablast / plasma cell,hetero,1697,620.704,1.44953669267423,0,1,0,1,4.34861007802269,12,56784_c,AIH,IgG+ B cell,IgG+ plasmablast / plasma cell
+IgG+ B cell--Vascular endothelial cell,hetero,610,241.147,1.33528925078579,0,1,0,1,4.00586775235738,13,56784_c,AIH,IgG+ B cell,Vascular endothelial cell
+CD8+ T cell 2--CD8+ T cell 2,homo,209,87.165,1.252111378649,0,1,0,1,3.75633413594701,14,56784_c,AIH,CD8+ T cell 2,CD8+ T cell 2
+Hepatocyte 2--Hepatocyte 2,homo,1774,803.233,1.1421335842125,0,1,0,1,3.42640075263751,15,56784_c,AIH,Hepatocyte 2,Hepatocyte 2
+Hepatocyte 2--Hepatocyte 3,hetero,860,402.683,1.09279040466078,0,1,0,1,3.27837121398235,16,56784_c,AIH,Hepatocyte 2,Hepatocyte 3
+Sinusoidal endothelial cell--Sinusoidal endothelial cell,homo,292,142.375,1.03110717840642,0,1,0,1,3.09332153521927,17,56784_c,AIH,Sinusoidal endothelial cell,Sinusoidal endothelial cell
+Stellate cell--Stellate cell,homo,1673,885.541,0.917040269566055,0,1,0,1,2.75112080869817,18,56784_c,AIH,Stellate cell,Stellate cell
+Macrophage 1--Macrophage 1,homo,3742,1983.388,0.915500910140179,0,1,0,1,2.74650273042054,19,56784_c,AIH,Macrophage 1,Macrophage 1
+Macrophage 2--Macrophage 2,homo,1756,976.162,0.846444525245664,0,1,0,1,2.53933357573699,20,56784_c,AIH,Macrophage 2,Macrophage 2
+IgG+ plasmablast / plasma cell--Vascular endothelial cell,hetero,559,316.013,0.820884823868729,0,1,0,1,2.46265447160619,21,56784_c,AIH,IgG+ plasmablast / plasma cell,Vascular endothelial cell
+Hepatocyte 1--Hepatocyte 2,hetero,7040,4010.415,0.811669115030974,0,1,0,1,2.43500734509292,22,56784_c,AIH,Hepatocyte 1,Hepatocyte 2
+Hepatocyte 1--Hepatocyte 1,homo,8793,5014.885,0.810015260932062,0,1,0,1,2.43004578279618,23,56784_c,AIH,Hepatocyte 1,Hepatocyte 1
+IgM+ B cell--Vascular endothelial cell,hetero,243,139.2,0.799394798439626,0,1,0,1,2.39818439531888,24,56784_c,AIH,IgM+ B cell,Vascular endothelial cell
+Cholangiocyte--Ig+ hepatocyte,hetero,176,104.243,0.750025081421641,0,1,0,1,2.25007524426492,25,56784_c,AIH,Cholangiocyte,Ig+ hepatocyte
+Stellate cell--Vascular endothelial cell,hetero,769,466.636,0.719472448738894,0,1,0,1,2.15841734621668,26,56784_c,AIH,Stellate cell,Vascular endothelial cell
+CD4+ T cell--Vascular endothelial cell,hetero,505,306.774,0.717266023478928,0,1,0,1,2.15179807043678,27,56784_c,AIH,CD4+ T cell,Vascular endothelial cell
+CD8+ T cell 3--Hepatocyte 4,hetero,183,112.627,0.695400078114276,0,1,0,1,2.08620023434283,28,56784_c,AIH,CD8+ T cell 3,Hepatocyte 4
+Hepatocyte 2--Hepatocyte 4,hetero,1054,664.521,0.664686903839138,0,1,0,1,1.99406071151742,29,56784_c,AIH,Hepatocyte 2,Hepatocyte 4
+CD8+ T cell 2--Hepatocyte 1,hetero,2048,1324.427,0.628462770679767,0,1,0,1,1.8853883120393,30,56784_c,AIH,CD8+ T cell 2,Hepatocyte 1
+Hepatocyte 1--Hepatocyte 4,hetero,2540,1658.228,0.614884229984591,0,1,0,1,1.84465268995377,31,56784_c,AIH,Hepatocyte 1,Hepatocyte 4
+Hepatocyte 4--Sinusoidal endothelial cell,hetero,428,280.591,0.607376423347843,0,1,0,1,1.82212927004353,32,56784_c,AIH,Hepatocyte 4,Sinusoidal endothelial cell
+Hepatocyte 1--Hepatocyte 3,hetero,1507,1004.386,0.58488692384916,0,1,0,1,1.75466077154748,33,56784_c,AIH,Hepatocyte 1,Hepatocyte 3
+CD8+ T cell 1--CD8+ T cell 1,homo,3596,2414.35,0.574561899324147,0,1,0,1,1.72368569797244,34,56784_c,AIH,CD8+ T cell 1,CD8+ T cell 1
+IgG+ B cell--IgM+ B cell,hetero,400,273.544,0.546564854317459,0,1,0,1,1.63969456295238,35,56784_c,AIH,IgG+ B cell,IgM+ B cell
+IgG+ B cell--Stellate cell,hetero,1320,915.123,0.528017251821227,0,1,0,1,1.58405175546368,36,56784_c,AIH,IgG+ B cell,Stellate cell
+Hepatocyte 1--Sinusoidal endothelial cell,hetero,2411,1690.45,0.511969376170655,0,1,0,1,1.53590812851197,37,56784_c,AIH,Hepatocyte 1,Sinusoidal endothelial cell
+CD8+ T cell 2--Hepatocyte 4,hetero,312,218.987,0.50874438608832,0,1,0,1,1.52623315826496,38,56784_c,AIH,CD8+ T cell 2,Hepatocyte 4
+CD4+ T cell--Macrophage 2,hetero,1700,1222.29,0.475616683198143,0,1,0,1,1.42685004959443,39,56784_c,AIH,CD4+ T cell,Macrophage 2
+CD8+ T cell 2--Hepatocyte 2,hetero,733,529.548,0.468296781807266,0,1,0,1,1.4048903454218,40,56784_c,AIH,CD8+ T cell 2,Hepatocyte 2
+CD4+ T cell--IgG+ plasmablast / plasma cell,hetero,1066,784.179,0.442466683320761,0,1,0,1,1.32740004996228,41,56784_c,AIH,CD4+ T cell,IgG+ plasmablast / plasma cell
+Ig+ hepatocyte--IgG+ plasmablast / plasma cell,hetero,191,142.61,0.418950099054958,0,1,0,1,1.25685029716487,42,56784_c,AIH,Ig+ hepatocyte,IgG+ plasmablast / plasma cell
+Cholangiocyte--Vascular endothelial cell,hetero,310,232.952,0.410702018348193,0,1,0,1,1.23210605504458,43,56784_c,AIH,Cholangiocyte,Vascular endothelial cell
+Hepatocyte 3--Hepatocyte 4,hetero,222,167.002,0.408565302302813,0,1,0,1,1.22569590690844,44,56784_c,AIH,Hepatocyte 3,Hepatocyte 4
+CD4+ T cell--IgG+ B cell,hetero,791,601.554,0.394409890968569,0,1,0,1,1.18322967290571,45,56784_c,AIH,CD4+ T cell,IgG+ B cell
+CD8+ T cell 1--CD8+ T cell 3,hetero,618,471.995,0.388114476431594,0,1,0,1,1.16434342929478,46,56784_c,AIH,CD8+ T cell 1,CD8+ T cell 3
+Macrophage 2--Vascular endothelial cell,hetero,627,490.446,0.353731656919662,0,1,0,1,1.06119497075898,47,56784_c,AIH,Macrophage 2,Vascular endothelial cell
+CD8+ T cell 1--Macrophage 1,hetero,5562,4372.452,0.347090645702048,0,1,0,1,1.04127193710614,48,56784_c,AIH,CD8+ T cell 1,Macrophage 1
+IgG+ plasmablast / plasma cell--Macrophage 2,hetero,1587,1255.299,0.338031045002544,0,1,0,1,1.01409313500763,49,56784_c,AIH,IgG+ plasmablast / plasma cell,Macrophage 2
+Hepatocyte 2--Sinusoidal endothelial cell,hetero,846,676.264,0.32264365828513,0,1,0,1,0.967930974855388,50,56784_c,AIH,Hepatocyte 2,Sinusoidal endothelial cell
+IgM+ B cell--Macrophage 2,hetero,692,553.462,0.321766763553746,0,1,0,1,0.965300290661238,51,56784_c,AIH,IgM+ B cell,Macrophage 2
+CD8+ T cell 2--CD8+ T cell 3,hetero,116,89.441,0.37145968073724,0.001,0.999,0.00275806451612904,1,0.900803012333083,52,56784_c,AIH,CD8+ T cell 2,CD8+ T cell 3
+IgG+ B cell--Macrophage 2,hetero,1181,961.278,0.29670438476323,0,1,0,1,0.890113154289689,53,56784_c,AIH,IgG+ B cell,Macrophage 2
+Cholangiocyte--IgG+ plasmablast / plasma cell,hetero,732,596.099,0.295843045817192,0,1,0,1,0.887529137451577,54,56784_c,AIH,Cholangiocyte,IgG+ plasmablast / plasma cell
+Macrophage 2--Stellate cell,hetero,2245,1855.549,0.274734534913701,0,1,0,1,0.824203604741101,55,56784_c,AIH,Macrophage 2,Stellate cell
+CD8+ T cell 1--CD8+ T cell 2,hetero,1113,920.858,0.273132787836059,0,1,0,1,0.819398363508178,56,56784_c,AIH,CD8+ T cell 1,CD8+ T cell 2
+CD4+ T cell--Stellate cell,hetero,1401,1160.973,0.270909803169485,0,1,0,1,0.812729409508456,57,56784_c,AIH,CD4+ T cell,Stellate cell
+Cholangiocyte--Macrophage 2,hetero,1103,926.529,0.251275877451,0,1,0,1,0.753827632352999,58,56784_c,AIH,Cholangiocyte,Macrophage 2
+Hepatocyte 1--Ig+ hepatocyte,hetero,586,501.003,0.225664517501531,0,1,0,1,0.676993552504593,59,56784_c,AIH,Hepatocyte 1,Ig+ hepatocyte
+CD8+ T cell 3--Macrophage 1,hetero,492,426.599,0.205329167484746,0,1,0,1,0.615987502454237,60,56784_c,AIH,CD8+ T cell 3,Macrophage 1
+CD8+ T cell 2--Sinusoidal endothelial cell,hetero,269,223.792,0.264368714091368,0.002,0.998,0.00534375,1,0.580990946243145,61,56784_c,AIH,CD8+ T cell 2,Sinusoidal endothelial cell
+CD8+ T cell 2--Macrophage 1,hetero,932,831.821,0.163870633700651,0,1,0,1,0.491611901101952,62,56784_c,AIH,CD8+ T cell 2,Macrophage 1
+CD8+ T cell 1--Sinusoidal endothelial cell,hetero,1305,1175.863,0.150208512552544,0,1,0,1,0.450625537657631,63,56784_c,AIH,CD8+ T cell 1,Sinusoidal endothelial cell
+IgM+ B cell--Stellate cell,hetero,589,526.126,0.162567101060092,0.002,0.998,0.00534375,1,0.357266230225203,64,56784_c,AIH,IgM+ B cell,Stellate cell
+Hepatocyte 3--Sinusoidal endothelial cell,hetero,197,169.788,0.213293819214637,0.018,0.985,0.0473538461538462,1,0.280602731251403,65,56784_c,AIH,Hepatocyte 3,Sinusoidal endothelial cell
+Hepatocyte 3--Ig+ hepatocyte,hetero,62,50.224,0.29853191353656,0.0540000000000001,0.957,0.137820895522388,1,0.256004597059069,66,56784_c,AIH,Hepatocyte 3,Ig+ hepatocyte
+IgG+ plasmablast / plasma cell--IgM+ B cell,hetero,389,356.758,0.124490095859329,0.04,0.963,0.103636363636364,1,0.122039802309239,67,56784_c,AIH,IgG+ plasmablast / plasma cell,IgM+ B cell
+IgG+ plasmablast / plasma cell--Stellate cell,hetero,1244,1195.16,0.0577353629850099,0.068,0.937,0.171,1,0.044137042609507,68,56784_c,AIH,IgG+ plasmablast / plasma cell,Stellate cell
+Cholangiocyte--IgG+ B cell,hetero,480,456.238,0.073091586389102,0.135,0.874,0.334565217391304,1,0.0346617158879592,69,56784_c,AIH,Cholangiocyte,IgG+ B cell
+CD8+ T cell 2--Hepatocyte 3,hetero,141,133.133,0.082226710538373,0.248,0.782,0.597295774647887,1,0.0183434687785148,70,56784_c,AIH,CD8+ T cell 2,Hepatocyte 3
+Macrophage 1--Sinusoidal endothelial cell,hetero,1087,1063.7,0.0312315763556011,0.222,0.789,0.542314285714286,1,0.00827477103957373,71,56784_c,AIH,Macrophage 1,Sinusoidal endothelial cell
+Hepatocyte 4--Ig+ hepatocyte,hetero,83,82.467,0.00918340990450038,0.494,0.557,1,0.971908163265306,0.00010954111481005,72,56784_c,AIH,Hepatocyte 4,Ig+ hepatocyte
+CD8+ T cell 1--Macrophage 2,hetero,3075,3068.713,0.00295172484822845,0.453,0.557,1,0.971908163265306,3.52086244488571e-05,73,56784_c,AIH,CD8+ T cell 1,Macrophage 2
+Sinusoidal endothelial cell--Stellate cell,hetero,711,710.6,0.000810730586600256,0.491,0.525,1,0.93515625,2.32287762281451e-05,74,56784_c,AIH,Sinusoidal endothelial cell,Stellate cell
+Macrophage 1--Macrophage 2,hetero,2790,2779.115,0.00563756285872042,0.421,0.588,0.999875,1,-2.141380418441e-06,75,56784_c,AIH,Macrophage 1,Macrophage 2
+Ig+ hepatocyte--IgG+ B cell,hetero,111,109.394,0.0208369696366875,0.436,0.599,1,1,-9.04485925653135e-06,76,56784_c,AIH,Ig+ hepatocyte,IgG+ B cell
+Hepatocyte 2--Ig+ hepatocyte,hetero,199,200.122,-0.00807090140912162,0.54,0.484,1,0.8712,-0.000479281744742179,77,56784_c,AIH,Hepatocyte 2,Ig+ hepatocyte
+Cholangiocyte--Stellate cell,hetero,876,883.434,-0.012177644592385,0.61,0.402,1,0.731297872340426,-0.00164778421775203,78,56784_c,AIH,Cholangiocyte,Stellate cell
+CD8+ T cell 3--Ig+ hepatocyte,hetero,32,34.129,-0.0901964841821353,0.667,0.394,1,0.724451612903226,-0.012572627679445,79,56784_c,AIH,CD8+ T cell 3,Ig+ hepatocyte
+CD8+ T cell 3--Sinusoidal endothelial cell,hetero,109,114.269,-0.0675010485665715,0.697,0.343,1,0.637532608695652,-0.0131503463249945,80,56784_c,AIH,CD8+ T cell 3,Sinusoidal endothelial cell
+CD4+ T cell--CD8+ T cell 1,hetero,1844,1919.415,-0.0577972934868241,0.972,0.03,1,0.0589655172413794,-0.070633980813338,81,56784_c,AIH,CD4+ T cell,CD8+ T cell 1
+CD8+ T cell 3--Hepatocyte 3,hetero,60,68.047,-0.178769489995404,0.859,0.177,1,0.332604395604396,-0.085231614340257,82,56784_c,AIH,CD8+ T cell 3,Hepatocyte 3
+Hepatocyte 4--Macrophage 1,hetero,988,1043.542,-0.0788280768139858,0.97,0.031,1,0.0602386363636364,-0.0956164461571511,83,56784_c,AIH,Hepatocyte 4,Macrophage 1
+CD8+ T cell 1--Stellate cell,hetero,2794,2921.009,-0.064112338685325,0.995,0.00600000000000001,1,0.0126666666666667,-0.119527030684289,84,56784_c,AIH,CD8+ T cell 1,Stellate cell
+Cholangiocyte--IgM+ B cell,hetero,236,262.916,-0.155191758084523,0.967,0.04,1,0.0768539325842697,-0.17206411994039,85,56784_c,AIH,Cholangiocyte,IgM+ B cell
+Hepatocyte 1--Macrophage 1,hetero,6046,6302.527,-0.0599397038447595,1,0,1,0,-0.179819111534278,86,56784_c,AIH,Hepatocyte 1,Macrophage 1
+CD8+ T cell 2--Ig+ hepatocyte,hetero,54,66.077,-0.286386547577016,0.953,0.0600000000000001,1,0.114,-0.269003502632764,87,56784_c,AIH,CD8+ T cell 2,Ig+ hepatocyte
+CD8+ T cell 3--IgG+ plasmablast / plasma cell,hetero,165,193.028,-0.225081619841693,0.979,0.025,1,0.0497093023255814,-0.291460972570484,88,56784_c,AIH,CD8+ T cell 3,IgG+ plasmablast / plasma cell
+Ig+ hepatocyte--Macrophage 2,hetero,190,221.372,-0.219402504097887,0.991,0.013,1,0.0264642857142857,-0.342538142601029,89,56784_c,AIH,Ig+ hepatocyte,Macrophage 2
+CD8+ T cell 1--Ig+ hepatocyte,hetero,302,347.949,-0.203698403700565,0.997,0.004,1,0.00876923076923078,-0.409462234121416,90,56784_c,AIH,CD8+ T cell 1,Ig+ hepatocyte
+CD8+ T cell 3--Hepatocyte 2,hetero,232,271.065,-0.223621417091235,0.995,0.00600000000000001,1,0.0126666666666667,-0.41690577087693,91,56784_c,AIH,CD8+ T cell 3,Hepatocyte 2
+CD8+ T cell 1--Hepatocyte 1,hetero,6309,6962.886,-0.142252580810938,1,0,1,0,-0.426757742432815,92,56784_c,AIH,CD8+ T cell 1,Hepatocyte 1
+CD8+ T cell 3--Stellate cell,hetero,243,284.094,-0.224556529294325,0.996,0.005,1,0.0108227848101266,-0.432783356071573,93,56784_c,AIH,CD8+ T cell 3,Stellate cell
+Hepatocyte 2--Macrophage 1,hetero,2280,2520.29,-0.144495620574451,1,0,1,0,-0.433486861723353,94,56784_c,AIH,Hepatocyte 2,Macrophage 1
+CD8+ T cell 3--Vascular endothelial cell,hetero,57,75.03,-0.390515890831812,0.986,0.019,1,0.0382235294117647,-0.549242375165133,95,56784_c,AIH,CD8+ T cell 3,Vascular endothelial cell
+CD8+ T cell 1--Hepatocyte 4,hetero,1011,1152.044,-0.188238277051665,1,0,1,0,-0.564714831154996,96,56784_c,AIH,CD8+ T cell 1,Hepatocyte 4
+CD8+ T cell 3--Hepatocyte 1,hetero,592,678.487,-0.196413844727728,1,0,1,0,-0.589241534183184,97,56784_c,AIH,CD8+ T cell 3,Hepatocyte 1
+CD8+ T cell 1--IgG+ plasmablast / plasma cell,hetero,1715,1973.584,-0.202499189387608,1,0,1,0,-0.607497568162825,98,56784_c,AIH,CD8+ T cell 1,IgG+ plasmablast / plasma cell
+CD8+ T cell 3--IgM+ B cell,hetero,64,84.662,-0.398215642912263,0.993,0.01,1,0.0206024096385542,-0.663227278316495,99,56784_c,AIH,CD8+ T cell 3,IgM+ B cell
+CD4+ T cell--CD8+ T cell 3,hetero,148,187.452,-0.338884775404091,0.997,0.003,1,0.00675000000000001,-0.715283518491946,100,56784_c,AIH,CD4+ T cell,CD8+ T cell 3
+Ig+ hepatocyte--Sinusoidal endothelial cell,hetero,62,84.652,-0.443135105453803,0.996,0.00700000000000001,1,0.0145975609756098,-0.800720013297554,101,56784_c,AIH,Ig+ hepatocyte,Sinusoidal endothelial cell
+CD8+ T cell 3--Macrophage 2,hetero,248,299.507,-0.271252855124515,1,0,1,0,-0.813758565373546,102,56784_c,AIH,CD8+ T cell 3,Macrophage 2
+Macrophage 1--Stellate cell,hetero,2157,2642.151,-0.292563981919875,1,0,1,0,-0.877691945759626,103,56784_c,AIH,Macrophage 1,Stellate cell
+Hepatocyte 3--Stellate cell,hetero,341,422.994,-0.310047524036989,1,0,1,0,-0.930142572110968,104,56784_c,AIH,Hepatocyte 3,Stellate cell
+Ig+ hepatocyte--Macrophage 1,hetero,249,314.641,-0.336356520650482,1,0,1,0,-1.00906956195145,105,56784_c,AIH,Ig+ hepatocyte,Macrophage 1
+Ig+ hepatocyte--Stellate cell,hetero,166,211.069,-0.344685642096881,1,0,1,0,-1.03405692629064,106,56784_c,AIH,Ig+ hepatocyte,Stellate cell
+CD8+ T cell 1--Hepatocyte 2,hetero,2108,2785.021,-0.401647037352312,1,0,1,0,-1.20494111205694,107,56784_c,AIH,CD8+ T cell 1,Hepatocyte 2
+Ig+ hepatocyte--Vascular endothelial cell,hetero,36,55.975,-0.622803748748985,0.997,0.004,1,0.00876923076923078,-1.25192249791423,108,56784_c,AIH,Ig+ hepatocyte,Vascular endothelial cell
+Hepatocyte 3--Macrophage 1,hetero,471,632.25,-0.42398831235066,1,0,1,0,-1.27196493705198,109,56784_c,AIH,Hepatocyte 3,Macrophage 1
+Macrophage 2--Sinusoidal endothelial cell,hetero,555,745.881,-0.425793514836787,1,0,1,0,-1.27738054451036,110,56784_c,AIH,Macrophage 2,Sinusoidal endothelial cell
+CD4+ T cell--Cholangiocyte,hetero,429,577.09,-0.426957456520007,1,0,1,0,-1.28087236956002,111,56784_c,AIH,CD4+ T cell,Cholangiocyte
+Hepatocyte 3--Macrophage 2,hetero,329,443.513,-0.429759587522714,1,0,1,0,-1.28927876256814,112,56784_c,AIH,Hepatocyte 3,Macrophage 2
+CD8+ T cell 1--Hepatocyte 3,hetero,507,697.906,-0.460269935065139,1,0,1,0,-1.38080980519542,113,56784_c,AIH,CD8+ T cell 1,Hepatocyte 3
+IgG+ plasmablast / plasma cell--Macrophage 1,hetero,1289,1789.926,-0.473334661603534,1,0,1,0,-1.4200039848106,114,56784_c,AIH,IgG+ plasmablast / plasma cell,Macrophage 1
+CD8+ T cell 3--Cholangiocyte,hetero,99,141.171,-0.507627214444225,1,0,1,0,-1.52288164333268,115,56784_c,AIH,CD8+ T cell 3,Cholangiocyte
+CD8+ T cell 1--IgM+ B cell,hetero,612,871.237,-0.508833116439626,1,0,1,0,-1.52649934931888,116,56784_c,AIH,CD8+ T cell 1,IgM+ B cell
+Cholangiocyte--Hepatocyte 3,hetero,146,210.154,-0.522479422058649,1,0,1,0,-1.56743826617595,117,56784_c,AIH,Cholangiocyte,Hepatocyte 3
+Hepatocyte 2--Stellate cell,hetero,1168,1682.488,-0.526178507718804,1,0,1,0,-1.57853552315641,118,56784_c,AIH,Hepatocyte 2,Stellate cell
+Hepatocyte 4--Stellate cell,hetero,482,696.357,-0.52987421921857,1,0,1,0,-1.58962265765571,119,56784_c,AIH,Hepatocyte 4,Stellate cell
+Hepatocyte 1--Stellate cell,hetero,2908,4210.409,-0.533779696289926,1,0,1,0,-1.60133908886978,120,56784_c,AIH,Hepatocyte 1,Stellate cell
+CD8+ T cell 2--Macrophage 2,hetero,384,584.774,-0.60548571377453,1,0,1,0,-1.81645714132359,121,56784_c,AIH,CD8+ T cell 2,Macrophage 2
+CD4+ T cell--Macrophage 1,hetero,1136,1736.28,-0.611598039862311,1,0,1,0,-1.83479411958693,122,56784_c,AIH,CD4+ T cell,Macrophage 1
+CD8+ T cell 2--Stellate cell,hetero,351,555.746,-0.66144385899397,1,0,1,0,-1.98433157698191,123,56784_c,AIH,CD8+ T cell 2,Stellate cell
+CD8+ T cell 1--Cholangiocyte,hetero,897,1457.398,-0.699597137946513,1,0,1,0,-2.09879141383954,124,56784_c,AIH,CD8+ T cell 1,Cholangiocyte
+CD8+ T cell 1--Vascular endothelial cell,hetero,472,770.792,-0.706371906155202,1,0,1,0,-2.11911571846561,125,56784_c,AIH,CD8+ T cell 1,Vascular endothelial cell
+Hepatocyte 4--Macrophage 2,hetero,447,732.655,-0.711603065391801,1,0,1,0,-2.1348091961754,126,56784_c,AIH,Hepatocyte 4,Macrophage 2
+Hepatocyte 2--Macrophage 2,hetero,1063,1768.061,-0.733485644436421,1,0,1,0,-2.20045693330926,127,56784_c,AIH,Hepatocyte 2,Macrophage 2
+CD4+ T cell--Ig+ hepatocyte,hetero,82,138.047,-0.744389376670023,1,0,1,0,-2.23316813001007,128,56784_c,AIH,CD4+ T cell,Ig+ hepatocyte
+Hepatocyte 1--Macrophage 2,hetero,2560,4427.232,-0.790023555562029,1,0,1,0,-2.37007066668609,129,56784_c,AIH,Hepatocyte 1,Macrophage 2
+IgM+ B cell--Macrophage 1,hetero,411,788.245,-0.937828878442654,1,0,1,0,-2.81348663532796,130,56784_c,AIH,IgM+ B cell,Macrophage 1
+Hepatocyte 3--IgG+ B cell,hetero,112,218.848,-0.960183635492511,1,0,1,0,-2.88055090647753,131,56784_c,AIH,Hepatocyte 3,IgG+ B cell
+CD8+ T cell 1--IgG+ B cell,hetero,775,1513.178,-0.964406254550634,1,0,1,0,-2.8932187636519,132,56784_c,AIH,CD8+ T cell 1,IgG+ B cell
+CD4+ T cell--Sinusoidal endothelial cell,hetero,220,465.419,-1.07758018960665,1,0,1,0,-3.23274056881995,133,56784_c,AIH,CD4+ T cell,Sinusoidal endothelial cell
+CD8+ T cell 3--IgG+ B cell,hetero,69,147.727,-1.08723975182826,1,0,1,0,-3.26171925548477,134,56784_c,AIH,CD8+ T cell 3,IgG+ B cell
+Sinusoidal endothelial cell--Vascular endothelial cell,hetero,83,187.32,-1.16472499248496,1,0,1,0,-3.49417497745488,135,56784_c,AIH,Sinusoidal endothelial cell,Vascular endothelial cell
+Cholangiocyte--Macrophage 1,hetero,529,1320.422,-1.31802700428159,1,0,1,0,-3.95408101284476,136,56784_c,AIH,Cholangiocyte,Macrophage 1
+Ig+ hepatocyte--IgM+ B cell,hetero,23,62.558,-1.40503932181867,1,0,1,0,-4.21511796545601,137,56784_c,AIH,Ig+ hepatocyte,IgM+ B cell
+CD4+ T cell--CD8+ T cell 2,hetero,137,364.577,-1.40550704018212,1,0,1,0,-4.21652112054637,138,56784_c,AIH,CD4+ T cell,CD8+ T cell 2
+Macrophage 1--Vascular endothelial cell,hetero,263,698.803,-1.40641091972659,1,0,1,0,-4.21923275917978,139,56784_c,AIH,Macrophage 1,Vascular endothelial cell
+IgM+ B cell--Sinusoidal endothelial cell,hetero,79,211.665,-1.41051071172458,1,0,1,0,-4.23153213517374,140,56784_c,AIH,IgM+ B cell,Sinusoidal endothelial cell
+CD8+ T cell 2--Cholangiocyte,hetero,102,277.012,-1.43250281880235,1,0,1,0,-4.29750845640706,141,56784_c,AIH,CD8+ T cell 2,Cholangiocyte
+Cholangiocyte--Sinusoidal endothelial cell,hetero,129,353.572,-1.44756699009487,1,0,1,0,-4.3427009702846,142,56784_c,AIH,Cholangiocyte,Sinusoidal endothelial cell
+Hepatocyte 3--Vascular endothelial cell,hetero,39,111.835,-1.49614273792787,1,0,1,0,-4.4884282137836,143,56784_c,AIH,Hepatocyte 3,Vascular endothelial cell
+Cholangiocyte--Hepatocyte 1,hetero,732,2101.793,-1.52042173396268,1,0,1,0,-4.56126520188804,144,56784_c,AIH,Cholangiocyte,Hepatocyte 1
+CD4+ T cell--Hepatocyte 3,hetero,96,277.625,-1.52226805907262,1,0,1,0,-4.56680417721787,145,56784_c,AIH,CD4+ T cell,Hepatocyte 3
+Hepatocyte 3--IgM+ B cell,hetero,40,125.858,-1.62951868758095,1,0,1,0,-4.88855606274286,146,56784_c,AIH,Hepatocyte 3,IgM+ B cell
+IgG+ B cell--Macrophage 1,hetero,433,1369.46,-1.65889327265142,1,0,1,0,-4.97667981795426,147,56784_c,AIH,IgG+ B cell,Macrophage 1
+Cholangiocyte--Hepatocyte 2,hetero,252,839.66,-1.73238504398681,1,0,1,0,-5.19715513196043,148,56784_c,AIH,Cholangiocyte,Hepatocyte 2
+CD4+ T cell--Hepatocyte 1,hetero,824,2759.061,-1.74223412783127,1,0,1,0,-5.2267023834938,149,56784_c,AIH,CD4+ T cell,Hepatocyte 1
+CD8+ T cell 2--IgM+ B cell,hetero,48,164.876,-1.75925150871206,1,0,1,0,-5.27775452613618,150,56784_c,AIH,CD8+ T cell 2,IgM+ B cell
+IgG+ plasmablast / plasma cell--Sinusoidal endothelial cell,hetero,136,479.864,-1.81145302935644,1,0,1,0,-5.43435908806933,151,56784_c,AIH,IgG+ plasmablast / plasma cell,Sinusoidal endothelial cell
+CD4+ T cell--Hepatocyte 4,hetero,120,456.608,-1.91910522633724,1,0,1,0,-5.75731567901171,152,56784_c,AIH,CD4+ T cell,Hepatocyte 4
+Hepatocyte 1--IgG+ plasmablast / plasma cell,hetero,732,2845.795,-1.95745350371741,1,0,1,0,-5.87236051115222,153,56784_c,AIH,Hepatocyte 1,IgG+ plasmablast / plasma cell
+Cholangiocyte--Hepatocyte 4,hetero,88,347.275,-1.9683496754008,1,0,1,0,-5.9050490262024,154,56784_c,AIH,Cholangiocyte,Hepatocyte 4
+Hepatocyte 3--IgG+ plasmablast / plasma cell,hetero,65,285.418,-2.11758423234358,1,0,1,0,-6.35275269703075,155,56784_c,AIH,Hepatocyte 3,IgG+ plasmablast / plasma cell
+CD4+ T cell--Hepatocyte 2,hetero,254,1106.195,-2.1183401808151,1,0,1,0,-6.35502054244529,156,56784_c,AIH,CD4+ T cell,Hepatocyte 2
+IgG+ B cell--Sinusoidal endothelial cell,hetero,75,367.56,-2.2778281793859,1,0,1,0,-6.8334845381577,157,56784_c,AIH,IgG+ B cell,Sinusoidal endothelial cell
+CD8+ T cell 2--IgG+ plasmablast / plasma cell,hetero,73,375.229,-2.34601388125698,1,0,1,0,-7.03804164377094,158,56784_c,AIH,CD8+ T cell 2,IgG+ plasmablast / plasma cell
+Hepatocyte 4--IgG+ plasmablast / plasma cell,hetero,91,469.919,-2.35577316542883,1,0,1,0,-7.06731949628649,159,56784_c,AIH,Hepatocyte 4,IgG+ plasmablast / plasma cell
+Hepatocyte 1--IgM+ B cell,hetero,209,1254.958,-2.58032698743184,1,0,1,0,-7.74098096229552,160,56784_c,AIH,Hepatocyte 1,IgM+ B cell
+Hepatocyte 2--IgG+ plasmablast / plasma cell,hetero,180,1139.897,-2.65610694880522,1,0,1,0,-7.96832084641566,161,56784_c,AIH,Hepatocyte 2,IgG+ plasmablast / plasma cell
+Hepatocyte 4--IgG+ B cell,hetero,52,359.36,-2.76537461594038,1,0,1,0,-8.29612384782115,162,56784_c,AIH,Hepatocyte 4,IgG+ B cell
+Hepatocyte 2--IgM+ B cell,hetero,70,502.388,-2.82577989553564,1,0,1,0,-8.47733968660693,163,56784_c,AIH,Hepatocyte 2,IgM+ B cell
+Hepatocyte 1--IgG+ B cell,hetero,302,2178.501,-2.84660816681943,1,0,1,0,-8.5398245004583,164,56784_c,AIH,Hepatocyte 1,IgG+ B cell
+Hepatocyte 4--IgM+ B cell,hetero,26,207.498,-2.94900223241347,1,0,1,0,-8.84700669724041,165,56784_c,AIH,Hepatocyte 4,IgM+ B cell
+Hepatocyte 4--Vascular endothelial cell,hetero,21,184.383,-3.07493352308256,1,0,1,0,-9.22480056924769,166,56784_c,AIH,Hepatocyte 4,Vascular endothelial cell
+Hepatocyte 2--IgG+ B cell,hetero,99,871.616,-3.12534692673874,1,0,1,0,-9.37604078021623,167,56784_c,AIH,Hepatocyte 2,IgG+ B cell
+Hepatocyte 1--Vascular endothelial cell,hetero,120,1111.672,-3.20094941660511,1,0,1,0,-9.60284824981534,168,56784_c,AIH,Hepatocyte 1,Vascular endothelial cell
+CD8+ T cell 2--IgG+ B cell,hetero,26,287.476,-3.41741998526449,1,0,1,0,-10.2522599557935,169,56784_c,AIH,CD8+ T cell 2,IgG+ B cell
+CD8+ T cell 2--Vascular endothelial cell,hetero,12,146.896,-3.50799950542152,1,0,1,0,-10.5239985162646,170,56784_c,AIH,CD8+ T cell 2,Vascular endothelial cell
+Hepatocyte 2--Vascular endothelial cell,hetero,36,445.3,-3.59241663073554,1,0,1,0,-10.7772498922066,171,56784_c,AIH,Hepatocyte 2,Vascular endothelial cell
