@@ -62,7 +62,7 @@ Conceptualisation: G.Z., A.Ba. and L.F. Methodology: L.F., M.D., F.R. and M.S. S
 
 ## Data availability
 
-Raw Xenium output (TIFF pyramids, transcript and cell-boundary parquet files, gene panel metadata) is being deposited at the Gene Expression Omnibus (GEO); deposition is ongoing and the accession number will be added on completion. Processed data (Giotto session snapshot, per-cluster marker tables, CellChat / LIANA+ / COMMOT outputs) and analysis scripts are available at https://github.com/GabrieleZoppoli/irhepatitis-xenium under the MIT license, with a citable Zenodo release in preparation (DOI to follow); the repository provides the analysis code and reproduction instructions.
+Raw Xenium output (TIFF pyramids, transcript and cell-boundary parquet files, gene panel metadata) is being deposited at the Gene Expression Omnibus (GEO); deposition is ongoing and the accession number will be added on completion. Processed data (Giotto session snapshot, per-cluster marker tables, CellChat / LIANA+ / COMMOT outputs) and analysis scripts are available at https://github.com/GabrieleZoppoli/irhepatitis-xenium under the MIT license, with the processed data and analysis snapshot archived at Zenodo (DOI: 10.5281/zenodo.21453827); the repository provides the analysis code and reproduction instructions.
 
 ## Code availability
 
