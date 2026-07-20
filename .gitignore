@@ -102,3 +102,6 @@ data/processed/cellchat/per_sample/
 # sheet is the tracked exception.
 tables/supplementary/*.xlsx
 !tables/supplementary/Table_S1_per_patient_clinical.xlsx
+
+# submission-staging folder (kept local + on Drive, not in the public repo)
+submission/
