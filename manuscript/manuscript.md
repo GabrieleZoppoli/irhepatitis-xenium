@@ -46,7 +46,7 @@ Claude (Anthropic) assisted with code development, figure assembly and drafting 
 
 ## Funding
 
-*[To be completed]*
+This work was supported by an Associazione Italiana per la Ricerca sul Cancro (AIRC) Investigator Grant to G.Z. (IG [number]); by Italian Ministry of Health 5×1000 and Ricerca Corrente funds to IRCCS Ospedale Policlinico San Martino; by University of Genoa PRIN-project overhead funds; and by a philanthropic donation from Rimorchiatori Riuniti. The funders had no role in study design, data analysis, interpretation, or the decision to submit the work for publication.
 
 ## Conflict of interest
 

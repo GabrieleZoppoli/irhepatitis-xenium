@@ -72,8 +72,8 @@ Two conda environments under `scripts/env/`:
 
 | Tier | Content | Location | Status |
 |---|---|---|---|
-| Raw | Xenium output per sample (TIFF pyramids, transcripts, cell boundaries, gene panel) — ~13 GB/sample × 4 samples | GEO accession | deposition ongoing |
-| Processed (large) | Giotto session snapshot (~580 MB), per-sample CellChat / LIANA+ / COMMOT outputs | Zenodo DOI | deposition ongoing |
+| Raw | Xenium output per sample (TIFF pyramids, transcripts, cell boundaries, gene panel) — ~13 GB/sample × 4 samples | GEO accession | submitted 2026-07-20, GSE pending |
+| Processed (large) | Giotto session snapshot (~580 MB), per-sample CellChat / LIANA+ / COMMOT outputs | Zenodo DOI | 10.5281/zenodo.21453827 (embargoed to 2027-07-20) |
 | Processed (small) | Aggregated CSV tables, H&E overview PNGs, supplementary figure source PDFs | this repo (`data/processed/`, `figures/`) | live |
 
 `.gitignore` excludes `data/raw/`, `data/processed/session_snapshot.RData`, and other large `.rds`/`.RData` binaries.
