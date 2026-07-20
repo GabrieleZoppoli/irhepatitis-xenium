@@ -2,7 +2,7 @@
 
 **A bile-duct CD8/CXCR3 axis characterises steroid-resistant checkpoint-inhibitor hepatitis**
 
-Corresponding author: Gabriele Zoppoli (Department of Internal Medicine, University of Genoa, and Azienda Ospedaliera Metropolitana IRCCS Ospedale Policlinico San Martino, Genoa, Italy).
+Corresponding author: Gabriele Zoppoli (Department of Internal Medicine and Medical Specialties, University of Genoa, and Azienda Ospedaliera Metropolitana IRCCS Ospedale Policlinico San Martino, Genoa, Italy).
 
 Contents:
 1. Supplementary Methods (extended methodology not in main Methods)
