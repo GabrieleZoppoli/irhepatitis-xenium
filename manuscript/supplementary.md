@@ -16,7 +16,7 @@ Contents:
 
 ### 1.1 Cross-method validation of cell–cell communication: extended detail
 
-CellChat v2 inferences (Figure 2B; full coherent set in **Supplementary Table S5**) were cross-validated by two independent computational approaches operating on the same per-sample data.
+CellChat v2 inferences (Figure 2B; full coherent set in **Supplementary Table S5**) were cross-referenced against two independent computational approaches operating on the same per-sample data.
 
 **LIANA+ consensus.** Per-sample expression-only communication scoring was performed with LIANA+ (v1.x) using five orthogonal scoring methods (NATMI, Connectome, logFC, SingleCellSignalR (SCA) and CellPhoneDB) against the LIANA Consensus database with Robust Rank Aggregation; cross-method per-pair ranks are in **Supplementary Table S6**.
 
@@ -58,7 +58,7 @@ To document the robustness of the 18 active clusters used downstream, the Leiden
 
 ### 2.1 Cross-method agreement at the lineage and L–R levels
 
-LIANA+ and COMMOT both reproduced the dominant lineage-level architectures of Figure 2B at the cell-class level: bile-duct CD8 axis in SR-irHep and parenchymal CD4 axes in AIH (**Supplementary Tables S5–S6**; **Supplementary Fig. S1**). Of the 13 testable CellChat-coherent flows (ligand and receptor both with non-zero expression in the relevant clusters), 8 were confirmed by LIANA+ at Robust Rank Aggregation rank in the top decile of the corresponding cell-pair distribution. Of 17 L–R × direction triples testable by both CellChat and COMMOT, 9 agreed in direction; the 8 disagreements clustered on FN1 and CSF1 axes, where the longer COMMOT distance scale (250 µm diffusion) captures matrix-deposition and cytokine-diffusion patterns that lie outside the 25 µm CellChat contact range, a difference of spatial scale rather than of biological conclusion. The triple-method-confirmed core (CellChat ∩ LIANA+ ∩ COMMOT, same direction) comprised 2 of 47 CellChat-coherent triples, both CCL3/4/5 → CCR1 axes (vascular and sinusoidal endothelial → CD8T2 in SR-irHep; sinusoidal endothelial → IgM⁺ B cells in AIH); cross-method convergence is therefore at the broad lineage-level architecture rather than at individual L–R directionality.
+LIANA+ and COMMOT both showed lineage-level concordance with the dominant architectures of Figure 2B at the cell-class level: bile-duct CD8 axis in SR-irHep and parenchymal CD4 axes in AIH (**Supplementary Tables S5–S6**; **Supplementary Fig. S1**). Of the 13 testable CellChat-coherent flows (ligand and receptor both with non-zero expression in the relevant clusters), 8 were confirmed by LIANA+ at Robust Rank Aggregation rank in the top decile of the corresponding cell-pair distribution. Of 17 L–R × direction triples testable by both CellChat and COMMOT, 9 agreed in direction; the 8 disagreements clustered on FN1 and CSF1 axes, where the longer COMMOT distance scale (250 µm diffusion) captures matrix-deposition and cytokine-diffusion patterns that lie outside the 25 µm CellChat contact range, a difference of spatial scale rather than of biological conclusion. The triple-method-confirmed core (CellChat ∩ LIANA+ ∩ COMMOT, same direction) comprised 2 of 47 CellChat-coherent triples, both CCL3/4/5 → CCR1 axes (vascular and sinusoidal endothelial → CD8T2 in SR-irHep; sinusoidal endothelial → IgM⁺ B cells in AIH); cross-method convergence is therefore at the broad lineage-level architecture rather than at individual L–R directionality.
 
 ### 2.2 Cluster-size sensitivity
 
