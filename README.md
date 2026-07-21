@@ -20,7 +20,7 @@ irhepatitis-xenium/
 │   └── run_full_pipeline.sh        # sequential launcher
 └── data/
     ├── data_architecture.md
-    ├── raw/                        # symlinks; raw data being deposited at GEO (ongoing)
+    ├── raw/                        # symlinks; raw data at GEO under GSE339299 (private until publication)
     └── processed/                  # tracked CSVs / panel sources; session snapshot at Zenodo
 ```
 
@@ -72,7 +72,7 @@ Two conda environments under `scripts/env/`:
 
 | Tier | Content | Location | Status |
 |---|---|---|---|
-| Raw | Xenium output per sample (TIFF pyramids, transcripts, cell boundaries, gene panel) — ~13 GB/sample × 4 samples | GEO accession | submitted 2026-07-20, GSE pending |
+| Raw | Xenium output per sample (TIFF pyramids, transcripts, cell boundaries, gene panel) — ~13 GB/sample × 4 samples | GEO accession | GSE339299 (private, release 2027-07-20) |
 | Processed (large) | Giotto session snapshot (~580 MB), per-sample CellChat / LIANA+ / COMMOT outputs | Zenodo DOI | 10.5281/zenodo.21453827 (embargoed to 2027-07-20) |
 | Processed (small) | Aggregated CSV tables, H&E overview PNGs, supplementary figure source PDFs | this repo (`data/processed/`, `figures/`) | live |
 
