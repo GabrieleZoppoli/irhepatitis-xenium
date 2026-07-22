@@ -1,29 +1,40 @@
+# R analysis environment for the SR-irHep vs AIH Xenium study.
+#
+# Reproducibility note: this file bootstraps the base R environment via conda with
+# exact version pins. The Giotto suite, CellChat and LIANA+ are GitHub dev builds
+# that conda cannot provide; install them from the EXACT commits listed at the
+# bottom. The authoritative, complete record of every R package version actually
+# used (484 packages) is in scripts/env/R_session_packages.tsv, with the full
+# sessionInfo in scripts/env/R_sessionInfo.txt.
+#
+# R 4.5.2 · Bioconductor 3.22 · platform x86_64-conda-linux-gnu
 name: xenium_env
 channels:
   - conda-forge
   - bioconda
 dependencies:
   - r-base=4.5.2
-  - r-data.table
-  - r-ggplot2
-  - r-cowplot
-  - r-patchwork
-  - r-magick
-  - r-arrow
-  - r-fnn
-  - r-here
-  - r-png
-  - r-jsonlite
-  - r-ggalluvial
-  - r-scales
-  - r-rcolorbrewer
-  - r-irlba
-  - r-uwot
-  - r-igraph
+  - r-data.table=1.18.2.1
+  - r-ggplot2=4.0.2
+  - r-cowplot=1.2.0
+  - r-patchwork=1.3.2
+  - r-magick=2.9.1
+  - r-arrow=22.0.0
+  - r-fnn=1.1.4.1
+  - r-here=1.0.2
+  - r-png=0.1-9
+  - r-jsonlite=2.0.0
+  - r-ggalluvial=0.12.6
+  - r-scales=1.4.0
+  - r-rcolorbrewer=1.1-3
+  - r-irlba=2.3.7
+  - r-uwot=0.2.4
+  - r-igraph=2.2.2
   - r-leiden
-  - r-future
-  - r-remotes
-  - r-biocmanager
+  - r-future=1.70.0
+  - r-remotes=2.5.0
+  - r-biocmanager=1.30.27
+  - r-reticulate=1.45.0
   # System libs needed by Giotto / CellChat / sf
   - libcurl
   - openssl
@@ -32,9 +43,29 @@ dependencies:
   - hdf5
   - imagemagick
   - tifffile
-  # Python interop
+  # Python interop (see commot_env.yml for the COMMOT/Python side)
   - python>=3.10
-  - r-reticulate
-# Bioconductor + GitHub-only packages — install in R with:
-#   BiocManager::install(c("Giotto", "GiottoClass", "CellChat"))
-#   remotes::install_github("saezlab/liana")
+
+# -----------------------------------------------------------------------------
+# After creating the env, install the GitHub / Bioconductor packages by EXACT
+# version in R. These are NOT available on conda and are not reproducible from an
+# unpinned BiocManager::install — the commits below are the ones actually used.
+#
+#   library(remotes)
+#   # Bioconductor 3.22 (pins scran 1.38.1, scuttle 1.20.0, SingleCellExperiment 1.32.0, ...)
+#   BiocManager::install(version = "3.22")
+#   BiocManager::install(c("scran", "scuttle", "SingleCellExperiment"))
+#   # Giotto suite (dev builds; install dependencies first, in this order)
+#   install_github("drieslab/GiottoUtils@1ce82e5303b0")     # 0.2.5
+#   install_github("drieslab/GiottoClass@15627a29bcda")     # 0.4.10
+#   install_github("drieslab/GiottoVisuals@556d75352a20")   # 0.2.14
+#   install_github("drieslab/Giotto@d95faac6caed")          # 4.2.2
+#   # CellChat v2 dev build (+ presto/NMF dependencies)
+#   install_github("immunogenomics/presto@7636b3d0465c")    # 1.0.0
+#   install_github("jinworks/CellChat@75253cd0c9e6")        # 2.2.0.9001
+#   # LIANA+ (R)
+#   install_github("saezlab/liana@6cab46c54234")            # 0.1.14
+#
+# For any other package, match scripts/env/R_session_packages.tsv, e.g.
+#   remotes::install_version("<pkg>", version = "<version>").
+# -----------------------------------------------------------------------------

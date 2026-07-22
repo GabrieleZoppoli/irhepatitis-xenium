@@ -66,7 +66,7 @@ Raw Xenium output (TIFF pyramids, transcript and cell-boundary parquet files, ge
 
 ## Code availability
 
-All R and Python analysis scripts (Giotto loading and clustering, proximity permutation, CellChat / LIANA+ / COMMOT, ROI selection and figure assembly) are at the same repository, with conda environment specifications under `scripts/env/` (`xenium_env.yml` for R, `commot_env.yml` for Python).
+All R and Python analysis scripts (Giotto loading and clustering, proximity permutation, CellChat / LIANA+ / COMMOT, ROI selection and figure assembly) are at the same repository, with conda environment specifications under `scripts/env/` (`xenium_env.yml` for R, `commot_env.yml` for Python); package versions are pinned exactly, including the GitHub commits for the Giotto suite, CellChat and LIANA+, and a complete R-package manifest is provided (`scripts/env/R_session_packages.tsv`).
 
 ## Figures
 
@@ -170,4 +170,4 @@ Four representative 120 × 120 µm regions of interest (ROIs) were rendered to g
 
 ## Software, data and code availability
 
-All analyses were performed in R 4.5.2 (Giotto 4.2.2, GiottoClass, CellChat 2.x, scran, ggalluvial, ggplot2, cowplot, magick, FNN, arrow, data.table) and Python 3.10+ (commot 0.0.3, anndata, tifffile, scipy.ndimage, PIL). Conda environment specifications for both languages and an end-to-end pipeline launcher are deposited with the analysis repository. Random seeds are fixed for the Leiden clustering, the proximity-permutation step and ROI arrow jitter; all other steps are deterministic.
+All analyses were performed in R 4.5.2 (Giotto 4.2.2, GiottoClass, CellChat 2.x, scran, ggalluvial, ggplot2, cowplot, magick, FNN, arrow, data.table) and Python 3.10+ (commot 0.0.3, anndata, tifffile, scipy.ndimage, PIL). Version-pinned conda environment specifications for both languages, an exact R-package manifest (including the GitHub commits for the Giotto suite, CellChat and LIANA+), and an end-to-end pipeline launcher are deposited with the analysis repository. Random seeds are fixed for the Leiden clustering, the proximity-permutation step and ROI arrow jitter; all other steps are deterministic.
